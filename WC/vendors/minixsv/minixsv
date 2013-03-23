@@ -1,0 +1,3 @@
+#!/usr/local/bin/python
+from vendors.minixsv import minixsvWrapper
+minixsvWrapper.main()

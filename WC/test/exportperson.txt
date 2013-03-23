@@ -1,0 +1,148 @@
+<WC_main>
+<people>
+<person>
+<uniqueID>p1</uniqueID>
+<name>George W. Bush</name>
+<category>President of The USA</category>
+<location>Washington D.C. USA</location>
+<summary>
+The airborne terrorist attacks on the World Trade Center, the Pentagon, and the thwarted flight against the White House of Capitol on September 11, 2001, in which nearly 3,000 Americans were killed, transformed George W. Bush into a wartime president. The attacks put on hold many of Bush’s hopes and plans, and Bush’s father, George Bush, the 41st president, declared that his son “faced the greatest challenge of any president since Abraham Lincoln.” In response, Bush formed a new cabinet-level Department of Homeland Security, sent American forces into Afghanistan to break up the Taliban, a movement under Osama bin Laden that trained financed and exported terrorist teams. The Taliban was successfully disrupted but Bin Laden was not captured and was still on the loose as Bush began his second term. Following the attacks, the president also recast the nation’s intelligence gathering and analysis services, and ordered reform of the military forces to meet the new enemy. At the same time he delivered major tax cuts which had been a campaign pledge. His most controversial act was the invasion of Iraq on the belief that Iraqi President Saddam Hussein posed a grave threat to the United States. Saddam was captured, but the disruption of Iraq and the killing of American servicemen and friendly Iraqis by insurgents became the challenge of Bush’s government as he began his second term. President Bush pledged during his 2005 State of the Union Address that the United States would help the Iraqi people establish a fully democratic government because the victory of freedom in Iraq would strengthen a new ally in the war on terror, bring hope to a troubled region, and lift a threat from the lives of future generations. Bush was born in New Haven, Connecticut while his father was attending Yale University after service in World War II. The family moved to Midland, Texas, where the senior Bush entered the oil exploration business. The son spent formative years there, attended Midland public schools, and formed friendships that stayed with him into the White House. Bush graduated from Yale, received a business degree from Harvard, and then returned to Midland where he too got into the oil business. In Midland he met and married Laura Welch, a teacher and librarian. They had twin daughters, Jenna and Barbara, now out of college and pursuing careers. When George W. Bush, at the age of 54, became the 43rd president of the United States, it was only the second time in American history that a president’s son went on to the White House. John Quincy Adams, elected the sixth president in 1824, was the son of John Adams, the second president. While John Adams had groomed his son to be president, George Bush, the 41st president, insisted he was surprised when the eldest of his six children became interested in politics, became governor of Texas, and then went on to the White House. During the early part of the 2000 campaign for the White House, Bush enjoyed a double-digit lead in the polls over his opponent Vice President Al Gore Jr. But the gap closed as the election approached and though Gore finally won the popular vote by 543,895 votes, victory or loss of the presidency hinged on Florida’s electoral votes. That struggle through recounts and lawsuits worked its way to the Supreme Court. In the end Bush won the electoral count 271 to 266. His new administration was focused on “compassionate conservatism,” which embraced excellence in education, tax relief and volunteerism among faith-based and community organizations. Bush was challenged in his re-election bid in 2004 by Massachusetts Democratic Senator John Kerry. The election was a good contest, but Bush’s contention that the invasion of Iraq had made the world more secure against terrorism won the national political debate. Bush was re-elected with 51 percent to 48 percent. On the inaugural stand, George W. Bush set the theme for his second term: “At this second gathering, our duties are defined not by the words I use, but by the history we have seen together. For half a century, America defended our own freedom by standing watch on distant borders. After the shipwreck of communism came years of relative quiet- and then there came a day of fire. There is only one force of history that can break the reign of hatred and resentment, and expose the pretensions of tyrants, and reward the hopes of the decent and tolerant, and that is the force of human freedom – tested but not weary… we are ready for the greatest achievements in the history of freedom.” The Presidential biographies on WhiteHouse.gov are from “The Presidents of the United States of America,” by Michael Beschloss and Hugh Sidey. Copyright 2009 by the White House Historical Association.
+</summary>
+<image_link>
+<URL>
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/225px-George-W-Bush.jpeg
+</URL>
+</image_link>
+<video_link>
+<URL>http://www.youtube.com/embed/4RbAZj9RB94</URL>
+</video_link>
+<external_link>
+<URL>http://www.bushcenter.com/</URL>
+</external_link>
+<organization_link>o4</organization_link>
+<crisis_link>c3</crisis_link>
+</person>
+<person>
+<uniqueID>p2</uniqueID>
+<name>Bill Clinton</name>
+<category>Former president of the USA</category>
+<location>Washington D.C.</location>
+<summary>
+lliam Jefferson "Bill" Clinton (born William Jefferson Blythe III; August 19, 1946) is an American politician who served as the 42nd President of the United States from 1993 to 2001. Inaugurated at age 46, he was the third-youngest president. He took office at the end of the Cold War, and was the first president of the baby boomer generation. On the Izmit Earthquake “We were so impressed that a total of 87 other countries came forward to help the people of Turkey who were hurt in the earthquake. And we were very grateful that one of the countries that came forward to help was your neighbor Greece. And then, when the Greeks had their earthquake, the Turkish people came forward to help them. I hope the ordinary people in Greece and Turkey who have suffered from these terrible natural disasters can send a clear message to the leaders that the people of this region can get along, and they should get along, and when they do get along, our children's lives and futures are better. Now, in the meanwhile, I want you to know that we in the United States will do everything we can to help you until your lives return to normal. And we will help those people in the area hit by the most recent earthquake. We will stay with you and work with you. And I just want to urge you to keep your spirits up, keep the smiles on your children's faces, keep helping the people who lost their loved ones in the earthquake, and know that together we will get through this to better days.
+</summary>
+<image_link>
+<URL>
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/220px-Bill_Clinton.jpg
+</URL>
+</image_link>
+<image_link>
+<URL>
+http://photos.state.gov/galleries/ankara/9104/between_friends_photo_exhibit/clinton_and_kids.jpg
+</URL>
+</image_link>
+<video_link>
+<URL>
+http://www.youtube.com/watch?feature=player_embedded&v=khiF5CU3z6M
+</URL>
+</video_link>
+<map_link>
+<URL>
+https://maps.google.com/maps?hl=en&q=bill+clinton+map&ie=UTF-8&ei=cD6GUNbOMaGQ2gXk6YC4Bw&ved=0CAgQ_AUoAg
+</URL>
+</map_link>
+<social_link>
+<URL>http://www.facebook.com/billclinton</URL>
+</social_link>
+<citation_link>
+<URL>http://www.google.com/</URL>
+</citation_link>
+<external_link>
+<URL>http://en.wikipedia.org/wiki/Clinton_Foundation</URL>
+</external_link>
+<organization_link>o1 o4</organization_link>
+<crisis_link>c2</crisis_link>
+</person>
+<person>
+<uniqueID>p3</uniqueID>
+<name>Vladimir Putin</name>
+<category>President of the Russian Federation</category>
+<location>Moscow, Russian Federation</location>
+<summary>
+Vladimir Putin, in full Vladimir Vladimirovich Putin (born October 7, 1952, Leningrad, Russia, U.S.S.R. [now St. Petersburg, Russia]), Russian intelligence officer and politician who served as president (1999–2008, 2012– ) of Russia and also was the country’s prime minister (1999, 2008–12). Putin studied law at Leningrad State University, where his tutor was Anatoly Sobchak, later one of the leading reform politicians of the perestroika period. Putin served 15 years as a foreign intelligence officer for the KGB (Committee for State Security), including six years in Dresden, East Germany. Putin has been widely credited for overseeing a return of political stability and economic progress to Russia, ending the crisis of the 1990s. During Putin's first premiership and presidency (1999–2008), real incomes increased by a factor of 2.5, real wages more than tripled; unemployment and poverty more than halved and the Russians' self-assessed life satisfaction rose significantly. Putin's first presidency was marked by high economic growth: the Russian economy grew for eight straight years, seeing GDP increase by 72% in PPP (sixfold in nominal). These achievements have been ascribed by analysts to good macroeconomic management, important fiscal reforms, increasing capital inflows, access to low-cost external financing and a five - fold increase in the price of oil and gas which constitute the majority of Russian exports.
+</summary>
+<image_link>
+<URL>
+http://www.csmonitor.com/var/ezflow_site/storage/images/media/images/1230-russia-putin-400x600/7165437-1-eng-US/1230-Russia-Putin-400x600_full_600.jpg
+</URL>
+</image_link>
+<image_link>
+<URL>
+http://www.xtimeline.com/__UserPic_Large/4316/ELT200801170729478882525.JPG
+</URL>
+</image_link>
+<image_link>
+<URL>
+http://media.web.britannica.com/eb-media/83/90083-004-1B3301F0.jpg
+</URL>
+</image_link>
+<video_link>
+<URL>http://www.youtube.com/watch?v=TNiWnSOsAnE</URL>
+</video_link>
+<video_link>
+<URL>http://www.youtube.com/watch?v=ZR84oXysqoA</URL>
+</video_link>
+<social_link>
+<URL>http://twitter.com/kremlinrussia_e</URL>
+</social_link>
+<citation_link>
+<URL>http://en.wikiquote.org/wiki/Vladimir_Putin</URL>
+</citation_link>
+<external_link>
+<URL>
+http://www.britannica.com/EBchecked/topic/484357/Vladimir-Putin
+</URL>
+</external_link>
+<organization_link>o3</organization_link>
+<crisis_link>c1</crisis_link>
+</person>
+<person>
+<uniqueID>p4</uniqueID>
+<name>Yao Ming</name>
+<category>Basketball player</category>
+<location>Houston, USA</location>
+<summary>
+The 7-foot 6-inch Yao Ming was drafted by the Houston Rockets as the first pick in the 2002 NBA draft. That season he was an All-Star and was on the league's All-Rookie team. Yao earned all-star honors in each of the following six seasons and helped the Rockets to playoff appearances in five of those years. Yao soon became the focus of the NBA's efforts to popularize the league around the globe. In June of 2008, he started the Yao Ming Foundation in response to the earthquake in the Sichuan Province of China.
+</summary>
+<image_link>
+<URL>
+http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/YaoMingonoffense2.jpg/399px-YaoMingonoffense2.jpg
+</URL>
+</image_link>
+<image_link>
+<URL>
+http://saceweb.com/yahoo_site_admin/assets/images/Yaoming_Earthquate_Donation_resize.13594706.JPG
+</URL>
+</image_link>
+<video_link>
+<URL>https://www.youtube.com/watch?v=NJtmLcwNcZg</URL>
+</video_link>
+<video_link>
+<URL>https://www.youtube.com/watch?v=T8RvV1m19BI</URL>
+</video_link>
+<video_link>
+<URL>https://www.youtube.com/watch?v=r8STO24L_NY</URL>
+</video_link>
+<map_link>
+<URL>http://www.google.com/</URL>
+</map_link>
+<social_link>
+<URL>https://twitter.com/YaoMing</URL>
+</social_link>
+<external_link>
+<URL>http://en.wikipedia.org/wiki/Yao_Ming</URL>
+</external_link>
+<organization_link>o2</organization_link>
+<crisis_link>c4</crisis_link>
+</person>
+</people>
+</WC_main>

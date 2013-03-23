@@ -1,0 +1,208 @@
+/*
+#teamwork is the widgets container element. We set its main styles here, and also any
+styles for classes that are added dynamically based on the grid's state, eg
+animating & selected. 
+*/
+#teamwork{
+	text-align:left;
+	color:#222;
+	line-height:1.5em;
+}
+#teamwork .button:hover,
+#teamwork .wide-button:hover,
+#teamwork .one-third-tile:hover,
+#teamwork .half-tile:hover,
+#teamwork .tile:hover{
+    border:1px solid #ccc;
+}
+#teamwork.animating .selected{
+    border-color:#fff;
+    box-shadow:0 0 10px #fff;
+}
+#teamwork.animating .button .heading,
+#teamwork.animating .wide-button .heading,
+#teamwork.animating .subheading {
+    display:none;
+}
+
+/* the 'close tile' button */
+#teamwork  .closeBtn{
+	position:absolute;
+	right:10px;
+	top:10px;
+	background-color:#000033;
+	font-weight:bold;
+	text-decoration:none;
+	color:#fff;
+	display:block;
+	font-size:12px;
+	padding:3px;
+	line-height:1em;
+	width:1em;
+	text-align:center;
+}
+
+/* 
+tiles 
+- 	each tile is given a unique background color
+- 	The icon elements a are larger than the tiles, and with the CSS position set to
+	absolute, the icons will overflow past the tile borders. This is allowed for the
+	3-column grid, and for the 1 & 2 column grids we use clipping to contain the icons.
+*/
+#teamwork .shufflingTiles-tile{
+	margin:0px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+#teamwork.columns-1 .open-tile{
+	clip:rect(0px,768px,297px,0px);
+}
+#teamwork.columns-2 .open-tile{
+	clip:rect(0px,506px,474px,0px);
+}
+#teamwork .tile1{
+	background-color:#abb8cf;
+}
+#teamwork .tile2{
+	background-color:#9b9b9b;
+}
+#teamwork .tile3{
+	background-color:#b6c0ca;
+}
+#teamwork .tile4{
+	background-color:#d9d9d9;
+}
+#teamwork .tile5{
+	background-color:#a4b5c6;
+}
+#teamwork .tile6{
+	background-color:#bfbfbf;
+}
+
+/* 
+icons 
+Each persons image is given the icon class in the HTML. Here, the icon size is
+adjusted based on the current size of the parent tile. 
+*/
+#teamwork .icon{
+	display: block;
+	position: absolute;
+}
+#teamwork .open-tile .icon{
+	height:550px;
+	top:20px;
+	left:220px;
+}
+#teamwork.columns-1 .open-tile .icon{
+	left:150px;
+}
+#teamwork .tile .icon{
+	height:380px;
+	top:40px;
+	left:0;
+}
+#teamwork .two-thirds-tile .icon,
+#teamwork .half-tile .icon{
+	height:455px;
+	top:25px;
+	left:-10px;
+}
+#teamwork .one-third-tile .icon{
+	height:320px;
+	top:25px;
+	left:-10px;
+}
+#teamwork .wide-button .icon{
+	height:250px;
+	top:5px;
+	left:-10px;
+}
+#teamwork .button .icon{
+	height:240px;
+	top:10px;
+	left:-20px;
+}
+
+/* headings */
+#teamwork .heading{
+	font-family:'Lobster14Regular', Tahoma, Geneva, sans-serif;
+	font-size:25px;
+	display:block;
+	line-height:1em;
+	max-width:300px;
+}
+#teamwork .open-tile .heading{
+	font-size: 150%;
+	margin: 50px 10px 10px 20px;
+}
+#teamwork .tile .heading{
+	margin: 18px 10px 10px 15px;
+}
+#teamwork .two-thirds-tile .heading,
+#teamwork .half-tile .heading{
+    font-size:20px;
+	margin: 7px 10px 10px 55px;
+}
+#teamwork .one-third-tile .heading{
+	font-size:20px;
+	margin: 10px 10px 10px 55px;
+}
+#teamwork .wide-button .heading{
+	margin-top:25px;
+	margin-left:85px;
+}
+#teamwork .button .heading{
+	display:none;
+}
+
+/* subheadings */
+#teamwork .open-tile .subheading{
+	font-family: 'TerminalDosisExtraLight', Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	margin: 5px 10px 10px 20px;
+	display:block;
+	font-size:120%;
+	line-height:1em;
+	max-width:300px;
+}
+#teamwork.columns-1 .open-tile .subheading{
+	max-width: 120px;
+}
+#teamwork .tile .subheading,
+#teamwork .two-thirds-tile .subheading,
+#teamwork .half-tile .subheading,
+#teamwork .one-third-tile .subheading,
+#teamwork .wide-button .subheading,
+#teamwork .button .subheading{
+	display:none;
+}
+
+/* 
+content 
+Content under a i-column grid is assumed to be for mobile devices (since the plugin's
+layout is set to fluid), and so is made smaller to save some space. 
+ */
+#teamwork .content{
+	font-family: 'TerminalDosisMedium', Tahoma, Geneva, sans-serif;
+	display:block;
+	position: absolute;
+	margin: 20px 10px 10px 20px;
+	width:35%;
+	font-size:110%;
+}
+#teamwork.columns-1 .content{
+	top: -500px;
+	font-size:90%;
+}
+#teamwork .content:before {
+	content: "\201C"; /* U+201C */	
+	font-size: 300%;
+	margin-left:-5px;
+	padding: 0px;
+	height: 15px;
+	width: 30px;
+	position: relative;
+	font-family: 'Lobster14Regular', san-serif;
+	float: left;
+}

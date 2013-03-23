@@ -1,0 +1,365 @@
+<html>
+<head>
+<!-- Jquery and jquery UI -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.9.0/themes/base/jquery-ui.css" />
+
+<!-- RefineSlide -->
+<script type="text/javascript" src="/assets/js/refineslide/jquery.refineslide.js"></script>
+<link rel="stylesheet" type="text/css" href="/assets/js/refineslide/refineslide.css" />
+
+<!-- Add mousewheel plugin (this is optional) -->
+<script type="text/javascript" src="/assets/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+
+<!-- Add fancyBox -->
+<link rel="stylesheet" href="/assets/js/fancybox/source/jquery.fancybox.css?v=2.1.3" type="text/css" media="screen" />
+<script type="text/javascript" src="/assets/js/fancybox/source/jquery.fancybox.pack.js?v=2.1.3"></script>
+
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+<link rel="stylesheet" href="/assets/js/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
+<script type="text/javascript" src="/assets/js/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+<script type="text/javascript" src="/assets/js/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.5"></script>
+
+<link rel="stylesheet" href="/assets/js/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
+<script type="text/javascript" src="/assets/js/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+<link type='text/css' href='/assets/css/article.css' rel='stylesheet' />
+
+<!-- load fonts -->
+<link type='text/css' href='/assets/fonts/firsttest/stylesheet.css' rel='stylesheet' />
+<link type='text/css' href='/assets/fonts/bebas/stylesheet.css' rel='stylesheet' />
+
+
+<link rel="stylesheet" href="/assets/js/shuffling/help/rainbow/github.css" type="text/css">
+<link rel="stylesheet" href="/assets/js/shuffling/help/slider/jquery.slider.min.css" type="text/css">
+<link rel="stylesheet" href="/assets/js/shuffling/fonts/fonts.css" type="text/css" />
+<link rel="stylesheet" href="/assets/js/shuffling/examples/teamwork/teamwork.css" type="text/css">
+<!--[if lt IE 9]><script type="text/javascript" src="help/old-IE.js"></script><![endif]-->
+<script type="text/javascript" src="/assets/js/shuffling/help/rainbow/rainbow-custom.min.js"></script>
+<script type="text/javascript" src="/assets/js/shuffling/shufflingTiles.js"></script>
+
+<script type="text/javascript" src="/assets/js/shuffling/help/slider/jquery.slider.min.js"></script>
+
+<!-- tinyscrollbar -->
+<script type="text/javascript" src="/assets/js/tinyscrollbar/jquery.tinyscrollbar.min.js"></script>
+
+<!-- jquery file upload -->
+<!-- Bootstrap CSS Toolkit styles -->
+<link rel="stylesheet" href="http://blueimp.github.com/cdn/css/bootstrap.min.css">
+<!-- CSS to style the file input field as button and adjust the Bootstrap progress bars -->
+<link rel="stylesheet" href="/assets/js/upload/css/jquery.fileupload-ui.css">
+
+
+<!-- Our styles and JS -->
+<link rel="stylesheet" type="text/css" href="/assets/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+<script type="text/javascript" src="/assets/js/main.js"></script>
+<script type="text/javascript" src="/assets/js/search.js"></script>
+<script type="text/javascript" src="/assets/js/utils.js"></script>
+
+</head>
+<body>
+    <div id="searchbar">
+        <div id="search_field">
+            <input type="text" value="search" /> <img id="search_spinner" src="/assets/images/ajax-loader.gif">
+        </div>
+        <div id="search_button"></div>
+        <div id="results_scroll" style="clear: both">
+            <div class="scrollbar">
+                <div class="track">
+                    <div class="thumb">
+                        <div class="end"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="viewport">
+                <div class="overview">
+                    <div id="search_results"></div>
+                </div>
+            </div>
+        </div>
+        <div style="display: none;">
+            <div id="search_not_found">
+                <img src='/assets/images/cry.png'>
+                <h1>Nothing found!</h1>
+            </div>
+        </div>
+    </div>
+
+    <div id="wrapper">
+        <div id="title">
+            <span id="title_world">WORLD</span><span id="title_crises">CRISES</span>
+        </div>
+        <div id="content_1">
+            <div id="sub_content_1">
+                <div id="box_crisis" class="cube">
+                    <ul class="rs-slider">
+                        <li>
+                            <div class="rs-caption rs-top tile">
+                                <div class="cube_title">
+                                    <p>CRISES</p>
+                                </div>
+                                <img class="tile_bg" id="box_crisis_clip" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" id="box_crisis_clip_2" src="/assets/images/bg_1.png" alt="" />
+                            </div>
+                        </li>
+                        <li><img src="/assets/images/c_4.png" alt="" /></li>
+                        <li><img src="/assets/images/c_3.png" alt="" /></li>
+                        <li><img src="/assets/images/c_2.png" alt="" /></li>
+                        <li><img src="/assets/images/c_1.png" alt="" /></li>
+                    </ul>
+                </div>
+                <div id="box_1" class="tile">
+                    <img class="tile_bg" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" style="z-index: 99;" src="/assets/images/bg_1.png" alt="" />
+                </div>
+
+            </div>
+            <div id="sub_content_2">
+                <div id="box_2" class="tile">
+                    <img class="tile_bg" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" style="z-index: 99;" src="/assets/images/bg_1.png" alt="" />
+                </div>
+                <div id="box_people" class="cube">
+                    <ul class="rs-slider">
+                        <li>
+                            <div class="rs-caption rs-top tile">
+                                <div class="cube_title">
+                                    <p>PEOPLE</p>
+                                </div>
+                                <img class="tile_bg" id="box_people_clip" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" id="box_people_clip_2" src="/assets/images/bg_1.png" alt="" />
+                            </div>
+                        </li>
+                        <li><img src="/assets/images/p_4.png" alt="" /></li>
+                        <li><img src="/assets/images/p_3.png" alt="" /></li>
+                        <li><img src="/assets/images/p_2.png" alt="" /></li>
+                        <li><img src="/assets/images/p_1.png" alt="" /></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="sub_content_3">
+                <div id="box_wc" class="tile">
+                    <img class="tile_bg" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" style="z-index: 99;" src="/assets/images/bg_1.png" alt="" />
+                </div>
+                <div id="box_utility" class="cube">
+                    <ul class="rs-slider">
+                        <li>
+                            <div class="rs-caption rs-top tile">
+                                <div class="cube_title">
+                                    <p>UTILITIES</p>
+                                </div>
+                                <img class="tile_bg" id="box_utility_clip" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" id="box_utility_clip_2" src="/assets/images/bg_1.png" alt="" />
+                            </div>
+                        </li>
+                        <li><img src="/assets/images/box_utility_3.png" alt="" /></li>
+                        <li><img src="/assets/images/box_utility_2.png" alt="" /></li>
+                    </ul>
+                </div>
+                <div id="box_3" class="tile">
+                    <img class="tile_bg" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" style="z-index: 99;" src="/assets/images/bg_1.png" alt="" />
+                </div>
+            </div>
+        </div>
+        <div id="content_2">
+            <div id="box_4" class="tile">
+                <img class="tile_bg" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" style="z-index: 99;" src="/assets/images/bg_1.png" alt="" />
+            </div>
+            <div id="box_5" class="tile">
+                <img class="tile_bg" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" style="z-index: 99;" src="/assets/images/bg_1.png" alt="" />
+            </div>
+            <div id="box_org" class="cube">
+                <ul class="rs-slider">
+                    <li>
+                        <div class="rs-caption rs-top tile">
+                            <div class="cube_title">
+                                <p>ORGS</p>
+                            </div>
+                            <img class="tile_bg" id="box_org_clip" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" id="box_org_clip_2" src="/assets/images/bg_1.png" alt="" />
+                        </div>
+                    </li>
+                    <li><img src="/assets/images/o_4.png" alt="" /></li>
+                    <li><img src="/assets/images/o_3.png" alt="" /></li>
+                    <li><img src="/assets/images/o_2.png" alt="" /></li>
+                    <li><img src="/assets/images/o_1.png" alt="" /></li>
+                </ul>
+            </div>
+        </div>
+        <div id="content_3">
+            <div id="box_6" class="tile">
+                <img class="tile_bg" src="/assets/images/bg_1.png" alt="" /> <img class="tile_bg_2" style="z-index: 99;" src="/assets/images/bg_1.png" alt="" />
+            </div>
+            <div id="box_about_us" class="cube">
+                <ul class="rs-slider">
+                    <li><img src="#" width="620" height="180" alt="" />
+                        <div class="rs-caption rs-top tile">
+                            <img src="/assets/images/box_about_2.png" alt="" />
+                        </div></li>
+                    <li><img src="#" width="620" height="180" alt="" />
+                        <div class="rs-caption rs-top tile">
+                            <img src="/assets/images/box_about_1.png" alt="" />
+                        </div></li>
+                </ul>
+            </div>
+        </div>
+        <div style="clear: both"></div>
+    </div>
+
+    <!-- -------------------------------------------------------------------------------------------------------------------------------------------- -->
+    <!------------------------------------------------ Invisible content of dialogs -------------------------------------------------------------------->
+    <!-- -------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+    <div style="display: none">
+        <div id="loading_spinner">
+            <img src='/assets/images/rotating2.gif'>
+            <h1>Loading . . .</h1>
+        </div>
+    </div>
+
+
+    <!-- Utilities -->
+    <div id="utilities">
+        <div class="article_list_title">UTILITIES</div>
+        <ul class="article_list">
+            <li class="article_item"><img class="article_image" src="/assets/images/back_arrow.png" />
+                <div class="article_item_right">
+                    <h3 class="article_title">Import XML</h3>
+                    <div id="upload_form">
+                        <form id="fileupload" action="{{upload_url}}" method="POST" enctype="multipart/form-data">
+                            <!-- The fileupload-buttonbar contains buttons to add/delete files and start/cancel the upload -->
+                            <div class="row" id="pass">
+                                <label>Password: <input type="password" name="password" /></label>
+                            </div>
+                            <div class="row fileupload-buttonbar">
+                                <div class="span7">
+                                    <!-- The fileinput-button span is used to style the file input field as button -->
+                                    <span class="btn btn-success fileinput-button"> <i class="icon-plus icon-white"></i> <span>Add files...</span> <input type="file" name="files[]" multiple>
+                                    </span>
+                                    <button type="submit" class="btn btn-primary start">
+                                        <i class="icon-upload icon-white"></i> <span>Start upload</span>
+                                    </button>
+                                </div>
+                            </div>
+                            <!-- The loading indicator is shown during file processing -->
+                            <div class="fileupload-loading"></div>
+                            <br>
+                            <!-- The table listing the files available for upload/download -->
+                            <table role="presentation" class="table table-striped">
+                                <tbody class="files" data-toggle="modal-gallery" data-target="#modal-gallery"></tbody>
+                            </table>
+                        </form>
+                    </div>
+                </div>
+                <div style="clear: both"></div></li>
+
+            <li class="article_item"><img class="article_image" src="/assets/images/forward_arrow.png" />
+                <div class="article_item_right">
+                    <h3 class="article_title">Export XML</h3>
+                    <p class="article_text">Using this tool you can get an XML instance of our data store</p>
+                    <div class="article_control">
+                        <a href="export" class="btn">Start exporting XML</a>
+                    </div>
+                </div>
+                <div style="clear: both"></div></li>
+
+            <li class="article_item"><img class="article_image" src="/assets/images/trash.png" />
+                <div class="article_item_right">
+                    <h3 class="article_title">Flush the Datastore and Search Index</h3>
+                    <p class="article_text">Be careful when using this function, this will delete all the information in the datastore</p>
+                    <label>
+                        Password:
+                        <input type="password" name="password" id="flush_pass"/>
+                    </label>
+                    <div id="flush_result"></div>
+                    <div class="article_control">
+                        <button id="flush_button">Flush</button>
+                    </div>
+                </div>
+                <div style="clear: both"></div></li>
+
+            <li class="article_item"><img class="article_image" src="/assets/images/google-app-engine.png" />
+                <div class="article_item_right">
+                    <h3 class="article_title">GAE Unit Tests</h3>
+                    <p class="article_text">This facility will let you see how our backend tests run</p>
+                    <div class="article_control">
+                        <a href="test" class="btn">Run Unit Tests</a>
+                    </div>
+                </div>
+                <div style="clear: both"></div></li>
+        </ul>
+    </div>
+    <!-- end utilities -->
+
+    {% raw %}
+    <!-- The template to display files available for upload -->
+    <script id="template-upload" type="text/x-tmpl">
+{% for (var i=0, file; file=o.files[i]; i++) { %}
+    <tr class="template-upload fade">
+        <td class="name"><span>{%=file.name%}</span></td>
+        {% if (file.error) { %}
+            <td class="error" colspan="2"><span class="label label-important">Error</span> {%=file.error%}</td>
+        {% } else if (o.files.valid && !i) { %}
+            <td>
+                <div class="progress progress-success progress-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div class="bar" style="width:0%;"></div></div>
+            </td>
+            <td class="start">{% if (!o.options.autoUpload) { %}
+                <button class="btn btn-primary">
+                    <i class="icon-upload icon-white"></i>
+                    <span>Start</span>
+                </button>
+            {% } %}</td>
+        {% } else { %}
+            <td colspan="2"></td>
+        {% } %}
+        <td class="cancel">{% if (!i) { %}
+            <button class="btn btn-warning">
+                <i class="icon-ban-circle icon-white"></i>
+                <span>Cancel</span>
+            </button>
+        {% } %}</td>
+    </tr>
+{% } %}
+</script>
+    <!-- The template to display files available for download -->
+    <script id="template-download" type="text/x-tmpl">
+{% for (var i=0, file; file=o.files[i]; i++) { %}
+    <tr class="template-download fade">
+        {% if (file.error) { %}
+            <td class="name"><span>{%=file.name%}</span></td>
+            <td class="error" colspan="2"><span class="label label-important">Error</span> {%=file.error%}</td>
+        {% } else { %}
+            <td class="name"><span>{%=file.name%}</span></td>
+            <td colspan="2"><span class="label success">Success!</span></td>
+        {% } %}
+ 		<td class="delete">
+            <button class="btn btn-danger" data-type="{%=file.delete_type%}" data-url="{%=file.delete_url%}"{% if (file.delete_with_credentials) { %} data-xhr-fields='{"withCredentials":true}'{% } %}>
+                <i class="icon-trash icon-white"></i>
+                <span>Delete</span>
+            </button>
+        </td>
+    </tr>
+{% } %}
+
+</script>
+    {% endraw %}
+    <!-- The jQuery UI widget factory, can be omitted if jQuery UI is already included -->
+    <script src="/assets/js/upload/js/vendor/jquery.ui.widget.js"></script>
+    <!-- The Templates plugin is included to render the upload/download listings -->
+    <script src="http://blueimp.github.com/JavaScript-Templates/tmpl.min.js"></script>
+    <!-- The Load Image plugin is included for the preview images and image resizing functionality -->
+    <script src="http://blueimp.github.com/JavaScript-Load-Image/load-image.min.js"></script>
+    <!-- The Canvas to Blob plugin is included for image resizing functionality -->
+    <script src="http://blueimp.github.com/JavaScript-Canvas-to-Blob/canvas-to-blob.min.js"></script>
+    <!-- Bootstrap JS and Bootstrap Image Gallery are not required, but included for the demo -->
+    <script src="http://blueimp.github.com/cdn/js/bootstrap.min.js"></script>
+    <script src="http://blueimp.github.com/Bootstrap-Image-Gallery/js/bootstrap-image-gallery.min.js"></script>
+    <!-- The Iframe Transport is required for browsers without support for XHR file uploads -->
+    <script src="/assets/js/upload/js/jquery.iframe-transport.js"></script>
+    <!-- The basic File Upload plugin -->
+    <script src="/assets/js/upload/js/jquery.fileupload.js"></script>
+    <!-- The File Upload file processing plugin -->
+    <script src="/assets/js/upload/js/jquery.fileupload-fp.js"></script>
+    <!-- The File Upload user interface plugin -->
+    <script src="/assets/js/upload/js/jquery.fileupload-ui.js"></script>
+    <!-- The XDomainRequest Transport is included for cross-domain file deletion for IE8+ -->
+    <!--[if gte IE 8]><script src="js/cors/jquery.xdr-transport.js"></script><![endif]-->
+</body>
+
+</html>

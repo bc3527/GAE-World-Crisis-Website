@@ -1,0 +1,327 @@
+/* the widgets container element & interaction & grid state styles */
+#sintel{
+	color:#f7f7f7;
+	padding:3px;
+	background-color:#000;
+}
+#sintel.animating .selected,
+#sintel .wide-button:hover,
+#sintel .one-third-tile:hover,
+#sintel .half-tile:hover,
+#sintel .tile:hover{
+    border-color:#fff;
+    box-shadow:0 0 5px #fff;
+}
+#sintel.animating .wide-button .heading,
+#sintel.animating .subheading {
+    display:none;
+}
+
+/* the 'cose tile' button */
+#sintel .closeBtn{
+	position:absolute;
+	right:7px;
+	top:7px;
+	background-color:#000;
+	font-weight:bold;
+	text-decoration:none;
+	color:#ff0000;
+	display:block;
+	font-size:12px;
+	padding:1px;
+	line-height:1em;
+	width:1em;
+	text-align:center;
+	z-index:10;
+}
+#sintel .closeBtn:hover{
+    box-shadow:0 0 5px #f7f7f7;
+	border:1px #f7f7f7 solid;
+	color:#f7f7f7;
+}
+
+/* 
+tiles 
+Each tile has its own background image, large enough to cover a fully open tile. CSS
+styles are set for the background image position for all the different sizes the tile
+can be viewed in. 
+ */
+#sintel .shufflingTiles-tile{
+	margin:0px;	
+	background-repeat: no-repaet;
+	overflow: hidden;
+}
+#sintel .tile1{
+	background-image:url('bg1.jpg');
+	background-repeat:no-repeat;
+	background-position:0px -50px;
+}
+#sintel .tile1.two-thirds-tile{
+	background-position:left -150px;
+}
+#sintel .tile1.half-tile,
+#sintel .tile1.one-third-tile{
+	background-position:left -180px;
+}
+#sintel .tile1.wide-button{
+	background-position:left -200px;
+}
+#sintel .tile2{
+	background-image:url('bg2.jpg');
+	background-repeat:no-repeat;
+	background-position:right top;
+}
+#sintel .tile2.half-tile,
+#sintel .tile2.one-third-tile{
+	background-position:right -80px;
+}
+#sintel .tile2.wide-button{
+	background-position:right -110px;
+}
+#sintel .tile3{
+	background-image:url('bg3.jpg');
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+#sintel .tile3.open-tile{
+	background-image:none;
+}
+#sintel .tile3.two-thirds-tile,
+#sintel .tile3.half-tile,
+#sintel .tile3.one-third-tile,
+#sintel .tile3.wide-button{
+	background-position:center center;
+}	
+#sintel .tile4{
+	background-image:url('bg4.jpg');
+	background-repeat:no-repeat;
+	background-position:right bottom;
+}
+#sintel .tile5{
+	background-image:url('bg5.jpg');
+	background-repeat:no-repeat;
+	background-position:right bottom;
+}
+#sintel .tile5.two-thirds-tile{
+	background-position:right -290px;
+}
+#sintel .tile5.half-tile,
+#sintel .tile5.one-third-tile{
+	background-position:right -270px;
+}
+#sintel .tile5.wide-button{
+	background-position:right -290px;
+}
+#sintel .tile6{
+	background-image:url('bg6.jpg');
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+
+/* icons */
+#sintel .icon{
+	display: block;
+	position: absolute;
+	width:72px;
+	margin: 0px;
+	left:10px;
+}
+#sintel .open-tile .icon{
+	top: 30px;
+	left:25px;
+	width:36px;
+}
+#sintel .open-tile.tile1 .icon{
+	display: none;
+}
+#sintel .open-tile.tile3 .icon{
+	top: 80px;
+}
+#sintel .tile .icon{
+	top:175px;
+}
+#sintel .tile.tile1 .icon{
+	width:280px;
+	left:2px;
+	top:2px;
+}
+#sintel .two-thirds-tile .icon{
+	top: 92px;
+}
+#sintel .half-tile .icon{
+	top: 49px;
+}
+#sintel .one-third-tile .icon{
+	top: 10px;
+	width:68px;
+}
+#sintel .wide-button .icon{
+	position:absolute;
+	width:40px;
+	top:10px;
+}
+
+/* 
+headings 
+As the headings are aligned next to the icons when are of different sizes, styles are 
+set for each tile's left position individually. The CSS top property will be similar
+for all tiles of the same size, and rules are also set for each tile size individually,
+starting with the largest possible size to the smallest.
+*/
+#sintel .shufflingTiles-tile .heading{
+	font-family:'YanoneKaffeesatzBold',Tahoma, Geneva, sans-serif;
+	font-size:240%;	
+	font-weight: normal;
+	position: absolute;
+	top: 20px;
+	left: 80px;
+	line-height:1em;
+	padding:0;
+	margin:0;
+}
+#sintel .two-thirds-tile .heading{
+	top:123px;
+}
+#sintel .half-tile .heading{
+	top:80px;
+}
+#sintel .one-third-tile .heading{
+	font-size:200%;
+	top:43px;
+}
+#sintel .wide-button .heading{
+	display: none;
+}
+#sintel .open-tile .heading{
+	font-size:250%;
+	top: 28px;
+}
+#sintel .open-tile.tile2 .heading{
+	left:45px;
+}
+#sintel .open-tile.tile3 .heading{
+	left:60px;
+	top: 75px;
+}
+#sintel .open-tile.tile4 .heading{
+	left:66px;
+}
+#sintel .open-tile.tile5 .heading{
+	left:63px;
+}
+#sintel .open-tile.tile6 .heading{
+	left:61px;
+	color:#111;
+}
+#sintel .tile .heading{
+	top:206px;
+}
+#sintel .tile2 .heading{	
+	left: 42px;
+}
+#sintel .tile3 .heading{	
+	left: 72px;
+}
+#sintel .tile4 .heading{	
+	left: 83px;
+}
+#sintel .tile5 .heading{
+	left:80px;
+}
+#sintel .tile6 .heading{
+	left:78px;
+}
+
+/* subheadings */
+#sintel .shufflingTiles-tile .subheading{
+	position:absolute;
+	margin:10px 5px 5px 5px;
+}
+.shufflingTiles-tile .flyout-subheading{
+	width:100%;
+	padding:10px;
+	margin:0;
+	min-height:50px;
+	color:#d4d4d4;
+    border-top:1px solid #ccc;
+	background-color: #000;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+#sintel .open-tile .subheading{
+	font-family:'YanoneKaffeesatzRegular',Tahoma, Geneva, sans-serif;
+	font-size:150%;
+	left: 20px;
+	top: 80px;
+	font-size:120%;
+	line-height:1em;
+}
+#sintel .open-tile.tile3 .subheading{
+	top:105px;
+	left:15px;
+}
+#sintel .open-tile.tile6 .subheading{
+	color:#000;
+}
+#sintel .tile .subheading,
+#sintel .two-thirds-tile .subheading,
+#sintel .half-tile .subheading,
+#sintel .one-third-tile .subheading,
+#sintel .wide-button .subheading,
+#sintel .button .subheading{
+	left:-1000px;
+}
+
+/* content */
+#sintel .content{
+	font-family: 'TerminalDosisMedium', Tahoma, Geneva, sans-serif;
+	margin: 120px 20px 20px 20px;
+}
+#sintel .tile1 .content{
+	margin:0px;
+	padding:0px;
+}
+#sintel .tile2 .content{
+	width:45%;
+}
+#sintel .tile3 .content{
+	margin:0px;
+	padding:0px;
+}
+#sintel .tile6 .content{
+	color:#111;
+}
+#sintel .content ul{
+	padding:0px;
+	margin:0px;
+	line-height:1em;
+	list-style-type:none;
+}
+#sintel .content ul li{
+	margin:5px 5px 0px 5px;
+}
+
+/* image gallery (tile 4) */
+#sintel #lightBox{
+	background-color: #000000;
+	background-color: rgba(0, 0, 0, 0.9);
+	position: absolute;
+	top:0px;
+	left:0px;
+	text-align:center;
+}
+#sintel #lightBox img.loader{
+	margin:auto;
+	position: absolute;
+	top:50%;
+	left:50%;
+}
+#gallery img{
+	width:140px;
+	margin:10px;
+	border: 1px #f1f1f1 solid;
+}
+#gallery img:hover{
+    box-shadow:0 0 5px #f7f7f7;
+	color:#f7f7f7;
+	cursor: pointer;
+}

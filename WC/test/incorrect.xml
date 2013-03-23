@@ -1,0 +1,93 @@
+<WC_main>
+	<people>
+		<person>
+			<uniqueID>p1</uniqueID>
+			<name>Azamat</name>
+			<category>some category</category>
+			<location>almaty </location>
+			<summary>Ein student aus Texas</summary>
+			<image_link>
+				<URL>http://www.google.com/</URL>
+			</image_link>
+			<video_link>
+				<URL>http://www.google.com/</URL>
+			</video_link>
+			<map_link>
+				<URL>http://www.google.com/</URL>
+			</map_link>
+			<social_link>
+				<URL>http://www.google.com/</URL>
+			</social_link>
+			<citation_link>
+				<URL>http://www.google.com/</URL>
+			</citation_link>
+			<external_link>
+				<URL>http://www.google.com/</URL>
+			</external_link>
+			<organization_link>o1</organization_link>
+			<crisis_link>c1</crisis_link>
+		</person>
+		
+		<person>
+			<uniqueID>p2</uniqueID>
+			<name>Mark</name>
+			<category>some category</category>
+			<location>almaty </location>
+			<summary>Ein student aus Texas</summary>
+			<image_link>
+				<URL>http://www.google.com/</URL>
+			</image_link>
+			<video_link>
+				<URL>http://www.google.com/</URL>
+			</video_link>
+			<map_link>
+				<URL>http://www.google.com/</URL>
+			</map_link>
+			<social_link>
+				<URL>http://www.google.com/</URL>
+			</social_link>
+			<citation_link>
+				<URL>http://www.google.com/</URL>
+			</citation_link>
+			<external_link>
+				<URL>http://www.google.com/</URL>
+			</external_link>
+			<organization_link>o1</organization_link>
+			<crisis_link>c1</crisis_link>
+		</person>
+	</people>
+
+	<crises>
+		<crisis>
+			<uniqueID>c1</uniqueID>
+			<name>Azamat</name>
+			<category>some category</category>
+			<location>almaty </location>
+			<summary>Ein student aus Texas</summary>
+			<date_and_time>1901-02-12</date_and_time>
+			<human_impact></human_impact>
+			<economic_impact>1</economic_impact>
+			<image_link>
+				<URL>http://www.google.com/</URL>
+			</image_link>
+			<video_link>
+				<URL>http://www.google.com/</URL>
+			</video_link>
+			<map_link>
+				<URL>http://www.google.com/</URL>
+			</map_link>
+			<social_link>
+				<URL>http://www.google.com/</URL>
+			</social_link>
+			<citation_link>
+				<URL>http://www.google.com/</URL>
+			</citation_link>
+			<external_link>
+				<URL>http://www.google.com/</URL>
+			</external_link>
+			<person_link>p1 p2</person_link>
+			<organization_link>o1</organization_link>
+		</crisis>
+	</crises>
+
+</WC_main>

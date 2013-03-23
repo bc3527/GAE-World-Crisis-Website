@@ -1,0 +1,31 @@
+/* #slideshow is the container element for all tiles  **/
+#slideshow{
+	background-color:#000;
+	background-image: url('grid.jpg');
+	border:2px solid #000;
+}
+#slideshow .shufflingTiles-tile{
+	background-position: center;
+}
+/*
+ Each tile in the grid has a unique class name, based on its position in the grid.
+ We use that to select and style each tile individually with its own background image
+ **/
+#slideshow .tile1{
+	background-image: url('tile1.jpg');
+}
+#slideshow .tile2{
+	background-image: url('tile2.jpg');
+}
+#slideshow .tile3{
+	background-image: url('tile3.jpg');
+}
+#slideshow .tile4{
+	background-image: url('tile4.jpg');
+}
+#slideshow .tile5{
+	background-image: url('tile5.jpg');
+}
+#slideshow .closeBtn{
+	visibility:hidden;
+}

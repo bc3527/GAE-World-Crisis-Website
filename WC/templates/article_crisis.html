@@ -1,0 +1,93 @@
+{% extends 'templates/article_base.html' %} 
+
+{% block title%} {{name}}{% endblock%}
+
+{% block info%}
+<ul>
+    <li>
+        <h2>Name:</h2> {% block name %}{{name}}{% endblock %}
+    </li>
+    <li>
+        <h2>Category:</h2> {% block category %}{{category}}{% endblock %}
+    </li>
+    <li>
+        <h2>Location:</h2> {% block location %}
+        				   {%if country%}{{country}}{%endif%}
+        				   {%if state%}, {{state}}{%endif%}
+        				   {%if city%}, {{city}}{%endif%}
+        				   {% endblock %}
+    </li>
+    <li>
+        <h2>Date & Time:</h2> {% block date %}{{start_date}}{% endblock %}{%if start_time%}{% block time %}, {{start_time}}{% endblock %}{%endif%}
+        			   
+    </li>
+    <li>
+        <h2>Casualties:</h2>{% block casualties %}
+        						{%if deaths%}{{deaths}} killed{%endif%}
+    							{%if injured%}</br>{{injured}} injured{%endif%}
+    							{%if displaced%}</br>{{displaced}} displaced{%endif%}
+    							{%if missing%}</br>{{missing}} missing{%endif%}
+    						{% endblock %}
+    </li>
+    <li>
+        <h2>Social:</h2>
+        {% block social %} 
+            {%if social_facebook%} 
+                {%for link in social_facebook%}
+                    <a href="{{link}}"><img src="/assets/images/GoSocial/png/32/facebook.png" /></a>
+                {%endfor%} 
+            {%endif%} 
+            
+            {%if social_twitter%} 
+                {%for link in social_twitter%}
+                    <a href="{{link}}"><img src="/assets/images/GoSocial/png/32/twitter.png" /></a>
+                {%endfor%} 
+            {%endif%} 
+            
+            {%if social_youtube%} 
+                {%for link in social_youtube%}
+                    <a href="{{link}}"><img src="/assets/images/GoSocial/png/32/youtube.png" /></a>
+                {%endfor%} 
+            {%endif%} 
+        {% endblock %}
+    </li>
+    <li>
+        <h2>Organizations:</h2> 
+        {% block organizations%}
+            <ul class="links">
+        	{%for link in organization_link%}
+                <li><a href="/article/{{link.src}}" target="_blank">{{link.desc}}</a></li>
+            {%endfor%}
+            </ul>
+		{%endblock%}
+    </li>
+    <li>
+        <h2>People:</h2> 
+            {% block people%}
+                <ul class="links">
+                    {%for link in person_link%}
+                        <li><a href="/article/{{link.src}}" target="_blank">{{link.desc}}</a></li>
+                    {%endfor%}
+                </ul>
+            {%endblock%}
+    </li>
+</ul>
+{% endblock %} 
+
+{% block article%}
+    {{description}}
+{% endblock%}
+
+{% block gallery %}
+	{% block images%}
+		{%for picture in image_source%}<a class="fancybox" rel="pictures" href="{{picture.src}}"><img src="{{picture.thumb}}" alt="{{picture.desc}}"></a>{% endfor %}
+	{%endblock%}
+    
+{% endblock %}
+{% block video%}
+	{%for video in videos_youtube%}
+    <a class="fancybox" rel="video" href="{{video.src}}"> 
+        <img src="{{video.img_src}}" />
+    </a>
+    {% endfor %}
+{%endblock%} 

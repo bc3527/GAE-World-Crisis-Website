@@ -1,0 +1,44 @@
+<script type="text/javascript">
+    $(".fancybox").fancybox({
+        helpers : {
+            media : {}
+        }
+    });
+
+    $("#article_nav li").click(function() {
+        //$(this).siblings().removeClass("selected");
+        //$(this).addClass("selected");
+
+        history.pushState({
+            from : document.location.pathname,
+            to : "/" + $(this).text()
+        }, null, "/" + $(this).text());
+    });
+
+    $("#info a").click(function() {
+        console.log("link clicked");
+        history.pushState({
+            from : document.location.pathname,
+            to : $(this).attr("href")
+        }, null, $(this).attr("href"));
+        return false;
+    });
+</script>
+<div id="article_title">{% block title %}{% endblock %}</div>
+<div id="article_nav">
+    <ul>
+        <li>people</li>
+        <li>organizations</li>
+        <li>crises</li>
+    </ul>
+    <div style="clear: both;"></div>
+</div>
+<div>
+    <div id="info" style="background-color: #eee;">{% block info%}{% endblock %}</div>
+    <p id="article">{% block article_image%}{% endblock %}{% block article%}{% endblock%}</p>
+</div>
+<h2>Images</h2>
+<div id="article_gallery">{% block gallery %} {% endblock %}</div>
+
+<h2>Video</h2>
+<div id="article_video">{% block video%}{% endblock %}</div>

@@ -1,0 +1,785 @@
+<world-crises>
+	<crises>
+		<crisis id = "beslan-school-siege">
+		    <name>Beslan School Siege</name>
+		    <kind>Terrorist Attack</kind>
+		    <description>The Beslan school hostage crisis (also referred to as the Beslan school siege or Beslan massacre)of early September 2004 lasted three days and involved the capture of over 1,100 people as hostages (including 777 children),
+            ending with the death of over 380 people. The crisis began when a group of armed separatist militants, mostly Ingush and Chechen, occupied School Number One (SNO) in the town of Beslan, 
+            North Ossetia (an autonomous republic in the North Caucasus region of the Russian Federation) on 1 September 2004. The hostage-takers were the Riyadus-Salikhin Battalion, sent by the Chechen separatist warlord Shamil Basayev, 
+            who demanded recognition of the independence of Chechnya at the UN and Russian withdrawal from Chechnya. On the third day of the standoff, Russian security forces entered the building with the use of tanks,incendiary rockets 
+            and other heavy weapons.At least 334 hostages were killed as a result of the crisis, including 186 children,with a significant number of people injured and reported missing.
+            The event led to security and political repercussions in Russia, most notably a series of federal government reforms consolidating power in the Kremlin and strengthening of the powers of the President of Russia.
+            According to American non-governmental organization (NGO), Freedom House, these reforms consolidated Russia as a politically non-free, authoritarian state since the mid-2000s.As of 2011, 
+            aspects of the crisis in relation to the militants remain contentious; including how many militants were involved, the nature of their preparations and whether a section of the group had escaped. 
+            Questions about the Russian government's management of the crisis have also persisted; including allegations of disinformation and censorship in news media, 
+            whether the journalists who were present at Beslan were allowed to freely report on the crisis,the nature and content of negotiations with the militants, allocation of responsibility for the eventual outcome, and perceptions that excessive force was used.
+            </description>
+            <location>
+				<city>Beslan</city>
+				<country>Russian Federation</country>
+            </location>
+            <images>
+                    <image>
+                            <source>http://www.zindamagazine.com/html/archives/2004/9.21.04/pix/beslan.jpg</source>
+                            <description>Beslan terrorist attack picture</description>
+                    </image>
+                    <image>
+                        
+                            <source>http://thefamilywithoutborders.com/wp-content/uploads/2010/07/beslan-school-gymnasium.jpg</source>
+                            <description>Some descrption for imange</description>
+                    </image>     		
+            		<image>
+                            <source>http://media3.washingtonpost.com/wp-srv/photo/gallery/090901/GAL-09Sep01-2547/media/PHO-09Sep01-176244.jpg</source>
+                            <description>Parents devastated by their loss</description>
+                    </image>
+					<image>
+                            <source>http://img232.imageshack.us/img232/823/bbcbeslangrafico11qm.gif</source>
+                            <description>Some descrption for imange</description>
+                    </image>
+            </images>
+            <maps>
+                    <map>
+                        
+                            <source>https://maps.google.com/maps?q=%D0%B1%D0%B5%D1%81%D0%BB%D0%B0%D0%BD+%D0%BA%D0%B0%D1%80%D1%82%D0%B0&ie=UTF-8&hq=&hnear=0x40507a3d42902631:0x44b473c66c3f5648,Beslan,+Respublika+Severnaya+Osetiya-Alaniya,+Russia&gl=us&ei=VFWIUK6WCOfE2gXb_IGABg&ved=0CB8Q8gEwAA</source>
+                            <description>map descr</description>
+                          
+                    </map>
+			</maps>
+			<videos>
+                    <youtube>
+                       csr9TPGPoxs
+                    </youtube>
+                    <vimeo>34659973</vimeo>
+            </videos>
+            <social>
+                    <facebook>
+                       vladimirputinandrussia
+                    </facebook>
+                    <twitter>@SOssetia</twitter>
+                </social>   
+            <citations>
+                <citation>
+                    
+                        <source>http://www.google.com</source>
+                        <description>Citations Link</description>
+                    
+                </citation> 
+            </citations>
+            <external-links>
+                <external-link>
+                    
+                        <source>http://en.wikipedia.org/wiki/Beslan_school_hostage_crisis</source>
+                        <description>External Link</description>
+                    
+                </external-link> 
+            </external-links>
+			<start-date>2004-09-01T09:00:00</start-date>
+			<human-impact>
+    			<deaths>380</deaths>
+    			<missing>0</missing>
+    			<injured>783</injured>
+    			<displaced>0</displaced>
+			</human-impact>
+			<economic-impact>0</economic-impact>
+			<resources-needed>
+			</resources-needed>
+			<ways-to-help>
+			     <way></way>
+			</ways-to-help>
+			<organization-refs>red-cross-red-crescent</organization-refs>
+			<person-refs>vladimir-putin</person-refs>
+			
+		</crisis>
+
+		<crisis id = "izmit-earthquake">
+				<name>1999 Izmit Earthquake</name>
+				<kind>Earthquake</kind>
+				<description>The Izmit earthquake occurred at 00:01:39 UTC (3:01 a.m. local time), and was centered at 40.74 N., 29.86 E., which places the epicenter about 11 kilometers, 
+				or seven miles, southeast of the city of Izmit. This location indicates that the earthquake occurred on the northernmost strand of the North Anatolian fault system. 
+				The earthquake originated at a depth of 17 kilometers, or about 10.5 miles, and caused right-lateral strike-slip movement on the fault. 
+				Preliminary field reports confirm this type of motion on the fault, and initial field observations indicate that the earthquake produced at least 60 kilometers (37 miles) of surface rupture and right-lateral offsets as large as 2.7 meters, or almost nine feet.
+				On 19 August at 14:16 and 15:18 UTC (5:16 and 6:18 PM local time), two light-to-moderate earthquakes with magnitudes of 4.8 and 5.0 occurred approximately 80 km to the west of the mainshock. 
+				Previous aftershocks of this size were centered to the east of the mainshock, further from the cities of Bursa and Istanbul. While this suggests the possibility of a larger earthquake occurring in this new location, 
+				it is also probable that the mainshock rupture extended into this region, into the Gulf of Izmit, making these events aftershocks. We have no means of predicting the likelihood of a larger event in this new location.
+				</description>
+				<location>
+					<country>Turkey</country>
+				</location>
+				<images>
+						<image>
+								<source>http://i.telegraph.co.uk/multimedia/archive/01849/izmit_1849131i.jpg</source>
+								<description>Some descrption for imange</description>
+						</image>
+						<image>
+								<source>http://www.topo-europe.eu/public/images/whitepaper/fig_47.png</source>
+								<description>Some descrption for imange</description>
+						</image>
+						<image>
+							
+								<source>http://earthquake.usgs.gov/research/geology/turkey/images/mosque.gif</source>
+								<description>Some descrption for imange</description>
+						</image>
+				</images>
+				<maps>
+						<map>
+							
+								<source>http://earthquake.usgs.gov/earthquakes/eqarchives/year/1999/1999_08_17_loc.php</source>
+								<description>map descr</description>
+						</map>
+						<map>	  
+								<source>https://maps.google.com/maps?q=izmit+earthquake&ie=UTF-8&hq=&hnear=0x14cb5b3abf6ecb5d:0xccfe7f0b2c05427f,1999+%C4%B0zmit+earthquake&gl=us&ei=0z6GUKStE-yr2AXSsICQDg&ved=0CIABELYD</source>
+								<description>map descr</description>
+						</map>
+				</maps>
+				<videos>
+						<youtube>px-EPnLgzKg</youtube>
+						<youtube>Qrdu3-yp1Ls</youtube>
+						<vimeo>38334817</vimeo>
+				</videos>
+				<social>
+						<facebook>
+						   134512886578967
+						</facebook>
+						<!--twitter></twitter-->
+					</social>   
+				<citations>
+					<citation>
+						
+							<source>http://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake</source>
+							<description>Izmit Earthquake Wiki Page</description>
+						
+					</citation> 
+				</citations>
+				<external-links>
+					<external-link>
+						
+							<source>http://earthquake.usgs.gov/research/geology/turkey/index.php</source>
+							<description>External Link</description>
+						
+					</external-link> 
+				</external-links>
+				<start-date>1999-08-17T03:02:00</start-date>
+				<human-impact>
+					<deaths>17127</deaths>
+					<missing>25000</missing>
+					<injured>43959</injured>
+					<displaced>0</displaced>
+				</human-impact>
+				<economic-impact>1000000000</economic-impact>
+				<resources-needed>
+				</resources-needed>
+				<ways-to-help>
+					 <way>donations</way>
+				</ways-to-help>
+				<organization-refs>usaid</organization-refs>
+				<person-refs>bill-clinton</person-refs>
+				
+			</crisis>
+			
+			<crisis id = "september11">
+				<name>September 11</name>
+				<kind>Terrorist attack</kind>
+				<description>On September 11, 2001, at 8:45 a.m. on a clear Tuesday morning, an American Airlines Boeing 767 loaded with 20,000 gallons of jet fuel crashed into the north tower of the World Trade Center in New York City. The impact left a gaping, burning hole near the 80th floor of the 110-story skyscraper, instantly killing hundreds of people and trapping hundreds more in higher floors. As the evacuation of the tower and its twin got underway, television cameras broadcasted live images of what initially appeared to be a freak accident. Then, 18 minutes after the first plane hit, a second Boeing 767–United Airlines Flight 175–appeared out of the sky, turned sharply toward the World Trade Center and sliced into the south tower near the 60th floor. The collision caused a massive explosion that showered burning debris over surrounding buildings and the streets below. America was under attack.
+						The attackers were Islamic terrorists from Saudi Arabia and several other Arab nations. Reportedly financed by Saudi fugitive Osama bin Laden's al-Qaeda terrorist organization, they were allegedly acting in retaliation for America's support of Israel, its involvement in the Persian Gulf War and its continued military presence in the Middle East. Some of the terrorists had lived in the United States for more than a year and had taken flying lessons at American commercial flight schools. Others had slipped into the country in the months before September 11 and acted as the "muscle" in the operation. The 19 terrorists easily smuggled box-cutters and knives through security at three East Coast airports and boarded four flights bound for California, chosen because the planes were loaded with fuel for the long transcontinental journey. Soon after takeoff, the terrorists commandeered the four planes and took the controls, transforming ordinary commuter jets into guided missiles.
+						As millions watched the events unfolding in New York, American Airlines Flight 77 circled over downtown Washington, D.C., and slammed into the west side of the Pentagon military headquarters at 9:45 a.m. Jet fuel from the Boeing 757 caused a devastating inferno that led to the structural collapse of a portion of the giant concrete building. All told, 125 military personnel and civilians were killed in the Pentagon, along with all 64 people aboard the airliner.
+						Less than 15 minutes after the terrorists struck the nerve center of the U.S. military, the horror in New York took a catastrophic turn for the worse when the south tower of the World Trade Center collapsed in a massive cloud of dust and smoke. The structural steel of the skyscraper, built to withstand winds in excess of 200 miles per hour and a large conventional fire, could not withstand the tremendous heat generated by the burning jet fuel. At 10:30 a.m., the other Trade Center tower collapsed. Close to 3,000 people died in the World Trade Center and its vicinity, including a staggering 343 firefighters and paramedics, 23 New York City police officers and 37 Port Authority police officers who were struggling to complete an evacuation of the buildings and save the office workers trapped on higher floors. Only six people in the World Trade Center towers at the time of their collapse survived. Almost 10,000 others were treated for injuries, many severe.
+						Meanwhile, a fourth California-bound plane–United Flight 93–was hijacked about 40 minutes after leaving Newark International Airport in New Jersey. Because the plane had been delayed in taking off, passengers on board learned of events in New York and Washington via cell phone and Airfone calls to the ground. Knowing that the aircraft was not returning to an airport as the hijackers claimed, a group of passengers and flight attendants planned an insurrection. One of the passengers, Thomas Burnett Jr., told his wife over the phone that "I know we're all going to die. There's three of us who are going to do something about it. I love you, honey." Another passenger–Todd Beamer–was heard saying "Are you guys ready? Let's roll" over an open line. Sandy Bradshaw, a flight attendant, called her husband and explained that she had slipped into a galley and was filling pitchers with boiling water. Her last words to him were "Everyone's running to first class. I've got to go. Bye."
+						The passengers fought the four hijackers and are suspected to have attacked the cockpit with a fire extinguisher. The plane then flipped over and sped toward the ground at upwards of 500 miles per hour, crashing in a rural field in western Pennsylvania at 10:10 a.m. All 45 people aboard were killed. Its intended target is not known, but theories include the White House, the U.S. Capitol, the Camp David presidential retreat in Maryland or one of several nuclear power plants along the eastern seaboard.
+						At 7 p.m., President George W. Bush, who had spent the day being shuttled around the country because of security concerns, returned to the White House. At 9 p.m., he delivered a televised address from the Oval Office, declaring, "Terrorist attacks can shake the foundations of our biggest buildings, but they cannot touch the foundation of America. These acts shatter steel, but they cannot dent the steel of American resolve." In a reference to the eventual U.S. military response he declared, "We will make no distinction between the terrorists who committed these acts and those who harbor them."
+						Operation Enduring Freedom, the American-led international effort to oust the Taliban regime in Afghanistan and destroy Osama bin Laden's terrorist network based there, began on October 7. Within two months, U.S. forces had effectively removed the Taliban from operational power, but the war continued, as U.S. and coalition forces attempted to defeat a Taliban insurgency campaign based in neighboring Pakistan. Osama bin Laden, the mastermind behind the September 11th attacks, remained at large until May 2, 2011, when he was finally tracked down and killed by U.S. forces at a hideout in Abbottabad, Pakistan. In June 2011, President Barack Obama announced the beginning of large-scale troop withdrawals from Afghanistan, with a final withdrawal of U.S. forces tentatively scheduled for 2014.
+				</description>
+				<location>
+					<city>New York</city>
+					<state>NY</state>
+					<country>U.S.A</country>
+				</location>
+				<images>
+						<image>
+								<source>http://gipsygeek.files.wordpress.com/2011/05/september-11-terrorist-attacks.jpg</source>
+								<description>The trigger of the war against terror.</description>
+						</image>
+						<image>
+								<source>http://arabisouri.files.wordpress.com/2012/03/911-3.jpg</source>
+								<description>Devastation in the aftermath of the September 11 terrorist attacks</description>
+						</image>
+						<image>
+								<source>http://gipsygeek.files.wordpress.com/2011/05/8.jpg</source>
+								<description>Ground Zero in April 2010. Viewed from the Hilton hotel.</description>
+						</image>
+				</images>
+				<maps>
+						<map>
+								<source>https://maps.google.com/maps?hl=en&safe=off&q=ground+zero&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=35466521&biw=1196&bih=679&um=1&ie=UTF-8&sa=N&tab=wl</source>
+								<description>map descr</description>
+						</map>
+				</maps>
+				<videos>
+						<youtube>wNNTcHq5Tzk</youtube>
+						<vimeo>12862489</vimeo>
+				</videos>
+				<social>
+						<facebook>911memorial</facebook>
+						<twitter>@sept11memorial</twitter>
+					</social>   
+				<citations>
+					<citation>
+							<source>http://en.wikipedia.org/wiki/September_11_attacks</source>
+							<description>911 Wiki Page</description>
+					</citation> 
+				</citations>
+				<external-links>
+					<external-link>
+							<source>http://www.911memorial.org/</source>
+							<description>External Link</description>
+					</external-link> 
+				</external-links>
+				<start-date>2001-09-11T08:46:00</start-date>
+				<human-impact>
+					<deaths>2996</deaths>
+					<missing>3000</missing>
+					<injured>6000</injured>
+					<displaced>0</displaced>
+				</human-impact>
+				<economic-impact>2730000000</economic-impact>
+				<resources-needed>
+				</resources-needed>
+				<ways-to-help>
+					 <way>Donations</way>
+				</ways-to-help>
+				<organization-refs>nyfd red-cross-red-crescent</organization-refs>
+				<person-refs>george-w-bush bill-clinton</person-refs>
+			</crisis>
+			
+			<crisis id = "sichuan-earthquake">
+				<name>Sichuan Earthquake</name>
+				<kind>Earthquake</kind>
+				<description>The 2008 Sichuan earthquake or the Great Sichuan Earthquake was a deadly earthquake that measured at 8.0 Ms and 7.9 Mw occurred at 01:09:56 CST (06:28 UTC) on Monday, May 12, 2008 in Sichuan province of China, killing an estimated 68,000 people.
+						It is also known as the Wenchuan earthquake, after the location of the earthquake's epicenter, Wenchuan County in Sichuan province. The epicenter was 80 kilometres (50 mi) west-northwest of Chengdu, the capital of Sichuan, with a focal depth of 19 kilometres (12 mi). The earthquake was also felt in nearby countries and as far away as both Beijing and Shanghai—1,500 kilometres (932 mi) and 1,700 kilometres (1,056 mi) away—where office buildings swayed with the tremor.
+						Official figures (as of July 21, 2008 12:00 CST) stated that 69,197 were confirmed dead, including 68,636 in Sichuan province, and 374,176 injured, with 18,222 listed as missing. The earthquake left about 4.8 million people homeless,[18] though the number could be as high as 11 million. Approximately 15 million people lived in the affected area. It was the deadliest earthquake to hit China since the 1976 Tangshan earthquake, which killed at least 240,000 people, and the strongest since the 1950 Chayu earthquake in the country, which registered at 8.5 on the Richter magnitude scale. It is the 21st deadliest earthquake of all time.
+						Strong aftershocks, some exceeding magnitude 6, continued to hit the area even months after the main quake, causing new casualties and damage.
+				</description>
+				<location>
+					<city>Sichuan</city>
+					<country>China</country>
+				</location>
+				<images>
+						<image>
+								<source>http://upload.wikimedia.org/wikipedia/commons/e/e1/Sichuan_earthquake_jundao.JPG</source>
+								<description>Some description</description>
+						</image>
+						<image>
+								<source>http://upload.wikimedia.org/wikipedia/commons/0/05/2008_Sichuan_earthquake_map_no_labels.svg</source>
+								<description>Some description</description>
+						</image>
+				</images>
+				<maps>
+						<map>
+								<source>https://maps.google.com/maps?hl=en&q=sichuan++map&ie=UTF-8&hq=&hnear=0x36e4e73368bdcdb3:0xde8f7ccf8f99feb9,Sichuan,+China&gl=us&ei=M-qGULO8EPKA2QWzsoHIDg&ved=0CB0Q8gEwAA</source>
+								<description>map descr</description>
+						</map>
+				</maps>
+				<videos>
+						<youtube>pk0I8AyEW14</youtube>
+						<vimeo>4607756</vimeo>
+				</videos>
+				<social>
+						<facebook>184774264880370</facebook>
+					</social>   
+				<citations>
+					<citation>
+							<source>http://en.wikipedia.org/wiki/2008_Sichuan_earthquake</source>
+							<description>Sichuan Earthquake Wiki Page</description>
+					</citation> 
+				</citations>
+				<external-links>
+					<external-link>
+							<source>http://sichuan-quake-relief.org/</source>
+							<description>External Link</description>
+					</external-link> 
+				</external-links>
+				<start-date>2008-05-12T01:09:56</start-date>
+				<human-impact>
+					<deaths>69195</deaths>
+					<missing>18392</missing>
+					<injured>374643</injured>
+					<displaced>4800000</displaced>
+				</human-impact>
+				<economic-impact>1072790600</economic-impact>
+				<resources-needed>
+				</resources-needed>
+				<ways-to-help>
+					 <way>Donations</way>
+				</ways-to-help>
+				<organization-refs>red-cross-china</organization-refs>
+				<person-refs>yao-ming</person-refs>
+			</crisis>
+	</crises>
+
+	<organizations>
+		<organization id = "nyfd">
+			<name>New York City Fire Department</name>
+			<alternate-names>NYFD</alternate-names>
+			<kind>Emergency service</kind>
+			<description>The origins of the New York City Fire Department trace back to 1648 when the first fire ordinance was adopted in what then was the Dutch settlement of New Amsterdam. Hooks, ladders and buckets were financed through the collection of fines for dirty chimneys and a fire watch was established consisting of eight wardens which were drawn from the male population. An organization known as the prowlers but given the nickname the rattle watch patrolled the streets with buckets, ladders and hooks from nine in the evening until dawn looking for fires. Leather shoe buckets, 250 in all, were manufactured by local Dutch shoemakers in 1658, and these bucket brigades are regarded as the beginning of the New York Fire Department
+    				In 1664 New Amsterdam became a British settlement and was renamed New York.The first New York fire brigade entered service in 1731 equipped with two hand-drawn pumpers which had been transported from London, England. These two pumpers formed Engine Company 1 and Engine Company 2. These were the first fire engines to be used in the American colonies, and all able-bodied citizens were required to respond to a fire alarm and to participate in the extinguishing under the supervision of the Aldermen
+  				  	The city's first firehouse was built in 1736 in front of City Hall on Broad Street. A year later, on December 16, 1737, the colony's General Assembly created the Volunteer Fire Department of the City of New York, appointing 30 men who would remain on call in exchange for exemption from jury and militia duty. The city's first official firemen were required to be "able, discreet, and sober men who shall be known as Firemen of the City of New York, to be ready for service by night and by day and be diligent, industrious and vigilant."
+    				Although the 1737 Act created the basis of the fire department, the actual legal entity was incorporated in the State of New York on March 20, 1798 under the name of "Fire Department, City of New York."
+			</description>
+			<location>
+				<city>Staten Island</city>
+				<state>NY</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<image>
+					<source>http://upload.wikimedia.org/wikipedia/en/thumb/6/65/New_York_City_Fire_Department_Emblem.svg/514px-New_York_City_Fire_Department_Emblem.svg.png</source>
+					<description>Image 1</description>
+				</image>
+				<image>
+					<source>http://upload.wikimedia.org/wikipedia/en/thumb/5/5f/BrooklynFirehouse911Memorial.JPG/800px-BrooklynFirehouse911Memorial.JPG</source>
+					<description>Image 2</description>
+				</image>
+				<image>
+					<source>https://sphotos-b.xx.fbcdn.net/hphotos-ash4/335652_10150521934505729_276128794_o.jpg</source>
+					<description>Image 3</description>
+				</image>
+			</images>
+			<maps>
+				<map>
+					<source>http://www.utexas.edu</source>
+					<description>http://www.google.com</description>
+				</map>
+			</maps>
+			<videos>
+				<youtube>YZ4hK1aGY7Q</youtube>
+				<youtube>UINW1Ls64T8</youtube>
+			</videos>
+			<social>
+				<facebook>FDNY</facebook>
+				<twitter>@FDNY</twitter>
+			</social>
+			<citations>
+				<citation>
+					<source>http://www.utexas.edu</source>
+					<description>Citations</description>
+				</citation>
+			</citations>
+			<external-links>
+				<external-link>
+					<source>http://www.nyc.gov/fdny</source>
+					<description>NYFD website</description>
+				</external-link>
+			</external-links>
+			<address>New York City, NY, United States</address>
+			<email>contactus@nycgov.com</email>
+			<phone>911</phone> <!--these three things must occur minimum once-->
+			<crisis-refs>september11</crisis-refs>
+			<person-refs>george-w-bush bill-clinton</person-refs>
+		</organization>
+
+		<organization id = "red-cross-china">
+			<name>Red Cross China</name>
+			<alternate-names>Red Cross China</alternate-names>
+			<kind>Humanitarian organization</kind>
+			<description>The Red Cross Society of China (RCSC), the only national Red Cross society in the People’s Republic of China, is a humanitarian social relief organization.
+					Founded on March 10th 1904, the RCSC has been involved in assisting wounded soldier, helping the refugees in times of conflict and providing assistance to disaster victims. 
+					The RCSC aslso supports whenever possible relief activities in other countries and regions. After the founding of the People’s Republic of China, with the support of the Central Government,
+					the RCSC was reorganized in August, 1950 and reclaimed its legal membership in the International Federation of Red Cross and Red Crescent Societies. 
+					The RCSC has been contributing a lot to assisting the Government in implementing the Geneva Conventions, supporting the state development and improving the people’s health. In 1993, 
+					the Standing Committee of National People’s Congress officially promulgated the Red Cross Law of the People’s Republic of China, which provides legal protection to the Chinese Red Cross and its work. 
+					The Red Cross of Hong Kong and Macau became highly autonomous branches of the RCSC in 1997 and 1999 respectively.
+			</description>
+			<location>
+				<city>Beijing</city>
+				<country>China</country>
+			</location>
+			<images>
+				<image>
+					<source>http://upload.wikimedia.org/wikipedia/en/f/f5/Rcsoc-logo.png</source>
+					<description>Image 1</description>
+				</image>
+				<image>
+					<source>http://www.asiahealthcareblog.com/wp-content/uploads/2011/09/china-foreign-hospital-zhongfang-red-cross-hospital-585x426.jpg</source>
+					<description>Image 2</description>
+				</image>
+				<image>
+					<source>http://www.icrc.org/eng/assets/images/photos/2010/china-expo-guo-changjiang-2010-11-25.jpg</source>
+					<description>Image 3</description>
+				</image>
+			</images>
+			<videos>
+				<youtube>MNjegNbAXF0</youtube>
+				<youtube>7eDtyzQmuo4</youtube>
+			</videos>
+			<social>
+				<facebook>199331446825243</facebook>
+			</social>
+			<citations>
+				<citation>
+					<source>http://www.utexas.edu</source>
+					<description>Citations</description>
+				</citation>
+			</citations>
+			<external-links>
+				<external-link>
+					<source>http://www.redcross.org.cn/ywzd</source>
+					<description>Red Cross China Website</description>
+				</external-link>
+			</external-links>
+			<address>Beijing, People Republic of China</address>
+			<email>Rcsc@chineseredcross.org.cn</email>
+			<phone>861065139999</phone> <!--these three things must occur minimum once-->
+			<crisis-refs>sichuan-earthquake</crisis-refs>
+			<person-refs>yao-ming</person-refs>
+		</organization>
+
+		<organization id = "red-cross-red-crescent">
+			<name>International Federation of Red Cross and Red Crescent Societies</name>
+			<alternate-names>REDCROSS</alternate-names>
+			<kind>Humanitarian organization</kind>
+			<description>Until the middle of the 19th century, there were no organized and/or well-established army nursing systems for casualties and no safe and protected institutions to accommodate and treat those who were wounded on the battlefield. 
+			In June 1859, the Swiss businessman Jean-Henri Dunant traveled to Italy to meet French emperor Napoléon III with the intention of discussing difficulties in conducting business in Algeria, at that time occupied by France. 
+			When he arrived in the small town of Solferino on the evening of June 24, he witnessed the Battle of Solferino, an engagement in the Austro-Sardinian War. In a single day, about 40,000 soldiers on both sides died or were left wounded on the field. 
+			Jean-Henri Dunant was shocked by the terrible aftermath of the battle, the suffering of the wounded soldiers, and the near-total lack of medical attendance and basic care. 
+			He completely abandoned the original intent of his trip and for several days he devoted himself to helping with the treatment and care for the wounded. He succeeded in organizing an overwhelming level of relief assistance by motivating the local villagers to aid without discrimination.
+			In 1863, Gustave Moynier, a Geneva lawyer and president of the Geneva Society for Public Welfare, received a copy of Dunant's book and introduced it for discussion at a meeting of that society. 
+			As a result of this initial discussion the society established an investigatory commission to examine the feasibility of Dunant's suggestions and eventually to organize an international conference about their possible implementation. 
+			The members of this committee, which has subsequently been referred to as the "Committee of the Five," aside from Dunant and Moynier were physician Louis Appia, who had significant experience working as a field surgeon; 
+			Appia's friend and colleague Théodore Maunoir, from the Geneva Hygiene and Health Commission; and Guillaume-Henri Dufour, a Swiss Army general of great renown. Eight days later, the five men decided to rename the committee to the 
+			"International Committee for Relief to the Wounded". In October (26–29) 1863, the international conference organized by the committee was held in Geneva to develop possible measures to improve medical services on the battlefield. 
+			The conference was attended by 36 individuals: eighteen official delegates from national governments, six delegates from other non-governmental organizations, seven non-official foreign delegates, and the five members of the International Committee.
+			The states and kingdoms represented by official delegates were: Austria, Baden, Bavaria, France, Hanover, Electorate of Hesse, Italy, The Netherlands, Prussia, Russian Empire, Saxony, Spain, Sweden-Norway, United Kingdom.
+			</description>
+			<location>
+				<city>Washington D.C.</city>
+				<country>USA</country>
+			</location>
+			<images>
+				<image>
+					<source>http://www.ifrc.org/PageFiles/100012/20121022-thailand-mangrove_main.jpg</source>
+					<description>Image 1</description>
+				</image>
+				<image>
+					<source>http://upload.wikimedia.org/wikipedia/commons/6/67/IFRC_Logo_original.png</source>
+					<description>Image 2</description>
+				</image>
+				<image>
+					<source>http://www.ifrc.org/PageFiles/41203/p17147.jpg</source>
+					<description>Image 3</description>
+				</image>
+			</images>
+			<maps>
+				<map>
+					<source>http://www.utexas.edu</source>
+					<description>http://www.google.com</description>
+				</map>
+			</maps>
+			<videos>
+				<youtube>VprxqSAASqo</youtube>
+				<youtube>ivC9Dr-FXyE</youtube>
+			</videos>
+			<social>
+				<facebook>103152819725155</facebook>
+				<twitter>@Federation</twitter>
+				<youtube>AmRedCross</youtube>
+			</social>
+			<citations>
+			</citations>
+			<external-links>
+				<external-link>
+					<source>http://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Movement</source>
+					<description>Wikipedia article</description>
+				</external-link>
+			</external-links>
+			<address>CH-1211 Geneva 19, Switzerland</address>
+			<phone>41227304222</phone> <!--these three things must occur minimum once-->
+			<crisis-refs>september11 beslan-school-siege</crisis-refs>
+			<person-refs>george-w-bush bill-clinton</person-refs>
+		</organization>
+
+		<organization id = "usaid">
+			<name>United States Agency for International Development</name>
+			<alternate-names>NYFD</alternate-names>
+			<kind>Humanitarian organization</kind>
+			<description>The United States has a long history of extending a helping hand to people overseas struggling to make a better life. 
+					It is a history that both reflects the American people's compassion and support of human dignity as well as advances U.S. foreign policy interests.
+					In order to support these goals, President John. F. Kennedy created the United States Agency for International Development by executive order in 1961.U.S. foreign assistance 
+					has always had the twofold purpose of furthering America's interests while improving lives in the developing world. 
+					USAID carries out U.S. foreign policy by promoting broad-scale human progress at the same time it expands stable, free societies, creates markets and trade partners for the United States, 
+					and fosters good will abroad.
+			</description>
+			<location>
+				<city>New York</city>
+				<state>NY</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<image>
+					<source>http://nationalyemen.com/wp-content/uploads/2012/06/USAID-Logo.jpg</source>
+					<description>Image 1</description>
+				</image>
+				<image>
+					<source>http://transition.usaid.gov/locations/sub-saharan_africa/images/ethiopia.jpg</source>
+					<description>Image 2</description>
+				</image>
+				<image>
+					<source>https://sphotos-b.xx.fbcdn.net/hphotos-ash4/335652_10150521934505729_276128794_o.jpg</source>
+					<description>Image 3</description>
+				</image>
+			</images>
+			<videos>
+				<youtube>2YUHoJUBAKk</youtube>
+				<youtube>sOk9LvwiJpw</youtube>
+				<youtube>9xak0YofVCQ</youtube>
+			</videos>
+			<social>
+				<facebook>USAID</facebook>
+				<twitter>@USAID</twitter>
+				<youtube>USaidVideo</youtube>
+			</social>
+			<citations>
+			</citations>
+			<external-links>
+				<external-link>
+					<source>http://www.usaid.gov</source>
+					<description>USAID website</description>
+				</external-link>
+			</external-links>
+			<address>New York City, NY, United States</address>
+			<email>pinquiries@usaid.gov</email>
+			<phone>2027120000</phone> <!--these three things must occur minimum once-->
+			<crisis-refs>september11 izmit-earthquake sichuan-earthquake</crisis-refs>
+			<person-refs>george-w-bush bill-clinton yao-ming</person-refs>
+		</organization>
+
+	</organizations>
+	
+	<people>
+		<person id="george-w-bush">
+			<name>George W. Bush</name>
+			<alternate-names>GWB</alternate-names>
+			<kind>President of The USA</kind>
+			<description>The airborne terrorist attacks on the World Trade Center, the Pentagon, and the thwarted flight against the White House of Capitol on September 11, 2001, in which nearly
+			3,000 Americans were killed, transformed George W. Bush into a wartime president. The attacks put on hold many of Bush’s hopes and plans, and Bush’s father, George Bush, the 41st president, declared
+			that his son “faced the greatest challenge of any president since Abraham Lincoln.” In response, Bush formed a new cabinet-level Department of Homeland Security, sent American forces into Afghanistan
+			to break up the Taliban, a movement under Osama bin Laden that trained financed and exported terrorist teams. The Taliban was successfully disrupted but Bin Laden was not captured and was still on the
+			loose as Bush began his second term. Following the attacks, the president also recast the nation’s intelligence gathering and analysis services, and ordered reform of the military forces to meet the
+			new enemy. At the same time he delivered major tax cuts which had been a campaign pledge. His most controversial act was the invasion of Iraq on the belief that Iraqi President Saddam Hussein posed a
+			grave threat to the United States. Saddam was captured, but the disruption of Iraq and the killing of American servicemen and friendly Iraqis by insurgents became the challenge of Bush’s government as
+			he began his second term. President Bush pledged during his 2005 State of the Union Address that the United States would help the Iraqi people establish a fully democratic government because the
+			victory of freedom in Iraq would strengthen a new ally in the war on terror, bring hope to a troubled region, and lift a threat from the lives of future generations. Bush was born in New Haven,
+			Connecticut while his father was attending Yale University after service in World War II. The family moved to Midland, Texas, where the senior Bush entered the oil exploration business. The son spent
+			formative years there, attended Midland public schools, and formed friendships that stayed with him into the White House. Bush graduated from Yale, received a business degree from Harvard, and then
+			returned to Midland where he too got into the oil business. In Midland he met and married Laura Welch, a teacher and librarian. They had twin daughters, Jenna and Barbara, now out of college and
+			pursuing careers. When George W. Bush, at the age of 54, became the 43rd president of the United States, it was only the second time in American history that a president’s son went on to the White
+			House. John Quincy Adams, elected the sixth president in 1824, was the son of John Adams, the second president. While John Adams had groomed his son to be president, George Bush, the 41st president,
+			insisted he was surprised when the eldest of his six children became interested in politics, became governor of Texas, and then went on to the White House. During the early part of the 2000 campaign
+			for the White House, Bush enjoyed a double-digit lead in the polls over his opponent Vice President Al Gore Jr. But the gap closed as the election approached and though Gore finally won the popular
+			vote by 543,895 votes, victory or loss of the presidency hinged on Florida’s electoral votes. That struggle through recounts and lawsuits worked its way to the Supreme Court. In the end Bush won the
+			electoral count 271 to 266. His new administration was focused on “compassionate conservatism,” which embraced excellence in education, tax relief and volunteerism among faith-based and community
+			organizations. Bush was challenged in his re-election bid in 2004 by Massachusetts Democratic Senator John Kerry. The election was a good contest, but Bush’s contention that the invasion of Iraq had
+			made the world more secure against terrorism won the national political debate. Bush was re-elected with 51 percent to 48 percent. On the inaugural stand, George W. Bush set the theme for his second
+			term: “At this second gathering, our duties are defined not by the words I use, but by the history we have seen together. For half a century, America defended our own freedom by standing watch on
+			distant borders. After the shipwreck of communism came years of relative quiet- and then there came a day of fire. There is only one force of history that can break the reign of hatred and resentment,
+			and expose the pretensions of tyrants, and reward the hopes of the decent and tolerant, and that is the force of human freedom – tested but not weary… we are ready for the greatest achievements in the
+			history of freedom.” The Presidential biographies on WhiteHouse.gov are from “The Presidents of the United States of America,” by Michael Beschloss and Hugh Sidey. Copyright 2009 by the White House
+			</description>
+			<location>
+				<city>Washington D.C.</city>
+				<country>USA</country>
+			</location>
+			<images>
+				<image>
+					<source>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/225px-George-W-Bush.jpeg</source>
+					<description>Wikimedia picture</description>
+				</image>
+			</images>
+			<videos>
+				<youtube>4RbAZj9RB94</youtube>
+			</videos>
+			<social>
+				<facebook>georgewbush</facebook>
+				<twitter>@GeorgeBush</twitter>
+				<youtube>TheBushCenter</youtube>
+			</social>
+			<citations>
+				<citation>
+					<source>http://politicalhumor.about.com/od/bushquotes/a/dumbbushquotes_3.htm</source>
+					<description>George W. Bush quotes</description>
+				</citation>
+			</citations>
+			<external-links>
+				<external-link>
+					<source>http://www.bushcenter.com</source>
+					<description>Bush Center Website</description>
+				</external-link>
+			</external-links>
+			<crisis-refs>september11</crisis-refs>
+			<organization-refs>nyfd usaid red-cross-red-crescent</organization-refs>
+		</person>
+
+		<person id="bill-clinton">
+			<name>Bill Clinton</name>
+			<alternate-names>Clinton</alternate-names>
+			<kind>President of The USA</kind>
+			<description>William Jefferson "Bill" Clinton (born William Jefferson Blythe III; August 19, 1946) is an American politician who served as the 42nd President of the United States from 1993 to 2001. Inaugurated at age 46, he was the third-youngest president. He took office at the end of the Cold War, and was the first president of the baby boomer generation.
+   			 	On the Izmit Earthquake “We were so impressed that a total of 87 other countries came forward to help the people of Turkey who were hurt in the earthquake. And we were very grateful that one of the countries that came forward to help was your neighbor Greece. And then, when the Greeks had their earthquake, the Turkish people came forward to help them.
+			 	I hope the ordinary people in Greece and Turkey who have suffered from these terrible natural disasters can send a clear message to the leaders that the people of this region can get along, and they should get along, and when they do get along, our children's lives and futures are better.
+				Now, in the meanwhile, I want you to know that we in the United States will do everything we can to help you until your lives return to normal. And we will help those people in the area hit by the most recent earthquake. We will stay with you and work with you. And I just want to urge you to keep your spirits up, keep the smiles on your children's faces, keep helping the people who lost their loved ones in the earthquake, and know that together we will get through this to better days
+			</description>
+			<location>
+				<city>Washington D.C.</city>
+				<country>USA</country>
+			</location>
+			<images>
+				<image>
+					<source>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/220px-Bill_Clinton.jpg</source>
+					<description>Wikimedia picture</description>
+				</image>
+				<image>
+					<source>http://photos.state.gov/galleries/ankara/9104/between_friends_photo_exhibit/clinton_and_kids.jpg</source>
+					<description>Online picture</description>
+				</image>
+			</images>
+			<maps>
+				<map>
+					<source>https://maps.google.com/maps?hl=en&q=bill+clinton+map&ie=UTF-8&ei=cD6GUNbOMaGQ2gXk6YC4Bw&ved=0CAgQ_AUoAg</source>
+					<description>Location</description>
+				</map>
+			</maps>
+			<videos>
+				<youtube>khiF5CU3z6M</youtube>
+			</videos>
+			<social>
+				<facebook>billclinton</facebook>
+				<twitter>@billclinton</twitter>
+				<youtube>HCwPNX4JgRNRE</youtube>
+			</social>
+			<citations>
+				<citation>
+					<source>http://politicalhumor.about.com/cs/quotethis/a/clintonquotes.htm</source>
+					<description>Quotes</description>
+				</citation>
+			</citations>  
+			<external-links>
+				<external-link>
+					<source>http://en.wikipedia.org/wiki/Clinton_Foundation</source>
+					<description>Clinton Foundation Website</description>
+				</external-link>
+			</external-links>
+			<crisis-refs>izmit-earthquake september11</crisis-refs>
+			<organization-refs>usaid nyfd red-cross-red-crescent</organization-refs>
+		</person>
+
+		<person id="yao-ming">
+			<name>Yao Ming</name>
+			<alternate-names>Shaquie Chan</alternate-names>
+			<kind>NBA Player</kind>
+			<description>The 7-foot 6-inch Yao Ming was drafted by the Houston Rockets as the first pick 
+			in the 2002 NBA draft. That season he was an All-Star and was on the league's 
+			All-Rookie team. Yao earned all-star honors in each of the following six seasons and 
+			helped the Rockets to playoff appearances in five of those years. Yao soon became the 
+			focus of the NBA's efforts to popularize the league around the globe. In June of 2008,
+			he started the Yao Ming Foundation in response to the earthquake in the Sichuan Province of China. 
+			</description>
+			<location>
+				<city>Houston</city>
+				<state>TX</state>
+				<country>USA</country>
+			</location>
+			<images>
+				<image>
+					<source>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/YaoMingonoffense2.jpg/399px-YaoMingonoffense2.jpg</source>
+					<description>Wikimedia picture</description>
+				</image>
+				<image>
+					<source>http://saceweb.com/yahoo_site_admin/assets/images/Yaoming_Earthquate_Donation_resize.13594706.JPG</source>
+					<description>Yao Ming picture</description>
+				</image>
+			</images>
+			<videos>
+				<youtube>NJtmLcwNcZg</youtube>
+				<youtube>T8RvV1m19BI</youtube>
+				<youtube>r8STO24L_NY</youtube>
+			</videos>
+			<social>
+				<facebook>Yao</facebook>
+				<twitter>@YaoMing</twitter>
+				<youtube>HCjcRbqn3UGxE</youtube>
+			</social>
+			<citations>
+				<citation>
+					<source>http://www.brainyquote.com/quotes/authors/y/yao_ming.html</source>
+					<description>Yao Ming Quotes</description>
+				</citation>
+			</citations>
+			<external-links>
+				<external-link>
+					<source>http://en.wikipedia.org/wiki/Yao_Ming</source>
+					<description>Wikipedia</description>
+				</external-link>
+			</external-links>
+			<crisis-refs>sichuan-earthquake</crisis-refs>
+			<organization-refs>red-cross-china</organization-refs>
+		</person>
+
+		<person id = "vladimir-putin">
+			<name>Vladimir Putin</name>
+			<alternate-names>Ostrich Legs</alternate-names>
+			<kind>President of the Russian Federation</kind>
+			<description>Vladimir Putin, in full Vladimir Vladimirovich Putin   (born October 7, 1952, Leningrad, Russia, U.S.S.R. [now St. Petersburg, Russia]), 
+			Russian intelligence officer and politician who served as president (1999–2008, 2012– ) of Russia and also was the country’s prime minister (1999, 2008–12). 
+			Putin studied law at Leningrad State University, where his tutor was Anatoly Sobchak, later one of the leading reform politicians of the perestroika period. 
+			Putin served 15 years as a foreign intelligence officer for the KGB (Committee for State Security), including six years in Dresden, East Germany. 
+			Putin has been widely credited for overseeing a return of political stability and economic progress to Russia, ending the crisis of the 1990s. 
+			During Putin's first premiership and presidency (1999–2008), real incomes increased by a factor of 2.5, real wages more than tripled; 
+			unemployment and poverty more than halved and the Russians' self-assessed life satisfaction rose significantly.
+			Putin's first presidency was marked by high economic growth: the Russian economy grew for eight straight years, seeing GDP increase by 72% in PPP (sixfold in nominal). 
+			These achievements have been ascribed by analysts to good macroeconomic management, important fiscal reforms, 
+			increasing capital inflows, access to low-cost external financing and a five - fold increase in the price of oil and gas which constitute the majority of Russian exports.
+			</description>
+			<location>
+				<city>Moscow</city>
+				<country>Russian Federation</country>
+			</location>
+			<images>
+				<image>
+					<source>http://www.csmonitor.com/var/ezflow_site/storage/images/media/images/1230-russia-putin-400x600/7165437-1-eng-US/1230-Russia-Putin-400x600_full_600.jpg</source>
+					<description>Vladimir Putin's photo</description>
+				</image>
+				<image>
+					<source>http://www.xtimeline.com/__UserPic_Large/4316/ELT200801170729478882525.JPG</source>
+					<description>Vladimir Putin's photo</description>
+				</image>
+				<image>
+					<source>http://media.web.britannica.com/eb-media/83/90083-004-1B3301F0.jpg</source>
+					<description>Vladimir Putin's photo</description>
+				</image>
+			</images>
+			<videos>
+				<youtube>TNiWnSOsAnE</youtube>
+				<youtube>ZR84oXysqoA</youtube>
+				<vimeo>38458300</vimeo>
+			</videos>
+			<social>
+				<facebook>vladimirputinandrussia</facebook>
+				<twitter>@kremlinrussia_e</twitter>
+				<youtube>HCk-Po8D6ZZbo</youtube>
+			</social>
+			<citations>
+				<citation>
+					<source>http://en.wikiquote.org/wiki/Vladimir_Putin</source>
+					<description>Vladimir Putin's quotes</description>
+				</citation>
+			</citations>
+			<external-links>
+				<external-link>
+					<source>http://www.britannica.com/EBchecked/topic/484357/Vladimir-Putin</source>
+					<description>Biography</description>
+				</external-link>
+			</external-links>
+			<crisis-refs>beslan-school-siege</crisis-refs>
+			<organization-refs>usaid</organization-refs>
+		</person>
+	</people>
+</world-crises>

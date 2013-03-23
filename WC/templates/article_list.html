@@ -1,0 +1,16 @@
+<script type="text/javascript">
+	$('button').button();
+</script>
+<div class="article_list_title">- {{page_title}} -</div>
+<ul class="article_list">
+    {%for article in article_list%}
+    <li class="article_item"><img class="article_image" src="{{article.image_source}}">
+        <div class="article_item_right">
+            <h3 class="article_title">{{article.name}}</h3>
+            <p class="article_text">{{article.description}}</p>
+            <div class="article_control">
+                <button class="read_full" value="/article/{{article.button}}">read full article</button>
+            </div>
+        </div>
+        <div style="clear: both"></div></li> {%endfor%}
+</ul>

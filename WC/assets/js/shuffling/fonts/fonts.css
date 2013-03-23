@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'DroidSansRegular';
+    src: url('Droid-Sans/DroidSans-webfont.eot');
+    src: url('Droid-Sans/DroidSans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Droid-Sans/DroidSans-webfont.woff') format('woff'),
+         url('Droid-Sans/DroidSans-webfont.ttf') format('truetype'),
+         url('Droid-Sans/DroidSans-webfont.svg#DroidSansRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'YanoneKaffeesatzRegular';
+    src: url('Yanone-Kaffeesatz/YanoneKaffeesatz-Regular-webfont.eot');
+    src: url('Yanone-Kaffeesatz/YanoneKaffeesatz-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Yanone-Kaffeesatz/YanoneKaffeesatz-Regular-webfont.woff') format('woff'),
+         url('Yanone-Kaffeesatz/YanoneKaffeesatz-Regular-webfont.ttf') format('truetype'),
+         url('Yanone-Kaffeesatz/YanoneKaffeesatz-Regular-webfont.svg#YanoneKaffeesatzRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'YanoneKaffeesatzBold';
+    src: url('Yanone-Kaffeesatz/YanoneKaffeesatz-Bold-webfont.eot');
+    src: url('Yanone-Kaffeesatz/YanoneKaffeesatz-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Yanone-Kaffeesatz/YanoneKaffeesatz-Bold-webfont.woff') format('woff'),
+         url('Yanone-Kaffeesatz/YanoneKaffeesatz-Bold-webfont.ttf') format('truetype'),
+         url('Yanone-Kaffeesatz/YanoneKaffeesatz-Bold-webfont.svg#YanoneKaffeesatzBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Lobster14Regular';
+    src: url('Lobster14/lobster1.4-webfont.eot');
+    src: url('Lobster14/lobster1.4-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lobster14/lobster1.4-webfont.woff') format('woff'),
+         url('Lobster14/lobster1.4-webfont.ttf') format('truetype'),
+         url('Lobster14/lobster1.4-webfont.svg#Lobster14Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TerminalDosisMedium';
+    src: url('TerminalDosis/terminal_dosis_medium-webfont.eot');
+    src: url('TerminalDosis/terminal_dosis_medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TerminalDosis/terminal_dosis_medium-webfont.woff') format('woff'),
+         url('TerminalDosis/terminal_dosis_medium-webfont.ttf') format('truetype'),
+         url('TerminalDosis/terminal_dosis_medium-webfont.svg#TerminalDosisMedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'TerminalDosisExtraLight';
+    src: url('TerminalDosis/terminal_dosis_extralight-webfont.eot');
+    src: url('TerminalDosis/terminal_dosis_extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('TerminalDosis/terminal_dosis_extralight-webfont.woff') format('woff'),
+         url('TerminalDosis/terminal_dosis_extralight-webfont.ttf') format('truetype'),
+         url('TerminalDosis/terminal_dosis_extralight-webfont.svg#TerminalDosisExtraLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

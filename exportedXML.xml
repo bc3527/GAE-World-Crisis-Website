@@ -1,0 +1,4855 @@
+<world-crises>
+<crises>
+<crisis id="bastrop-county-wildfire">
+<name>Bastrop County Wildfire</name>
+<alternate-names>Bastrop Wildfire</alternate-names>
+<kind>Natural Disaster</kind>
+<description>
+A major wildfire struck the Bastrop County in Texas burning 34,356 acres. It was the most destructive wildfire in Texas history
+</description>
+<location>
+<city>Bastrop</city>
+<state>TX</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://www.topsecretwriters.com/wp-content/uploads/2012/04/bastropwildfire.jpg
+</source>
+<description>Wildfire</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=bastrop+county&amp;amphl=en&amp;ll=30.045322,-97.351227&amp;spn=0.634796,1.362305&amp;sll=37.084227,-94.513281&amp;sspn=0.29251,0.681152&amp;t=h&amp;hnear=Bastrop,+Texas&amp;z=10
+</source>
+<description>Bastrop County Map</description>
+</map>
+</maps>
+<videos>
+<youtube>o5uaR2uSVx4</youtube>
+</videos>
+<social>
+<twitter>#centraltxfires</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Bastrop_County_Complex_fire
+</source>
+<description>Wikipedia</description>
+</citation>
+<citation>
+<source>
+http://www.kxan.com/dpp/news/local/bastrop/resources-were-no-match-for-bastrop-fire
+</source>
+<description>kxan article the wildfire</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://www.insurancecouncil.org/news/2011/Dec082011.pdf
+</source>
+<description>Report of Losses due to Wildfire</description>
+</external-link>
+<external-link>
+<source>http://www.bastroprelief.org/</source>
+<description>Bastrop Relief Website</description>
+</external-link>
+</external-links>
+<start-date>2011-09-04T15:02:00</start-date>
+<human-impact>
+<deaths>2</deaths>
+<missing>17</missing>
+<displaced>5000</displaced>
+</human-impact>
+<economic-impact>325000000</economic-impact>
+<resources-needed>
+<resource>construction materials</resource>
+<resource>food</resource>
+<resource>household appliances</resource>
+<resource>furniture</resource>
+<resource>volunteers</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donate money at BastropRelief.org</way>
+<way>Help with debris cleanup</way>
+<way>Replant trees in the area</way>
+<way>Donate food and goods</way>
+<way>Volunteer</way>
+</ways-to-help>
+</crisis>
+<crisis id="beslan">
+<name>Beslan School Siege</name>
+<kind>Terrorist Attack</kind>
+<description>
+The Beslan school hostage crisis (also referred to as the Beslan school siege or Beslan massacre)of early September 2004 lasted three days and involved the capture of over 1,100 people as hostages (including 777 children), ending with the death of over 380 people. The crisis began when a group of armed separatist militants, mostly Ingush and Chechen, occupied School Number One (SNO) in the town of Beslan, North Ossetia (an autonomous republic in the North Caucasus region of the Russian Federation) on 1 September 2004. The hostage-takers were the Riyadus-Salikhin Battalion, sent by the Chechen separatist warlord Shamil Basayev, who demanded recognition of the independence of Chechnya at the UN and Russian withdrawal from Chechnya. On the third day of the standoff, Russian security forces entered the building with the use of tanks,incendiary rockets and other heavy weapons.At least 334 hostages were killed as a result of the crisis, including 186 children,with a significant number of people injured and reported missing. The event led to security and political repercussions in Russia, most notably a series of federal government reforms consolidating power in the Kremlin and strengthening of the powers of the President of Russia. According to American non-governmental organization (NGO), Freedom House, these reforms consolidated Russia as a politically non-free, authoritarian state since the mid-2000s.As of 2011, aspects of the crisis in relation to the militants remain contentious; including how many militants were involved, the nature of their preparations and whether a section of the group had escaped. Questions about the Russian government's management of the crisis have also persisted; including allegations of disinformation and censorship in news media, whether the journalists who were present at Beslan were allowed to freely report on the crisis,the nature and content of negotiations with the militants, allocation of responsibility for the eventual outcome, and perceptions that excessive force was used.
+</description>
+<location>
+<city>Beslan</city>
+<country>Russian Federation</country>
+</location>
+<images>
+<image>
+<source>
+http://www.zindamagazine.com/html/archives/2004/9.21.04/pix/beslan.jpg
+</source>
+<description/>
+</image>
+<image>
+<source>
+http://thefamilywithoutborders.com/wp-content/uploads/2010/07/beslan-school-gymnasium.jpg
+</source>
+<description>Some descrption for imange</description>
+</image>
+<image>
+<source>
+http://media3.washingtonpost.com/wp-srv/photo/gallery/090901/GAL-09Sep01-2547/media/PHO-09Sep01-176244.jpg
+</source>
+<description>Parents devastated by their loss</description>
+</image>
+<image>
+<source>
+http://img232.imageshack.us/img232/823/bbcbeslangrafico11qm.gif
+</source>
+<description>Some descrption for imange</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=%D0%B1%D0%B5%D1%81%D0%BB%D0%B0%D0%BD+%D0%BA%D0%B0%D1%80%D1%82%D0%B0&ie=UTF-8&hq=&hnear=0x40507a3d42902631:0x44b473c66c3f5648,Beslan,+Respublika+Severnaya+Osetiya-Alaniya,+Russia&gl=us&ei=VFWIUK6WCOfE2gXb_IGABg&ved=0CB8Q8gEwAA
+</source>
+<description>map descr</description>
+</map>
+</maps>
+<videos>
+<youtube>csr9TPGPoxs</youtube>
+<vimeo>34659973</vimeo>
+</videos>
+<social>
+<facebook>vladimirputinandrussia</facebook>
+<twitter>@SOssetia</twitter>
+</social>
+<citations>
+<citation>
+<source>http://www.google.com</source>
+<description>Citations Link</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://en.wikipedia.org/wiki/Beslan_school_hostage_crisis
+</source>
+<description>External Link</description>
+</external-link>
+</external-links>
+<start-date>2004-09-01T09:00:00</start-date>
+<human-impact>
+<deaths>380</deaths>
+<missing>0</missing>
+<injured>783</injured>
+<displaced>0</displaced>
+</human-impact>
+<economic-impact>0</economic-impact>
+<resources-needed/>
+<ways-to-help>
+<way/>
+</ways-to-help>
+<organization-refs>nyfd</organization-refs>
+<person-refs>bush clinton putin</person-refs>
+</crisis>
+<crisis id="copiapo-mine-2010">
+<name>Copiapo Mining Incident 2010</name>
+<kind>Cave In</kind>
+<description>
+Chile's long tradition of mining developed during the 20th century and has made the country the world's top producer of copper. An average of 34 people per year since 2000 have died in mining accidents in Chile, with a high of 43 in 2008, according to figures from the state regulatory agency National Geology and Mining Service. The Copiapo mine is owned by the San Esteban Mining Company (CMSE), a company notorious for operating unsafe mines. According to an official with the non-profit Chilean Safety Association eight workers have died at the San José site in the past 12 years while CMSE was fined 42 times between 2004 and 2010 for breaching safety regulations. The mine was shut down temporarily in 2007 when relatives of a miner killed in an accident sued the company but the mine reopened in 2008 despite non-compliance with regulations. The Copiapo mine collapsed at 2:00 PM on August 5, 2010. When the collapse occured there were two groups of miners. Ones near the exit were able to exit immediately, while the others who were deeper in the mine were evacuated by NASA by October 13, 2010. Initially the 33 miners who weren't able to evacuate the mine were thought to be dead. They tried to escape through the ventilation system but due to the lack of enforcement of the safety codes there were no ladders. Bore holes where drilled in search of these miners. On August 22nd the miners added a message on one of the drills that read "Estamos Bien en el Refugio los 33" which roughly translates to "We are well in the shelter, the 33." The impact of this disaster was that the San Esteban Mining Company was sued for $2 billion for safety regulations. The mine is closed till it is safer to operate and the damages from this incident are still being calculated.
+</description>
+<location>
+<city>Copiapo</city>
+<country>Chile</country>
+<latitude>-27.160203</latitude>
+<longitude>-70.49677</longitude>
+</location>
+<images>
+<image>
+<source>
+http://4.bp.blogspot.com/_DtK7YM4f3hI/THUn3ITAQqI/AAAAAAAAy5U/Zg0DTcl0BFI/s1600/08-23-chile-miners_full_600.jpg
+</source>
+<description>Note from the miners.</description>
+</image>
+<image>
+<source>http://s3.hubimg.com/u/3681186_f260.jpg</source>
+<description>Diagram of Mine.</description>
+</image>
+<image>
+<source>
+http://www.magdeburger-nachrichten.de/wp-content/uploads/2010/10/the-capsule-that-will-carry-the-trapped-miners-safety-lowered-with-rescue-expert-manuel-gonzalez-inside-the-underground-refuge-the-san-jose-mine-e1286946823785.jpg
+</source>
+<description>NASA pulling miners up.</description>
+</image>
+<image>
+<source>
+http://media.katu.com/images/Chile-Mine-celebrate_405.jpg
+</source>
+<description>
+Celebration on completion of getting all the miners
+</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=-27.160203,-70.496778&amp;zoom=8&amp;size=270x270&amp;sensor=false
+</source>
+<description>Map of Copiapo, Chile</description>
+</map>
+</maps>
+<videos>
+<youtube>oE8MrjLd8Go</youtube>
+<youtube>hRdy2gx8_Kc</youtube>
+<vimeo>45203447</vimeo>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>
+http://www.thestar.com/news/world/chile/article/873382--from-collapse-to-rescue-inside-the-chile-mine-disaster
+</source>
+<description>
+From Collapse to Rescue of the Chilean Mine Disaster
+</description>
+</citation>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident
+</source>
+<description>2010 Copiapó mining accident - Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident
+</source>
+<description>2010 Copiapó mining accident - Wikipedia</description>
+</external-link>
+</external-links>
+<start-date>2010-08-05T14:00:00</start-date>
+<human-impact>
+<deaths>0</deaths>
+</human-impact>
+<economic-impact>2000000</economic-impact>
+<resources-needed/>
+<ways-to-help/>
+<organization-refs>nasa</organization-refs>
+</crisis>
+<crisis id="deepwater-horizon-oil-spill">
+<name>Deepwater Horizon Oil Spill</name>
+<alternate-names>BP Oil Spill</alternate-names>
+<kind>environmental disaster</kind>
+<description>
+The Deepwater Horizon oil spill (also referred to as the BP oil spill, the BP oil disaster, the Gulf of Mexico oil spill, and the Macondo blowout) is an oil spill in the Gulf of Mexico which flowed unabated for three months in 2010, and may be continuing to seep. It is the largest accidental marine oil spill in the history of the petroleum industry. The spill stemmed from a sea-floor oil gusher that resulted from the April 20, 2010 explosion of Deepwater Horizon, which drilled on the BP-operated Macondo Prospect. The explosion killed 11 men working on the platform and injured 17 others.
+</description>
+<location>
+<country>United States of America</country>
+</location>
+<images/>
+<maps/>
+<videos/>
+<social/>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Deepwater_Horizon_oil_spill
+</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links/>
+<start-date>2010-04-20T12:24:30</start-date>
+<human-impact>
+<deaths>11</deaths>
+<injured>17</injured>
+</human-impact>
+<economic-impact>40000000000</economic-impact>
+<resources-needed>
+<resource>Volunteer</resource>
+<resource>Donations</resource>
+</resources-needed>
+<ways-to-help>
+<way>
+Visit "http://www.nwf.org/Oil-Spill/Ways-To-Help.aspx" to give time or money and to find other ways to help
+</way>
+<way>
+Visit "http://www.gnof.org/gnof-oil-spill-fund/" to donate to the Gulf Coast Oil Spill Fund
+</way>
+</ways-to-help>
+<organization-refs>national-wildlife-federation</organization-refs>
+<person-refs>kevin-costner</person-refs>
+</crisis>
+<crisis id="eurozone-crisis">
+<name>European Sovereign-Debt Crisis</name>
+<kind>Financial crisis</kind>
+<description>
+Although there is not currently a tangible impact by the Eurozone Crisis, if the situation deteriorates, a collapse of the euro would be inevitable, and quality of life across the world would decline. The crisis has also impacted many political offices, bringing about the collapse or resignation of several governments such as those of Greece, Portugal, and Ireland.
+</description>
+<location>
+<country>European Countries</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/0/04/2011_Greece_Uprising.jpg
+</source>
+<description>Wikipedia Photo1</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/c/c3/Long-term_interest_rates_%28eurozone%29.png
+</source>
+<description>Eurozone [Wikipedia]</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Europe&amp;aq=&amp;sll=54.572062,15.292969&amp;sspn=57.813166,173.144531&amp;ie=UTF8&amp;hq=&amp;hnear=Europe&amp;t=m&amp;z=3&amp;ll=54.525961,15.255119&amp;output=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>@EurozoneCrisis</twitter>
+<youtube>kbo1dd8hZI0</youtube>
+</social>
+<citations>
+<citation>
+<source>
+http://www.bankrate.com/finance/personal-finance/eurozone-crisis-may-impact-you-1.aspx
+</source>
+<description>Personal Impact</description>
+</citation>
+<citation>
+<source>
+http://www.dummies.com/how-to/content/the-euro-debt-crisis-and-its-impact-on-the-world.html
+</source>
+<description>Impact on the world</description>
+</citation>
+<citation>
+<source>http://en.wikipedia.org/wiki/Eurozone_crisis</source>
+<description>Wikipedia Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.guardian.co.uk/business/debt-crisis</source>
+<description>Guardian Homepage</description>
+</external-link>
+<external-link>
+<source>http://www.bbc.co.uk/news/business-18094883</source>
+<description>BBC News</description>
+</external-link>
+</external-links>
+<start-date>2009-11-22T12:00:00</start-date>
+<human-impact>
+<deaths>166</deaths>
+<injured>308</injured>
+</human-impact>
+<economic-impact>28000000</economic-impact>
+<resources-needed>
+<resource>Better policymakers</resource>
+<resource>More money</resource>
+</resources-needed>
+<ways-to-help>
+<way>
+Invest in European markets to restore confidence in the euro
+</way>
+<way>
+Vote for competent policymakers in European elections
+</way>
+</ways-to-help>
+<organization-refs>european-central-bank</organization-refs>
+<person-refs>george-papandereou</person-refs>
+</crisis>
+<crisis id="eyjafjallajokull-eruption">
+<name>Eyjafjallajokull Volcanic Eruption (2010)</name>
+<kind>Natural Disaster</kind>
+<description>
+On April 14, 2010, an explosion sent clouds of ash soaring as high as 11,000 meters, disrupting air traffic in Northern Europe, with ripple effects far beyond. One of the main consequences is a huge travel chaos. Many of the major airports in Europe were closed by the afternoon of April 16. Almost 50% of the air traffic is cancelled. The International Air Transport Association (IATA) estimated the airline industry worldwide would lose £130 million ($200 million) a day as a result of these cancellations. The erruption also had an indirect effect on economy due to the travel chaos. Businesses that depend on air frieght imports and exports were very badly effected. Industries that produce expirable goods also suffered losses as they could not ship their products. There were growing fears about the transportation of food supplies and other essential goods. It was reported that the United Kingdom would soon face shortages of fresh items that are normally shipped in by air. Although the volcanic erruption blocked the skies with a thick blanket of volcanic dust, it was not expected to effect the environment. Volcanoes produce tiny particles - aerosols - which have a net cooling effect on the world because they reflect solar energy back into space. They also produce carbon dioxide, a greenhouse gas. Historically, the cooling has outweighed the warming.
+</description>
+<location>
+<city>Eyjafjallajokull</city>
+<country>Iceland</country>
+<latitude>63.62959</latitude>
+<longitude>-19.637386</longitude>
+</location>
+<images>
+<image>
+<source>
+http://acoomans-cs373-wc.appspot.com/img/volcano.jpg
+</source>
+<description>volcano.jpg</description>
+</image>
+<image>
+<source>
+http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/eyja_04_19/e06_23049073.jpg
+</source>
+<description>
+Ash covers vegetation in Eyjafjallasveit, southern Iceland April 17, 2010 - http://www.boston.com/bigpicture/2010/04/more_from_eyjafjallajokull.html/
+</description>
+</image>
+<image>
+<source>
+http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/eyja_04_19/e04_23046955.jpg
+</source>
+<description>
+Roads filled with the volcanic ash - http://www.boston.com/bigpicture/2010/04/more_from_eyjafjallajokull.html/
+</description>
+</image>
+<image>
+<source>
+http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/eyja_04_19/e20_23058815.jpg
+</source>
+<description>
+View seen from a road leading to the Eyjafjallajokull volcano as it continues to billow smoke and ash during an eruption on April 17, 2010. - http://www.boston.com/bigpicture/2010/04/more_from_eyjafjallajokull.html/
+</description>
+</image>
+<image>
+<source>
+http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/eyja_04_19/e12_23042715.jpg
+</source>
+<description>
+Smoke billows from a volcano in Eyjafjallajokull on April 16, 2010. - http://www.boston.com/bigpicture/2010/04/more_from_eyjafjallajokull.html/
+</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=63.62959,-19.637386&amp;zoom=6&amp;size=270x270&amp;sensor=false
+</source>
+<description>Mount Eyjafjallajokull</description>
+</map>
+</maps>
+<videos/>
+<social/>
+<citations>
+<citation>
+<source>
+http://topics.nytimes.com/top/news/international/countriesandterritories/iceland/eyjafjallajokull/index.html/
+</source>
+<description>Iceland Volcano Eruption of 2010</description>
+</citation>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Consequences_of_the_April_2010_Eyjafjallaj%C3%B6kull_eruption/
+</source>
+<description>
+Consequences of the April 2010 Eyjafjallajokull eruption
+</description>
+</citation>
+<citation>
+<source>
+http://www.boston.com/bigpicture/2010/04/more_from_eyjafjallajokull.html/
+</source>
+<description>More from Eyjafjallajokull</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://www.boston.com/bigpicture/2010/04/more_from_eyjafjallajokull.html
+</source>
+<description>2010 Erruption in Iceland</description>
+</external-link>
+</external-links>
+<start-date>2010-04-14T00:00:00</start-date>
+<human-impact>
+<displaced>100000</displaced>
+</human-impact>
+<economic-impact>200000000</economic-impact>
+<resources-needed>
+<resource>None</resource>
+</resources-needed>
+<ways-to-help>
+<way>None</way>
+</ways-to-help>
+<person-refs>barack-obama</person-refs>
+</crisis>
+<crisis id="haiti-earthquake">
+<name>2010 Haiti Earthquake</name>
+<kind>Earthquake</kind>
+<description>
+On the morning of 12 January, 2010 at about 4:43 local time in Haiti, an earthquake of magnitude 7.0 ripped through the country of Haiti, causing massive devastation and despair. The epicentre was near the city of Leogane approximately 25 km (16 miles) west of Port-au-Prince, the capital of Haiti and about 52 aftershocks 4.5 or greater on the Richter Scale were measured from the first earthquake till 24th of January. The impact of the earthquake was amplified severalfolds due to the poor infrastructure in Haiti and lead to a tremendous and tragic loss of human life, as well as means the means of livelyhood for the citizens of Haiti. The Haitian Government estimated a total of 316,000 deaths, 300,000 injured and about 1,000,000 people who lost their homes. This was a crippling blow for the people who were unprepared for a disaster of this scale.
+</description>
+<location>
+<country>None</country>
+<latitude>-72.533</latitude>
+<longitude>18.457</longitude>
+</location>
+<images>
+<image>
+<source>
+http://www.examiner.com/images/blog/EXID10331/images/Haiti_Earthquake_Damage.jpg
+</source>
+<description>Collapsed building</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Haiti_earthquake_damage_overhead.jpg/325px-Haiti_earthquake_damage_overhead.jpg
+</source>
+<description>Overhead shot of earthquake damage</description>
+</image>
+<image>
+<source>
+http://kh2hb.files.wordpress.com/2011/03/haiti-earthquake-2010-1-15-14-46-37.jpg
+</source>
+<description>A relief shanty town</description>
+</image>
+<image>
+<source>
+http://www.state.gov/img/10/35732/redcross_haiti7_600_1.jpg
+</source>
+<description>Relief worker with child</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=18.457,+-72.533&amp;aq=&amp;sll=-72.533,-18.457&amp;sspn=51.057905,270.527344&amp;t=h&amp;g=-72.533,+-18.457&amp;ie=UTF8&amp;ll=18.457,-72.533&amp;spn=4.216967,8.453979&amp;z=8&amp;output=embed
+</source>
+<description>Map of Haiti Earthquake</description>
+</map>
+</maps>
+<videos>
+<youtube>UhLUMNdO8ic</youtube>
+<vimeo>9608637</vimeo>
+<vimeo>11048835</vimeo>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/2010_Haiti_earthquake</source>
+<description>The wikipedia page for the haitian earthquake</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://haitirelieffund.org/haiti-relief/</source>
+<description>A relief website for Haiti</description>
+</external-link>
+</external-links>
+<start-date>2010-01-12T16:53:00</start-date>
+<human-impact>
+<deaths>316000</deaths>
+<injured>300000</injured>
+<displaced>1000000</displaced>
+</human-impact>
+<economic-impact>8500000000</economic-impact>
+<resources-needed>
+<resource>Food</resource>
+<resource>Clean Water</resource>
+<resource>Shelter</resource>
+<resource>Medical Supplies</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donate Money</way>
+<way>Volunteer</way>
+<way>Distribute Resources</way>
+</ways-to-help>
+<organization-refs>the-red-cross</organization-refs>
+<person-refs>barack-obama</person-refs>
+</crisis>
+<crisis id="hurricane-ike">
+<name>Hurricane Ike</name>
+<kind>Hurricane</kind>
+<description>
+Hurricane Ike was the costliest hurricane ever to impact Cuba, the second-costliest hurricane ever to make landfall in the United States, the costliest hurricane in Texas history, and the last hurricane to make landfall in the United States until Hurricane Irene in 2011 and Hurricane Isaac in 2012. It was the ninth named storm, fifth hurricane, and third major hurricane of the 2008 Atlantic hurricane season.
+</description>
+<location>
+<city>Houston</city>
+<state>TX</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/9OY2z.jpg</source>
+<description>Satellite</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Galveston,+TX&amp;hl=en&amp;sll=30.307689,-97.753601&amp;sspn=0.539444,0.903625&amp;oq=galveston&amp;hnear=Galveston,+Texas&amp;t=m&amp;ie=UTF8&amp;hq=&amp;z=10&amp;iwloc=A&amp;output=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos>
+<youtube>IrrCXlgk1TM</youtube>
+</videos>
+<social>
+<facebook>ikehurricane</facebook>
+<twitter>@hurricaneike</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Hurricane_Ike</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links/>
+<start-date>2008-09-01T12:00:00</start-date>
+<human-impact>
+<deaths>82</deaths>
+<missing>202</missing>
+</human-impact>
+<economic-impact>29500000000</economic-impact>
+<resources-needed>
+<resource>Electricity</resource>
+<resource>Water</resource>
+<resource>Food</resource>
+<resource>Gasoline</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donations</way>
+<way>Volunteering</way>
+</ways-to-help>
+<organization-refs>habitat-for-humanity</organization-refs>
+<person-refs>george-w-bush</person-refs>
+</crisis>
+<crisis id="hurricane-irene">
+<name>Hurricane Irene (2011)</name>
+<kind>Natural Disaster</kind>
+<description>
+Hurricane Irene was a large and very destructive tropical cyclone, which affected much of the Caribbean and East Coast of the United States during the 2011 Atlantic hurricane season. Irene is currently ranked as the fifth costliest hurricane in United States history. The ninth named storm, first hurricane, and first major hurricane of the 2011 hurricane season, Irene originated from a well-defined Atlantic tropical wave that began showing signs of organization east of the Lesser Antilles. Due to development of atmospheric convection and a closed center of circulation, the system was designated as Tropical Storm Irene on August 20, 2011. After intensifying, Irene made landfall in St. Croix as a strong tropical storm later that day. Early on August 21, the storm made a second landfall in Puerto Rico. While crossing the island, Irene strengthened into a Category 1 hurricane. The storm paralleled offshore of Hispaniola, continued to slowly intensify in the process. Shortly before making four landfalls in the Bahamas, Irene peaked as a 120 mph (195 km/h) Category 3 hurricane.
+</description>
+<location>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hurricane_Irene_Aug_24_2011_1810Z.jpg/220px-Hurricane_Irene_Aug_24_2011_1810Z.jpg
+</source>
+<description>Hurricane Irene</description>
+</image>
+<image>
+<source>
+http://a.abcnews.com/images/US/abc_damage_hurricane_irene_wy_110827_wg.jpg
+</source>
+<description>Damage by Hurricane Irene</description>
+</image>
+<image>
+<source>
+http://a.abcnews.com/images/US/ap_irene_space_110826_wg.jpg
+</source>
+<description>Hurricane Irene from space</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=38.439434,-70.00022&amp;zoom=4&amp;size=270x270&amp;sensor=false
+</source>
+<description>The East Coast</description>
+</map>
+</maps>
+<videos/>
+<social/>
+<citations>
+<citation>
+<source>
+http://www.nasa.gov/mission_pages/hurricanes/archives/2011/h2011_Irene.html
+</source>
+<description>NASA and Hurricane Irene</description>
+</citation>
+<citation>
+<source>
+http://abcnews.go.com/US/hurricanes/page?id=14381208
+</source>
+<description>ABC news article</description>
+</citation>
+<citation>
+<source>http://en.wikipedia.org/wiki/Hurricane_Irene</source>
+<description>Wikipedia Hurricane Irene</description>
+</citation>
+<citation>
+<source>
+http://www.huffingtonpost.com/2011/08/27/hurricane-irene-how-you-c_n_938603.html
+</source>
+<description>Huffington Post</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Hurricane_Irene</source>
+<description>Hurricane Irene</description>
+</external-link>
+<external-link>
+<source>
+http://www.weather.com/weather/hurricanecentral/article/tropical-depression-nine-storm-hurricane-irene_2011-08-20
+</source>
+<description>Hurricane Irene - weather.com</description>
+</external-link>
+</external-links>
+<start-date>2011-08-21T14:00:00</start-date>
+<human-impact>
+<deaths>56</deaths>
+</human-impact>
+<economic-impact>19000000000</economic-impact>
+<resources-needed>
+<resource>food</resource>
+<resource>water</resource>
+<resource>shelter</resource>
+<resource>power</resource>
+<resource>first aid supplies</resource>
+</resources-needed>
+<ways-to-help>
+<way>Red Cross donations</way>
+<way>help construction of shelters</way>
+<way>
+Texting REDCROSS to 90999 to make a $10 donation, sending contributions to the American Red Cross, P.O. Box 37243, Washington, DC 20013
+</way>
+<way>
+Volunteering to help in New York City during the storm and its aftermath
+</way>
+</ways-to-help>
+<organization-refs>american-red-cross</organization-refs>
+<person-refs>barack-obama craig-fugate</person-refs>
+</crisis>
+<crisis id="hurricane-katrina">
+<name>2005 Hurricane Katrina</name>
+<kind>Hurricane</kind>
+<description>
+On August 23rd 2005 Hurricane Katrina began to form over the Bahamas. By August 30th it had torn through Florida, Louisiana and Southern Texas leaving over 1800 people dead. In New Orleans, where the loss of life was the most severe, a catastrophic failure of the levees led to as much as 80% of the city and surrounding areas flooding and massive evacuations. The preparedness for such an event was widely criticized on both the local and national level and led to the resignation of key figures.
+</description>
+<location>
+<state>LA</state>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://www.dismalworld.com/im/disasters/hurricane-katrina-2.jpg
+</source>
+<description>Refugees in a Stadium</description>
+</image>
+<image>
+<source>
+http://www.katrinahelp.com/hurricane-katrina-27.jpg
+</source>
+<description>Downtown Descruction</description>
+</image>
+<image>
+<source>
+http://fellowshipofminds.files.wordpress.com/2010/07/hurricane-katrina-victims.jpg
+</source>
+<description>Feild of refugees</description>
+</image>
+<image>
+<source>
+http://static.urbantimes.co/wp-content/uploads/2010/08/hurricane-katrina-victims1.jpg
+</source>
+<description>Plea for help</description>
+</image>
+<image>
+<source>
+http://archive.broadwaycares.org/images/news/hurricane-katrina.jpg
+</source>
+<description>Flooded Suburbs</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Louisiana&amp;aq=&amp;sll=18.776316,-71.916504&amp;sspn=4.216967,8.453979&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Louisiana&amp;z=7&amp;ll=31.244823,-92.145024&amp;output=embed
+</source>
+<description>Map of Hurricane Katrina</description>
+</map>
+</maps>
+<videos>
+<youtube>gd8WiiXNxho</youtube>
+<youtube>9pVTrnxCZaQ</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Hurricane_Katrina</source>
+<description>Wikipedia page for Hurricane Katrina</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.hurricanekatrinarelief.com/</source>
+<description>A charity website for Katrina</description>
+</external-link>
+</external-links>
+<start-date>2005-08-23T00:00:00</start-date>
+<human-impact>
+<deaths>1833</deaths>
+</human-impact>
+<economic-impact>108000000000</economic-impact>
+<resources-needed>
+<resource>Food</resource>
+<resource>Shelter</resource>
+<resource>Employment</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donations</way>
+<way>Volunteer</way>
+<way>Bring in Business</way>
+</ways-to-help>
+<organization-refs>united-nations</organization-refs>
+<person-refs>george-clooney</person-refs>
+</crisis>
+<crisis id="indian-ocean-earthquake-and-tsunami">
+<name>2004 Indian Ocean Earthquake and Tsunami</name>
+<kind>Earthquake and Tsunami</kind>
+<description>
+The early hours of Boxing Day brought with them the third largerst earthquake ever recorded with a seismograph (magnitude 9.1-9.3) in the Indian ocean that cause an enormous underwater landslide and let to a devastaing transcontiental tsunami. There was no tsunami warning system in the Indian Ocean for such an event (unlike the Pacific Tsunami Warning System) and so the people in the beaches of Thailand, Sri-Lanka and India were caught unaware when that tsunami hit the coasts after a couple of hours. About 230,273 poeple have been estimated to be killed, 125,000 injured about 46,000 displaced and about 1.69 million people were displaced due to the tsunami. The earthquake itself cause the earth to vibrate as much as 1 cm (0.4 inches) and triggered other earthquakes as far away as Alaska. The earthquake had the longest duration of faulting ever observed, between 8.3 and 10 minutes.
+</description>
+<location>
+<country>None</country>
+<latitude>-95.854</latitude>
+<longitude>3.316</longitude>
+</location>
+<images>
+<image>
+<source>
+http://www.thelivingmoon.com/45jack_files/04images/Geology/TsunamiHotelDamage.jpg
+</source>
+<description>Submerged Courtyard</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/1/12/2004_Indonesia_Tsunami_100px.gif
+</source>
+<description>Graphic Showing Epicenter of Earthquake</description>
+</image>
+<image>
+<source>http://www.command-post.org/nk/Dscn0245-thumb.jpg</source>
+<description>Crashed Boats</description>
+</image>
+<image>
+<source>
+http://t0.gstatic.com/images?q=tbn:ANd9GcRQUQi9agly-SSPGB0ZhOYAjkSQ96fuzhJqV5tWvkyY3QztnDzLcHyDXplNrg>
+</source>
+<description>Pictures water</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=3.316,+95.854&amp;aq=&amp;sll=34.42083,-119.69819&amp;sspn=0.114841,0.264187&amp;t=h&amp;ie=UTF8&amp;ll=3.316,95.854&amp;spn=17.710725,33.815918&amp;z=6&amp;output=embed
+</source>
+<description>Map of Indian Ocean Earthquake and Tsunami</description>
+</map>
+</maps>
+<videos>
+<youtube>RDOuwMj7Xzo</youtube>
+<youtube>AcoDQ9fRvAQ</youtube>
+<youtube>o56F7PXDk4E</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami
+</source>
+<description>The wikipedia page for the Indian Ocean Earthquake</description>
+</citation>
+</citations>
+<external-links/>
+<start-date>2004-12-26T00:58:53</start-date>
+<human-impact>
+<deaths>230273</deaths>
+<missing>45752</missing>
+<injured>125000</injured>
+<displaced>1690000</displaced>
+</human-impact>
+<economic-impact>4400000000</economic-impact>
+<resources-needed>
+<resource>Medical Aid</resource>
+<resource>Shelter</resource>
+<resource>Food and Water</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donation</way>
+<way>Volunteering</way>
+<way>Distributing Rations</way>
+</ways-to-help>
+<organization-refs>happy-hearts-fund</organization-refs>
+<person-refs>petra-nemcova</person-refs>
+</crisis>
+<crisis id="isabel">
+<name>Hurricane Isabel</name>
+<kind>Natural Disaster</kind>
+<description>
+Hurricane Isabel was the worst hurricane in 2003 Atlantic hurricane season in terms of financial and human impact.
+</description>
+<location>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYbni3UL6X_aHhIuuofb8TGY2qLEITki4WIy-hrf0EEqX-pkeK
+</source>
+<description>Isabel's Damage</description>
+</image>
+<image>
+<source>
+http://www4.ncsu.edu/~nwsfo/storage/cases/20030918/isabel.hurricane.track.jpg
+</source>
+<description>Isabel's Path</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>xbgEaOhOljw</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>
+http://southeastfarmpress.com/hurricane-isabel-damage-extensive
+</source>
+<description>Damage summary</description>
+</citation>
+<citation>
+<source>http://www.nhc.noaa.gov/2003isabel.shtml</source>
+<description>NHC summary</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Hurricane_Isabel</source>
+<description>Wikipedia Article on Hurricane Isabel</description>
+</external-link>
+</external-links>
+<start-date>2012-09-06T00:00:00</start-date>
+<human-impact>
+<deaths>51</deaths>
+<missing>0</missing>
+<injured>0</injured>
+<displaced>2428</displaced>
+</human-impact>
+<economic-impact>3370000000000</economic-impact>
+<resources-needed/>
+<ways-to-help/>
+<organization-refs>us_govt</organization-refs>
+<person-refs>george_w_bush</person-refs>
+</crisis>
+<crisis id="israel_iran">
+<name>Iran Nuclear Tensions</name>
+<kind>International Conflict</kind>
+<description>
+Iran's nuclear program has the capacity to produce nuclear weapons, resulting in increased tension between the governments of Israel and Iran.
+</description>
+<location>
+<country>Iran</country>
+</location>
+<images>
+<image>
+<source>
+http://www.iranreview.org/file/cms/files/iran-nuclear-facilities.jpg
+</source>
+<description>Nuclear Facilities in Iran</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=iran&amp;aq=&amp;sll=30.307761,-97.753401&amp;sspn=0.995896,2.113495&amp;ie=UTF8&amp;hq=&amp;hnear=Iran&amp;t=m&amp;z=6&amp;ll=32.427908,53.688046
+</source>
+<description>Map of Iran</description>
+</map>
+</maps>
+<videos>
+<youtube>gsu2jI1WdUE</youtube>
+</videos>
+<social/>
+<citations/>
+<external-links>
+<external-link>
+<source>https://twitter.com/IranNukes</source>
+<description>Tweets by @IranNukes</description>
+</external-link>
+</external-links>
+<start-date>2012-08-17T00:00:00</start-date>
+<human-impact>
+<deaths>0</deaths>
+<missing>0</missing>
+<injured>0</injured>
+<displaced>0</displaced>
+</human-impact>
+<economic-impact>0</economic-impact>
+<resources-needed/>
+<ways-to-help/>
+<organization-refs>us_govt un</organization-refs>
+<person-refs>benjamin_netanyahu banki_moon</person-refs>
+</crisis>
+<crisis id="izmit">
+<name>1999 Izmit Earthquake</name>
+<kind>Earthquake</kind>
+<description>
+The Izmit earthquake occurred at 00:01:39 UTC (3:01 a.m. local time), and was centered at 40.74 N., 29.86 E., which places the epicenter about 11 kilometers, or seven miles, southeast of the city of Izmit. This location indicates that the earthquake occurred on the northernmost strand of the North Anatolian fault system. The earthquake originated at a depth of 17 kilometers, or about 10.5 miles, and caused right-lateral strike-slip movement on the fault. Preliminary field reports confirm this type of motion on the fault, and initial field observations indicate that the earthquake produced at least 60 kilometers (37 miles) of surface rupture and right-lateral offsets as large as 2.7 meters, or almost nine feet. On 19 August at 14:16 and 15:18 UTC (5:16 and 6:18 PM local time), two light-to-moderate earthquakes with magnitudes of 4.8 and 5.0 occurred approximately 80 km to the west of the mainshock. Previous aftershocks of this size were centered to the east of the mainshock, further from the cities of Bursa and Istanbul. While this suggests the possibility of a larger earthquake occurring in this new location, it is also probable that the mainshock rupture extended into this region, into the Gulf of Izmit, making these events aftershocks. We have no means of predicting the likelihood of a larger event in this new location.
+</description>
+<location>
+<country>Turkey</country>
+</location>
+<images>
+<image>
+<source>
+http://i.telegraph.co.uk/multimedia/archive/01849/izmit_1849131i.jpg
+</source>
+<description>Some descrption for imange</description>
+</image>
+<image>
+<source>
+http://www.topo-europe.eu/public/images/whitepaper/fig_47.png
+</source>
+<description>Some descrption for imange</description>
+</image>
+<image>
+<source>
+http://earthquake.usgs.gov/research/geology/turkey/images/mosque.gif
+</source>
+<description>Some descrption for imange</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://earthquake.usgs.gov/earthquakes/eqarchives/year/1999/1999_08_17_loc.php
+</source>
+<description>map descr</description>
+</map>
+<map>
+<source>
+https://maps.google.com/maps?q=izmit+earthquake&ie=UTF-8&hq=&hnear=0x14cb5b3abf6ecb5d:0xccfe7f0b2c05427f,1999+%C4%B0zmit+earthquake&gl=us&ei=0z6GUKStE-yr2AXSsICQDg&ved=0CIABELYD
+</source>
+<description>map descr</description>
+</map>
+</maps>
+<videos>
+<youtube>px-EPnLgzKg</youtube>
+<youtube>Qrdu3-yp1Ls</youtube>
+<vimeo>38334817</vimeo>
+</videos>
+<social>
+<facebook>134512886578967</facebook>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake
+</source>
+<description>Izmit Earthquake Wiki Page</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://earthquake.usgs.gov/research/geology/turkey/index.php
+</source>
+<description>External Link</description>
+</external-link>
+</external-links>
+<start-date>1999-08-17T03:02:00</start-date>
+<human-impact>
+<deaths>17127</deaths>
+<missing>25000</missing>
+<injured>43959</injured>
+<displaced>0</displaced>
+</human-impact>
+<economic-impact>1000000000</economic-impact>
+<resources-needed/>
+<ways-to-help>
+<way>donations</way>
+</ways-to-help>
+<organization-refs>nyfd</organization-refs>
+<person-refs>bush clinton</person-refs>
+</crisis>
+<crisis id="java-earthquake">
+<name>Java Earthquake</name>
+<alternate-names>2006 Java Earthquake</alternate-names>
+<kind>Natural Disaster</kind>
+<description>
+In 2006 an earthquake of magnitude 6.3 in the island of Java, Indonesia. It is believed that the earthquake was related to the eruption of volcano Merapi.
+</description>
+<location>
+<city>Yogyakarta</city>
+<state>NA</state>
+<country>Indonesia</country>
+</location>
+<images>
+<image>
+<source>
+http://www.oxfam.org.nz/imgs/whatwedo/Emergencies/indo_earthquake1.jpg
+</source>
+<description>Destruction in Indonesia after the Earthquake</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=java+indonesia&amp;hl=en&amp;ll=-7.612998,110.714722&amp;spn=2.907187,5.449219&amp;sll=34.359687,73.471054&amp;sspn=0.151345,0.340576&amp;gl=us&amp;hnear=Java&amp;t=m&amp;z=8
+</source>
+<description>Java Indonesia Map</description>
+</map>
+</maps>
+<videos>
+<youtube>WOAdtf1Mg7U</youtube>
+</videos>
+<social>
+<twitter>#javaearthquake</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/May_2006_Java_earthquake
+</source>
+<description>Wikipedia</description>
+</citation>
+<citation>
+<source>
+http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usneb6.php#details
+</source>
+<description>Earthquake Details from USGS</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.rescue.org/where/indonesia</source>
+<description>Donate to IRC in Indonesia</description>
+</external-link>
+<external-link>
+<source>
+http://www.oxfam.org.nz/what-we-do/emergencies/previous-emergencies/java-earthquake-2006
+</source>
+<description>OXFAM help for Java Earthquake</description>
+</external-link>
+</external-links>
+<start-date>2006-05-27T05:54:00</start-date>
+<human-impact>
+<deaths>5782</deaths>
+<injured>36299</injured>
+<displaced>1500000</displaced>
+</human-impact>
+<economic-impact>3100000000</economic-impact>
+<resources-needed>
+<resource>farming tools</resource>
+<resource>equipment to build home</resource>
+<resource>food</resource>
+<resource>money to stimulate economy</resource>
+</resources-needed>
+<ways-to-help>
+<way>Make a donation to the IRC</way>
+<way>Volunteer</way>
+<way>Donate food and clothes</way>
+</ways-to-help>
+<organization-refs>international-rescue-committee</organization-refs>
+<person-refs>susilo-bambang-yudhoyono</person-refs>
+</crisis>
+<crisis id="joplin-tornado">
+<name>Joplin Tornado</name>
+<alternate-names>2011 Joplin Tornado</alternate-names>
+<kind>Natural Disaster</kind>
+<description>
+An EF5 tornado with winds in excess of 200 mph devastated the city of Joplin in 2011
+</description>
+<location>
+<city>Joplin</city>
+<state>MO</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://i2.cdn.turner.com/money/2011/05/24/news/economy/tornado_joplin/joplin-mo-tornado-damage.top.jpg
+</source>
+<description>Joplin after the tornado</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=joplin,+MO&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.61295,1.391144&amp;t=h&amp;hnear=Joplin,+Jasper,+Missouri&amp;z=11
+</source>
+<description>Joplin map</description>
+</map>
+</maps>
+<videos>
+<youtube>XT7CtF5ljxY</youtube>
+</videos>
+<social>
+<twitter>#JoplinTornado</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/2011_Joplin_tornado</source>
+<description>Wikipedia</description>
+</citation>
+<citation>
+<source>
+http://www.nbcnews.com/technology/technolog/joplin-tornado-how-help-123103
+</source>
+<description>nbcnews article on how to help</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.joplinmo.org/</source>
+<description>Joplin's Official Website</description>
+</external-link>
+</external-links>
+<start-date>2011-05-22T17:34:00</start-date>
+<human-impact>
+<deaths>158</deaths>
+<missing>1300</missing>
+<injured>1000</injured>
+</human-impact>
+<economic-impact>2800000000</economic-impact>
+<resources-needed>
+<resource>food</resource>
+<resource>construction materials</resource>
+<resource>cleaning supplies</resource>
+<resource>personal hygiene items</resource>
+<resource>volunteers</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donate money to Rebuild Joplin</way>
+<way>Donate to the Joplin Red Cross</way>
+<way>
+Donate blood to the Community Blood Center of the Ozarks
+</way>
+<way>Volunteer</way>
+</ways-to-help>
+</crisis>
+<crisis id="kashmir-earthquake">
+<name>Kashmir Earthquake</name>
+<alternate-names>2005 Kashmir Earthquake</alternate-names>
+<kind>Natural Disaster</kind>
+<description>
+The Earthquake that struck Kashmir in 2005 with a magnitude of 7.6 was the 17th deadliest earthquake of all times
+</description>
+<location>
+<city>Muzaffarabad</city>
+<state>NA</state>
+<country>Pakistan</country>
+</location>
+<images>
+<image>
+<source>
+http://www.tiptoptens.com/wp-content/uploads/2011/03/2005-Kashmir-earthquake.jpg
+</source>
+<description>Kashmir Earthquake: Bridge collapsing</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=muzaffarabad+google+map&amp;hl=en&amp;safe=off&amp;hnear=Muzaffarabad&amp;gl=us&amp;t=m&amp;view=map&amp;z=12
+</source>
+<description>Muzaffarabad Map</description>
+</map>
+</maps>
+<videos>
+<youtube>g3ieusxKQ_w</youtube>
+</videos>
+<social>
+<twitter>#kashmirearthquake</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/2005_Kashmir_earthquake
+</source>
+<description>Wikipedia</description>
+</citation>
+<citation>
+<source>
+https://www.eeri.org/lfe/pdf/kashmir_eeri_2nd_report.pdf
+</source>
+<description>EERI Special Earthquake Report</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.kashmirrelief.org/</source>
+<description>Kashmir Relief Website</description>
+</external-link>
+<external-link>
+<source>http://bilquisedhiusa.org/donate.html</source>
+<description>Donate to Bilquis Edhi USA</description>
+</external-link>
+</external-links>
+<start-date>2005-10-08T08:52:37</start-date>
+<human-impact>
+<deaths>79000</deaths>
+<injured>106000</injured>
+</human-impact>
+<economic-impact>5400000000</economic-impact>
+<resources-needed>
+<resource>rescue workers</resource>
+<resource>rescue equipment</resource>
+<resource>food</resource>
+<resource>medical supplies</resource>
+<resource>blankets</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donate money</way>
+<way>Volunteer</way>
+<way>Donate food and clothes</way>
+</ways-to-help>
+</crisis>
+<crisis id="libyan-civil-war">
+<name>Libyan Civil War</name>
+<kind>Civil War</kind>
+<description>
+The Libyan Civil War was an armed conflict in the North African state of Libya, fought between forces loyal to Colonel Muammar Gaddafi and those seeking to oust his government. The war was preceded by protests in Benghazi beginning on Tuesday, 15 February 2011, which led to clashes with security forces that fired on the crowd. The protests escalated into a rebellion that spread across the country, with the forces opposing Gaddafi establishing an interim governing body, the National Transitional Council. The United Nations Security Council passed an initial resolution on 26 February, freezing the assets of Gaddafi and his inner circle and restricting their travel, and referred the matter to the International Criminal Court for investigation. In early March, Gaddafi's forces rallied, pushed eastwards and re-took several coastal cities before attacking Benghazi. A further U.N. resolution authorised member states to establish and enforce a no-fly zone over Libya, and to use "all necessary measures" to prevent attacks on civilians. The Gaddafi government then announced a ceasefire, but failed to uphold it, though it then accused rebels of violating the ceasefire when they continued to fight as well. Throughout the conflict, rebels rejected government offers of a ceasefire and efforts by the African Union to end the fighting because the plans set forth did not include the removal of Gaddafi. In August, rebel forces began a coastal offensive, taking back territory lost weeks before and ultimately capturing the capital city of Tripoli, while Gaddafi evaded capture and loyalists engaged in a rearguard campaign. On 16 September 2011, the National Transitional Council was recognised by the United Nations as the legal representative of Libya, replacing the Gaddafi government. Muammar Gaddafi remained at large until 20 October 2011, when he was captured and killed attempting to escape from Sirte. The National Transitional Council "declared the liberation of Libya" and the official end of the war on 23 October 2011. Amidst the aftermath of the civil war, a low-level insurgency by former Gaddafi loyalists still continued. There have been various disagreements and strife between local militia and tribes, including 23 January 2012 fighting in the former Gaddafi stronghold of Bani Walid, leading to an alternative town council being established and later recognized by the NTC. A much greater issue has been the role of militias which fought in the civil war and their role in the new Libya. Some have refused to disarm and cooperation with the NTC has been strained, leading to demonstrations against militias and government action to disband such groups or integrate them into the Libyan military.
+</description>
+<location>
+<country>Libya</country>
+</location>
+<images>
+<image>
+<source>
+http://acoomans-cs373-wc.appspot.com/img/libyan-flag.jpg
+</source>
+<description>libyan-flag.jpg</description>
+</image>
+<image>
+<source>
+http://media.katu.com/images/110307_Libya_airstrike.jpg
+</source>
+<description>Air strike by Libyan warplanes in Eastern Libya</description>
+</image>
+<image>
+<source>
+http://i.huffpost.com/gen/262976/thumbs/r-LIBYA-CIVIL-WAR-large570.jpg
+</source>
+<description>Libyan Civil War</description>
+</image>
+<image>
+<source>
+http://justiceinconflict.files.wordpress.com/2011/03/ss-110308-libya-03-grid-8x2.jpg?w=439&amp;h=315
+</source>
+<description>Libyan rebels in combat</description>
+</image>
+<image>
+<source>
+http://media.washtimes.com/media/image/2011/03/05/REBELS_s640x445.jpg?eae60e205b3b3dc3c1cf5af96dea367bbcb50bd7
+</source>
+<description>
+Libyan rebels celebrate the capture of a town in Eastern Libya
+</description>
+</image>
+<image>
+<source>
+http://2.bp.blogspot.com/-IONW0sIGIko/UA6NOgpwqkI/AAAAAAAAAB4/ty0RqxRFBY8/s1600/libya3x-large.jpg
+</source>
+<description>Protests in Libya</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=26.3351,17.228331&amp;zoom=5&amp;size=270x270&amp;sensor=false
+</source>
+<description>Libya</description>
+</map>
+</maps>
+<videos>
+<youtube>OflsIydqs5A</youtube>
+<youtube>RIRodRRFu4s</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Libyan_civil_war</source>
+<description>Libyan Civil War - Wikipedia</description>
+</citation>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Casualties_of_the_Libyan_civil_war
+</source>
+<description>Casualties of the Libyan Civil War - Wikipedia</description>
+</citation>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Timeline_of_the_Libyan_civil_war
+</source>
+<description>Timeline of the Libyan Civil War - Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://abcnews.go.com/topics/news/world/libyan-civil-war.htm
+</source>
+<description>Libyan Civil War - ABC.com</description>
+</external-link>
+<external-link>
+<source>
+http://www.cnn.com/interactive/2011/03/world/libya.civil.war/index.html
+</source>
+<description>Libyan Civil War - CNN.com</description>
+</external-link>
+</external-links>
+<start-date>2011-02-18T18:00:00</start-date>
+<human-impact>
+<deaths>30000</deaths>
+<injured>50000</injured>
+</human-impact>
+<economic-impact>0</economic-impact>
+<resources-needed>
+<resource>Medical Aid</resource>
+<resource>Food Supplies</resource>
+</resources-needed>
+<ways-to-help>
+<way>Monetary Contributions</way>
+<way>Food Donations</way>
+<way>Medical Aid</way>
+</ways-to-help>
+<organization-refs>world-food-programme islamic-relief-worldwide</organization-refs>
+<person-refs>barack-obama anders-fogh-rasmussen</person-refs>
+</crisis>
+<crisis id="mad_cow">
+<name>Mad Cow Disease</name>
+<kind>Human Disaster</kind>
+<description>
+Mad cow disease is a fatal but curable disease found in cattle that causes the brain and the spinal cord to degenerate.
+</description>
+<location>
+<country>UK</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/9/95/Aphis.usda.gov_BSE_3.jpg
+</source>
+<description>Image of a cow with BSE</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/e/e5/Global_mad_cow_cases_map.PNG
+</source>
+<description>Epidemiology of Mad Cow Disease</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=uk&amp;aq=&amp;sll=32.427908,53.688046&amp;sspn=15.548943,33.815918&amp;ie=UTF8&amp;hq=&amp;hnear=United+Kingdom&amp;t=m&amp;z=5&amp;ll=55.378051,-3.435973
+</source>
+<description>Map of UK</description>
+</map>
+</maps>
+<videos>
+<youtube>VgB9sg5dy8w</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>
+http://www.txtwriter.com/onscience/Articles/europemadcow1.html
+</source>
+<description>Basic info</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Mad_cow_disease</source>
+<description>Wikipedia article on mad cow disease</description>
+</external-link>
+</external-links>
+<start-date>1986-01-01T00:00:00</start-date>
+<human-impact>
+<deaths>166</deaths>
+<missing>0</missing>
+<injured>0</injured>
+<displaced>0</displaced>
+</human-impact>
+<economic-impact>4200000000</economic-impact>
+<resources-needed/>
+<ways-to-help/>
+<organization-refs>uk_dept_of_health</organization-refs>
+</crisis>
+<crisis id="mumbai-attacks-2008">
+<name>Mumbai Attacks 2008</name>
+<kind>Terrorist Attack</kind>
+<description>
+On the evening of November 26, 2008, 10 trained men came ashore the coast of Mumbai and launched an assault upon the civilians of the city. Several bombs were planted and the terrorists opened fire with AK-47 rifles in several public areas. Targeted areas included the central railway station, a popular restaurant and bar, the Taj Mahal and Oberoi Trident Hotels, a Jewish center called the Nariman House. Several hostages were taken in the process of the shooting, while many other civilians and law enforcement officials were simply shot on sight, leading to a death toll of 166 and over 308 severely injured. Although the majority of the attackers had been suppressed and the targeted areas had been secured with the help of the National Security Guard by the morning of November 27, a few attackers remained holed-up in the Taj Mahal Palace hotel. Only on the morning of November 29 did the NSG finally flush out the remaining attackers and conclude the attack. Of the attackers, the only one captured alive was Ajmal Kasab, who, after interrogation, confessed that the attack was orchestrated by the militant Islamist organization Lashkar-e-Taiba.
+</description>
+<location>
+<city>Mumbai</city>
+<country>India</country>
+</location>
+<images>
+<image>
+<source>
+http://farm1.staticflickr.com/66/188197990_134986d511.jpg
+</source>
+<description>Mahim train blast [Flickr]</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Cafeleopolddamage.jpg/347px-Cafeleopolddamage.jpg
+</source>
+<description>Cafe Leopold Damage [Wikipedia]</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=204406865220396432103.00045c9d8b16af3ad1008&amp;ll=18.922445,72.832242&amp;spn=0.007054,0.007864&amp;t=m&amp;output=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>#MumbaiIono</twitter>
+<youtube>lkfeUKUUz5M</youtube>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/November_2008_Mumbai_attacks
+</source>
+<description>Wikipedia Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://news.bbc.co.uk/2/hi/in_depth/south_asia/2008/mumbai_attacks/default.stm
+</source>
+<description>BBC News - Mumbai Attacks</description>
+</external-link>
+<external-link>
+<source>
+http://timesofindia.indiatimes.com/topic/(26/11-Mumbai-terror-attacks)
+</source>
+<description>The Times of India</description>
+</external-link>
+</external-links>
+<start-date>2008-11-26T12:00:00</start-date>
+<human-impact>
+<deaths>166</deaths>
+<injured>308</injured>
+</human-impact>
+<economic-impact>28000000</economic-impact>
+<resources-needed>
+<resource>Medical supplies</resource>
+<resource>Medical professionals</resource>
+<resource>Materials for reconstruction</resource>
+<resource>Labor for reconstruction</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donate medical supplies</way>
+<way>Donate construction material</way>
+<way>Donate money</way>
+<way>Volunteer in the reconstruction effort</way>
+<way>Volunteer at medical institutions</way>
+</ways-to-help>
+<organization-refs>lashkar-e-taiba</organization-refs>
+<person-refs>mohammed-ajmal-amir-kasab</person-refs>
+</crisis>
+<crisis id="rwanda-genocide">
+<name>Rwanda Genocide</name>
+<kind>Genocide, War</kind>
+<description>
+The Rwandan Genocide was the 1994 mass killing of hundreds of thousands of Rwanda's Tutsis and Hutu political moderates by the Hutu dominated government under the Hutu Power ideology. Over the course of approximately 100 days, or more, from the assassination of Juvenal Habyarimana on April 6 through mid-July, at least 500,000 people were killed, according to the estimate of Human Rights Watch. Other estimates of the death toll have ranged between 500,000 and 1,000,000, or as much as 20% of the total population of the country. In 1990 the Rwandan Patriotic Front (RPF), a rebel group, composed mostly of Tutsi refugees, invaded northern Rwanda from Uganda. The Rwandan Civil War, fought between the Hutu regime, with support from Francophone nations of Africa and France itself, and the RPF, with support from Uganda, vastly increased the ethnic tensions in the country and led to the rise of Hutu Power. As an ideology, Hutu Power asserted that the Tutsi intended to enslave Hutus and thus must be resisted at all costs. Despite continuing ethnic strife, including the displacement of large numbers of Hutu in the north by the rebels and periodic localized extermination of Tutsi to the south, pressure on the government of Juvenal Habyarimana resulted in a cease-fire in 1993 and the preliminary implementation of the Arusha Accords. The assassination of Habyarimana in April 1994 was the proximate cause of the mass killings of Tutsis and pro-peace Hutus. They were carried out primarily by two Hutu militias associated with political parties: the Interahamwe and the Impuzamugambi. The genocide was directed by a Hutu power group known as the Akazu. The killing also marked the end of the peace agreement meant to end the war and the Tutsi RPF restarted their offensive, eventually defeating the army and seizing control of the country.
+</description>
+<location>
+<country>Rwanda</country>
+<latitude>-2.0</latitude>
+<longitude>30.0</longitude>
+</location>
+<images>
+<image>
+<source>
+http://www.gendercide.org/images/pics/skulls300.jpg
+</source>
+<description>Gendercide</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Rwanda&amp;hl=en&amp;ll=-1.938717,29.871826&amp;spn=4.632316,2.301636&amp;sll=31.168934,-100.076842&amp;sspn=11.906446,12.458496&amp;hnear=Rwanda&amp;t=m&amp;z=8
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>@RwandaGenocideIono</twitter>
+<youtube>xON22c7pZ6c</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Rwandan_Genocide</source>
+<description>Wikipedia Article</description>
+</citation>
+<citation>
+<source>http://www.gendercide.org/case_rwanda.html</source>
+<description>Gendercide</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.everyculture.com/No-Sa/Rwanda.html</source>
+<description>Countries and Their Cultures: Rwanda</description>
+</external-link>
+<external-link>
+<source>
+https://www.cia.gov/library/publications/the-world-factbook/geos/rw.html
+</source>
+<description>CIA Info</description>
+</external-link>
+<external-link>
+<source>
+http://www.jackpicone.com/war-the-human-cost/rwanda-genocide-16_8_196.html
+</source>
+<description>Human Cost</description>
+</external-link>
+</external-links>
+<start-date>1994-04-06T12:00:00</start-date>
+<human-impact>
+<deaths>1400000</deaths>
+<injured>375000</injured>
+</human-impact>
+<economic-impact>100000000</economic-impact>
+<resources-needed>
+<resource>Money to help Rwanda Genocide survivors</resource>
+<resource>Volunteers to help Rwanda reconstruct</resource>
+</resources-needed>
+<ways-to-help>
+<way>http://www.rwanda-genocide.org/help.html</way>
+<way>http://www.un.org/en/preventgenocide/rwanda/</way>
+<way>http://avegaagahozo.org/</way>
+</ways-to-help>
+<organization-refs>united-nations</organization-refs>
+<person-refs>paul-rusesabagina</person-refs>
+</crisis>
+<crisis id="sars">
+<name>SARS</name>
+<kind>Pandemic</kind>
+<description>
+SARS (Severe Acute Respiratory Syndrome) is a viral respiratory disease in humans which is caused by the SARS coronavirus. Within weeks, SARS spread from Hong Kong to infect individuals in 37 countries in early 2003.
+</description>
+<location>
+<city>Hong Kong</city>
+<country>China</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/ohrEM.jpg</source>
+<description>The SARS Virus</description>
+</image>
+<image>
+<source>http://i.imgur.com/38ksj.jpg</source>
+<description>
+Women wearing masks to cover their mouths to prevent them from getting SARS
+</description>
+</image>
+</images>
+<maps/>
+<videos/>
+<social/>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome
+</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.who.int/csr/sars/en/</source>
+<description>WHO's site about SARS</description>
+</external-link>
+</external-links>
+<start-date>2003-03-15T08:00:00</start-date>
+<human-impact>
+<deaths>916</deaths>
+<injured>7506</injured>
+</human-impact>
+<economic-impact>0</economic-impact>
+<resources-needed>
+<resource>Research</resource>
+</resources-needed>
+<ways-to-help/>
+<organization-refs>world-health-organization</organization-refs>
+</crisis>
+<crisis id="september11">
+<name>September 11</name>
+<kind>Terrorist attack</kind>
+<description>
+On September 11, 2001, at 8:45 a.m. on a clear Tuesday morning, an American Airlines Boeing 767 loaded with 20,000 gallons of jet fuel crashed into the north tower of the World Trade Center in New York City. The impact left a gaping, burning hole near the 80th floor of the 110-story skyscraper, instantly killing hundreds of people and trapping hundreds more in higher floors. As the evacuation of the tower and its twin got underway, television cameras broadcasted live images of what initially appeared to be a freak accident. Then, 18 minutes after the first plane hit, a second Boeing 767–United Airlines Flight 175–appeared out of the sky, turned sharply toward the World Trade Center and sliced into the south tower near the 60th floor. The collision caused a massive explosion that showered burning debris over surrounding buildings and the streets below. America was under attack. The attackers were Islamic terrorists from Saudi Arabia and several other Arab nations. Reportedly financed by Saudi fugitive Osama bin Laden's al-Qaeda terrorist organization, they were allegedly acting in retaliation for America's support of Israel, its involvement in the Persian Gulf War and its continued military presence in the Middle East. Some of the terrorists had lived in the United States for more than a year and had taken flying lessons at American commercial flight schools. Others had slipped into the country in the months before September 11 and acted as the "muscle" in the operation. The 19 terrorists easily smuggled box-cutters and knives through security at three East Coast airports and boarded four flights bound for California, chosen because the planes were loaded with fuel for the long transcontinental journey. Soon after takeoff, the terrorists commandeered the four planes and took the controls, transforming ordinary commuter jets into guided missiles. As millions watched the events unfolding in New York, American Airlines Flight 77 circled over downtown Washington, D.C., and slammed into the west side of the Pentagon military headquarters at 9:45 a.m. Jet fuel from the Boeing 757 caused a devastating inferno that led to the structural collapse of a portion of the giant concrete building. All told, 125 military personnel and civilians were killed in the Pentagon, along with all 64 people aboard the airliner. Less than 15 minutes after the terrorists struck the nerve center of the U.S. military, the horror in New York took a catastrophic turn for the worse when the south tower of the World Trade Center collapsed in a massive cloud of dust and smoke. The structural steel of the skyscraper, built to withstand winds in excess of 200 miles per hour and a large conventional fire, could not withstand the tremendous heat generated by the burning jet fuel. At 10:30 a.m., the other Trade Center tower collapsed. Close to 3,000 people died in the World Trade Center and its vicinity, including a staggering 343 firefighters and paramedics, 23 New York City police officers and 37 Port Authority police officers who were struggling to complete an evacuation of the buildings and save the office workers trapped on higher floors. Only six people in the World Trade Center towers at the time of their collapse survived. Almost 10,000 others were treated for injuries, many severe. Meanwhile, a fourth California-bound plane–United Flight 93–was hijacked about 40 minutes after leaving Newark International Airport in New Jersey. Because the plane had been delayed in taking off, passengers on board learned of events in New York and Washington via cell phone and Airfone calls to the ground. Knowing that the aircraft was not returning to an airport as the hijackers claimed, a group of passengers and flight attendants planned an insurrection. One of the passengers, Thomas Burnett Jr., told his wife over the phone that "I know we're all going to die. There's three of us who are going to do something about it. I love you, honey." Another passenger–Todd Beamer–was heard saying "Are you guys ready? Let's roll" over an open line. Sandy Bradshaw, a flight attendant, called her husband and explained that she had slipped into a galley and was filling pitchers with boiling water. Her last words to him were "Everyone's running to first class. I've got to go. Bye." The passengers fought the four hijackers and are suspected to have attacked the cockpit with a fire extinguisher. The plane then flipped over and sped toward the ground at upwards of 500 miles per hour, crashing in a rural field in western Pennsylvania at 10:10 a.m. All 45 people aboard were killed. Its intended target is not known, but theories include the White House, the U.S. Capitol, the Camp David presidential retreat in Maryland or one of several nuclear power plants along the eastern seaboard. At 7 p.m., President George W. Bush, who had spent the day being shuttled around the country because of security concerns, returned to the White House. At 9 p.m., he delivered a televised address from the Oval Office, declaring, "Terrorist attacks can shake the foundations of our biggest buildings, but they cannot touch the foundation of America. These acts shatter steel, but they cannot dent the steel of American resolve." In a reference to the eventual U.S. military response he declared, "We will make no distinction between the terrorists who committed these acts and those who harbor them." Operation Enduring Freedom, the American-led international effort to oust the Taliban regime in Afghanistan and destroy Osama bin Laden's terrorist network based there, began on October 7. Within two months, U.S. forces had effectively removed the Taliban from operational power, but the war continued, as U.S. and coalition forces attempted to defeat a Taliban insurgency campaign based in neighboring Pakistan. Osama bin Laden, the mastermind behind the September 11th attacks, remained at large until May 2, 2011, when he was finally tracked down and killed by U.S. forces at a hideout in Abbottabad, Pakistan. In June 2011, President Barack Obama announced the beginning of large-scale troop withdrawals from Afghanistan, with a final withdrawal of U.S. forces tentatively scheduled for 2014.
+</description>
+<location>
+<city>New York</city>
+<state>NY</state>
+<country>U.S.A</country>
+</location>
+<images>
+<image>
+<source>
+http://gipsygeek.files.wordpress.com/2011/05/september-11-terrorist-attacks.jpg
+</source>
+<description>The trigger of the war against terror.</description>
+</image>
+<image>
+<source>
+http://arabisouri.files.wordpress.com/2012/03/911-3.jpg
+</source>
+<description>
+Devastation in the aftermath of the September 11 terrorist attacks
+</description>
+</image>
+<image>
+<source>http://gipsygeek.files.wordpress.com/2011/05/8.jpg</source>
+<description>
+Ground Zero in April 2010. Viewed from the Hilton hotel.
+</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?hl=en&safe=off&q=ground+zero&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&bpcl=35466521&biw=1196&bih=679&um=1&ie=UTF-8&sa=N&tab=wl
+</source>
+<description>map descr</description>
+</map>
+</maps>
+<videos>
+<youtube>wNNTcHq5Tzk</youtube>
+<vimeo>12862489</vimeo>
+</videos>
+<social>
+<facebook>911memorial</facebook>
+<twitter>@sept11memorial</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/September_11_attacks</source>
+<description>911 Wiki Page</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.911memorial.org/</source>
+<description>External Link</description>
+</external-link>
+</external-links>
+<start-date>2001-09-11T08:46:00</start-date>
+<human-impact>
+<deaths>2996</deaths>
+<missing>3000</missing>
+<injured>6000</injured>
+<displaced>0</displaced>
+</human-impact>
+<economic-impact>2730000000</economic-impact>
+<resources-needed/>
+<ways-to-help>
+<way>Donations</way>
+</ways-to-help>
+<organization-refs>nyfd</organization-refs>
+<person-refs>bush</person-refs>
+</crisis>
+<crisis id="sichuan">
+<name>Sichuan Earthquake</name>
+<kind>Earthquake</kind>
+<description>
+The 2008 Sichuan earthquake or the Great Sichuan Earthquake was a deadly earthquake that measured at 8.0 Ms and 7.9 Mw occurred at 01:09:56 CST (06:28 UTC) on Monday, May 12, 2008 in Sichuan province of China, killing an estimated 68,000 people. It is also known as the Wenchuan earthquake, after the location of the earthquake's epicenter, Wenchuan County in Sichuan province. The epicenter was 80 kilometres (50 mi) west-northwest of Chengdu, the capital of Sichuan, with a focal depth of 19 kilometres (12 mi). The earthquake was also felt in nearby countries and as far away as both Beijing and Shanghai—1,500 kilometres (932 mi) and 1,700 kilometres (1,056 mi) away—where office buildings swayed with the tremor. Official figures (as of July 21, 2008 12:00 CST) stated that 69,197 were confirmed dead, including 68,636 in Sichuan province, and 374,176 injured, with 18,222 listed as missing. The earthquake left about 4.8 million people homeless,[18] though the number could be as high as 11 million. Approximately 15 million people lived in the affected area. It was the deadliest earthquake to hit China since the 1976 Tangshan earthquake, which killed at least 240,000 people, and the strongest since the 1950 Chayu earthquake in the country, which registered at 8.5 on the Richter magnitude scale. It is the 21st deadliest earthquake of all time. Strong aftershocks, some exceeding magnitude 6, continued to hit the area even months after the main quake, causing new casualties and damage.
+</description>
+<location>
+<city>Sichuan</city>
+<country>China</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/e/e1/Sichuan_earthquake_jundao.JPG
+</source>
+<description>Some description</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/0/05/2008_Sichuan_earthquake_map_no_labels.svg
+</source>
+<description>Some description</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?hl=en&q=sichuan++map&ie=UTF-8&hq=&hnear=0x36e4e73368bdcdb3:0xde8f7ccf8f99feb9,Sichuan,+China&gl=us&ei=M-qGULO8EPKA2QWzsoHIDg&ved=0CB0Q8gEwAA
+</source>
+<description>map descr</description>
+</map>
+</maps>
+<videos>
+<youtube>pk0I8AyEW14</youtube>
+<vimeo>4607756</vimeo>
+</videos>
+<social>
+<facebook>184774264880370</facebook>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/2008_Sichuan_earthquake
+</source>
+<description>Sichuan Earthquake Wiki Page</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://sichuan-quake-relief.org/</source>
+<description>External Link</description>
+</external-link>
+</external-links>
+<start-date>2008-05-12T01:09:56</start-date>
+<human-impact>
+<deaths>69195</deaths>
+<missing>18392</missing>
+<injured>374643</injured>
+<displaced>4800000</displaced>
+</human-impact>
+<economic-impact>1072790600</economic-impact>
+<resources-needed/>
+<ways-to-help>
+<way>Donations</way>
+</ways-to-help>
+<organization-refs>nyfd</organization-refs>
+<person-refs>bush</person-refs>
+</crisis>
+<crisis id="slave_lake_fire">
+<name>Slave Lake Wildfire</name>
+<kind>Human Disaster</kind>
+<description>
+Slave Lake wildfire was a large fire that burned through the town of Slave Lake, Alberta, Canada and its surrounding area in 2011.
+</description>
+<location>
+<city>Slave Lake</city>
+<country>Canada</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/3/3b/Canada_amo_2011135_lrg.jpg
+</source>
+<description>
+NASA satellite image of wildfires burning in Alberta on May 16. Slave Lake is noted by a red dot.
+</description>
+</image>
+</images>
+<maps/>
+<videos/>
+<social/>
+<citations/>
+<external-links>
+<external-link>
+<source>
+http://en.wikipedia.org/wiki/2011_Slave_Lake_wildfire
+</source>
+<description>Wikipedia article on the 2011 Slave Lake wildfire</description>
+</external-link>
+</external-links>
+<start-date>2011-05-14T00:00:00</start-date>
+<human-impact>
+<deaths>1</deaths>
+<missing>0</missing>
+<injured>0</injured>
+<displaced>7000</displaced>
+</human-impact>
+<economic-impact>700000000</economic-impact>
+<resources-needed>
+<resource>Material and financial support</resource>
+</resources-needed>
+<ways-to-help/>
+<organization-refs>canadian_red_cross alberta_govt</organization-refs>
+<person-refs>ed_stelmach</person-refs>
+</crisis>
+<crisis id="tohoku-earthquake-and-tsunami">
+<name>2011 Tohoku Earthquake and Tsunami</name>
+<kind>Earthquake and Tsunami</kind>
+<description>
+On the afternoon of Friday, the 11th of March 2011 an Undersea Earthquake of magnitude 9.03 erupted 70 kilometers off the Eastern coast of Japan.The earthquake sent massive tsunami, some reaching height of over 40 meters, rushing up to 10 kilometers inland. Over 15,000 people lost their lives, nuclear reactors suffered meltdowns, and entire towns were washed away. One of the five most powerful earthquakes ever recorded, the main island of Honshu was moved 2.4 meters east and the Earth shifted several inches on it's axis.
+</description>
+<location>
+<country>None</country>
+<latitude>38.322</latitude>
+<longitude>142.369</longitude>
+</location>
+<images>
+<image>
+<source>
+http://media.monstersandcritics.com/galleries/2842586_23409/0262756955085.jpg
+</source>
+<description>Burning nuclear power plant</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2011_Tohoku_earthquake_observed_tsunami_heights_en.png/240px-2011_Tohoku_earthquake_observed_tsunami_heights_en.png
+</source>
+<description>Locations of earthquakes</description>
+</image>
+<image>
+<source>
+http://www.fsrisijogja.com/wp-content/uploads/2011/03/Japanese-earthquake-and-tsunami-screenshot-01.jpg
+</source>
+<description>Whirlpool!</description>
+</image>
+<image>
+<source>
+https://lh5.googleusercontent.com/-SMP6RF2SKVo/TX9PebcA4NI/AAAAAAAAAP4/ffOCq7wH9dc/alg_tsunami_japan_2011.jpg
+</source>
+<description>Burning ship in a sea of garbage</description>
+</image>
+<image>
+<source>
+http://justinsomnia.org/images/itsuo-inouye-displaced-cargo-containers-japan-2011-sendai-earthquake-big.jpg
+</source>
+<description>Cargo containers strewn about</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=38.322,+142.369&amp;aq=&amp;sll=31.244823,-92.145024&amp;sspn=7.613991,16.907959&amp;t=h&amp;ie=UTF8&amp;ll=38.322,142.369&amp;spn=14.027462,33.815918&amp;z=6&amp;output=embed
+</source>
+<description>Map of Tohoku Earthquake and Tsunami</description>
+</map>
+</maps>
+<videos>
+<youtube>8THc5KdNbow</youtube>
+<youtube>Yxqx0ITz1Zw</youtube>
+<youtube>GrAl2dIKvPw</youtube>
+</videos>
+<social>
+<facebook>118866381524204</facebook>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami
+</source>
+<description>The wikipedia page for the Earthquake</description>
+</citation>
+<citation>
+<source>
+http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0001xgp.php
+</source>
+<description>The US government Earthquake website</description>
+</citation>
+</citations>
+<external-links/>
+<start-date>2011-03-11T14:46:23+09:00</start-date>
+<human-impact>
+<deaths>15870</deaths>
+<missing>2814</missing>
+<injured>6114</injured>
+</human-impact>
+<economic-impact>235000000000</economic-impact>
+<resources-needed>
+<resource>Food</resource>
+<resource>Medical Supplies</resource>
+<resource>Supplies</resource>
+<resource>Shelter</resource>
+<resource>Basic Nessecities</resource>
+<resource>Money</resource>
+</resources-needed>
+<ways-to-help>
+<way>Donations</way>
+<way>Volunteers</way>
+<way>Fund raising</way>
+</ways-to-help>
+<organization-refs>direct-relief-international</organization-refs>
+<person-refs>naoto-kan</person-refs>
+</crisis>
+<crisis id="virginia-tech-massacre">
+<name>Virginia Tech Massacre</name>
+<kind>School gun massacre</kind>
+<description>
+The Virginia Tech massacre was a school shooting that took place on April 16, 2007, on the campus of Virginia Polytechnic Institute and State University in Blacksburg, Virginia, United States. Seung-Hui Cho shot and killed 32 people and wounded 17 others in two separate attacks, approximately two hours apart, before committing suicide (another 6 people were injured escaping from classroom windows). The massacre is the deadliest shooting incident by a single gunman in U.S. history. It was also the worst act of mass murder of college students since Syracuse University lost 35 students in the bombing of Pan Am Flight 103. It is also the second-deadliest act of mass murder at a school campus in the United States, behind the Bath School bombing of 1927.
+</description>
+<location>
+<city>Blacksburg</city>
+<state>VA</state>
+<country>United States</country>
+<latitude>37.2288</latitude>
+<longitude>-80.4234</longitude>
+</location>
+<images>
+<image>
+<source>
+http://farm1.staticflickr.com/186/463683715_8a77accd9e.jpg
+</source>
+<description>Candlelight vigil [Flickr]</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/1/18/Virginia_Tech_massacre_Damiano_photo_from_Holden_Hall_modified2.jpg
+</source>
+<description>Students taking cover [Wikipedia]</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Blacksburg,+Virginia&amp;aq=&amp;sll=30.307761,-97.753401&amp;sspn=0.751667,0.778656&amp;ie=UTF8&amp;hq=&amp;hnear=Blacksburg,+Montgomery,+Virginia&amp;ll=37.229573,-80.413939&amp;spn=0.086655,0.097332&amp;t=m&amp;z=13&amp;output=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>#VirginiaIono</twitter>
+<youtube>E7uEpHFhDS4</youtube>
+</social>
+<citations>
+<citation>
+<source>
+http://www.americanprogress.org/wp-content/uploads/issues/2012/04/pdf/vt_gun_control.pdf
+</source>
+<description>Virginia Massacre Auditing Cost</description>
+</citation>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Virginia_Tech_massacre#Legal_aftermath
+</source>
+<description>Wikipedia Article</description>
+</citation>
+<citation>
+<source>
+http://www.changemag.org/Archives/Back%20Issues/January-February%202008/full-connecting-the-dots.html
+</source>
+<description>Change Magazine Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.imdb.com/title/tt1216494/plotsummary</source>
+<description>Massacre at Virginia Tech (TV show 2008)</description>
+</external-link>
+</external-links>
+<start-date>2007-04-16T07:15:00</start-date>
+<human-impact>
+<deaths>33</deaths>
+<injured>23</injured>
+</human-impact>
+<economic-impact>12565650</economic-impact>
+<resources-needed>
+<resource>Support to affected families</resource>
+<resource>Support regulatory legislation</resource>
+</resources-needed>
+<ways-to-help>
+<way>Gun-Control Group</way>
+</ways-to-help>
+<organization-refs>national-rifle-association</organization-refs>
+<person-refs>seung-hui-cho</person-refs>
+</crisis>
+<crisis id="war-in-uganda">
+<name>War in Uganda</name>
+<kind>Armed Resistance Movement</kind>
+<description>
+The Lord's Resistance Army (LRA) is a militant group/cult operating in northern Uganda, South Sudan, the Democratic Republic of Congo, and the Central African Republic. It has been accused of widespread human rights violations, including murder, abduction, mutilation, child-sex slavery and forcing children to participate in hostilities. Initially it was an outgrowth and continuation of the larger armed resistance movement waged by some of the Acholi people against a central Ugandan government which they felt marginalized them at the expense of southern Ugandan ethnic groups.
+</description>
+<location>
+<country>Republic of Uganda</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/4XF2N.jpg</source>
+<description>Child Soldier</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=uganda&amp;aq=&amp;sll=32.802955,-96.769923&amp;sspn=0.60485,1.234589&amp;ie=UTF8&amp;hq=&amp;hnear=Uganda&amp;t=m&amp;z=7&amp;output=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos/>
+<social/>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Lord%27s_Resistance_Army
+</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links/>
+<start-date>1987-05-29T12:24:30</start-date>
+<human-impact>
+<deaths>1172</deaths>
+</human-impact>
+<economic-impact>1700000000</economic-impact>
+<resources-needed>
+<resource>Volunteer</resource>
+<resource>Fundraising</resource>
+<resource>Donations</resource>
+</resources-needed>
+<ways-to-help>
+<way>
+Email Invisible Children at "http://invisiblechildren.com/about/contact-us/info/"
+</way>
+<way>
+Register for MOVE:DC at "http://movedc.eventbrite.com/#"
+</way>
+</ways-to-help>
+<organization-refs>invisible-children</organization-refs>
+</crisis>
+</crises>
+<organizations>
+<organization id="alberta_govt">
+<name>Government of Alberta</name>
+<kind>Government</kind>
+<description>Government of Alberta, Canada.</description>
+<location>
+<city>Edmonton</city>
+<country>Canada</country>
+</location>
+<images>
+<image>
+<source>
+http://www.calgarykiwanisfestival.ca/images/logos/government%20of%20Alberta.jpg
+</source>
+<description>Alberta Government Logo</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>ATf-tNtmnfY</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://alberta.ca/</source>
+<description>Government of Alberta Website</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Politics_of_Alberta</source>
+<description>Wikipedia Article on the Politics of Alberta</description>
+</external-link>
+</external-links>
+<crisis-refs>slave_lake_fire</crisis-refs>
+<person-refs>ed_stelmach</person-refs>
+</organization>
+<organization id="american-red-cross">
+<name>American Red Cross</name>
+<alternate-names>Red Cross</alternate-names>
+<kind>Humanitarian</kind>
+<description>Founded in May 21, 1881 by Clara Barton</description>
+<location>
+<city>Washington</city>
+<state>DC</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://westshore.redcross.org/images/American_Red_Cross_Logo.jpg
+</source>
+<description>Red Cross Logo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=American+Red+Cross+National+Headquarters,+E+Street+Northwest,+Washington,+DC&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.61295,1.391144&amp;oq=american+red+cross+head&amp;t=h&amp;hq=American+Red+Cross+National+Headquarters,+E+Street+Northwest,+Washington,+DC&amp;z=15
+</source>
+<description>Red Cross DC Headquarters Map</description>
+</map>
+</maps>
+<videos>
+<youtube>z0b83hXXTmk</youtube>
+</videos>
+<social>
+<facebook>redcross</facebook>
+<twitter>@RedCross</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/American_Red_Cross</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.redcross.org/</source>
+<description>Red Cross Official Website</description>
+</external-link>
+</external-links>
+<address>2025 E Street, Washington, DC 20006</address>
+<phone>2025 E Street, Washington, DC 20006</phone>
+<crisis-refs>joplin-tornado</crisis-refs>
+<person-refs>taylor-swift</person-refs>
+</organization>
+<organization id="canadian_red_cross">
+<name>Canadian Red Cross</name>
+<kind>Humanitarian Organization</kind>
+<description>
+Improve the lives of vulnerable people by mobilizing the power of humanity in Canada and around the world.
+</description>
+<location>
+<city>Ottawa</city>
+<country>Canada</country>
+</location>
+<images>
+<image>
+<source>
+https://si0.twimg.com/profile_images/1627809731/twitter_canada.png
+</source>
+<description>Candadian Red Cross Logo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=canadian+red+cross&amp;hl=en&amp;ie=UTF8&amp;hq=canadian+red+cross&amp;hnear=&amp;radius=15000&amp;ll=45.407532,-75.69642&amp;spn=0.007532,0.021136&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=9689306936369675339
+</source>
+<description>Map of Canadian Red Cross Location</description>
+</map>
+</maps>
+<videos>
+<youtube>pisIenOwVZg</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://www.redcross.ca/</source>
+<description>Canadian Red Cross Homepage</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Canadian_Red_Cross</source>
+<description>Wikipedia Article on the Canadian Red Cross</description>
+</external-link>
+</external-links>
+<crisis-refs>slave_lake_fire</crisis-refs>
+<person-refs>ed_stelmach</person-refs>
+</organization>
+<organization id="direct-relief-international">
+<name>Direct Relief International</name>
+<kind>Humanitarian Medical Aid</kind>
+<description>
+Direct Relief International was founded in 1948 by William Zimdin under that name of the William Zimdin Foundation. It would go through two more name changes. In 1957, its name was changed to the Direct Relief Foundation. In 1982, its name was changed to Direct Relief International. Direct Relief International was created with the purpose to provide help to people overcoming enormous hardships improve the quality of their lives. Originally focusing upon helping post-World War 2 Eastern Europe and Greece, the foundation has expanded to over 70 countries. Direct Relief International has been recognized as one of the top charities by various organizations and publications including Forbes, Better Business Bureau, and Consumers Digest.
+</description>
+<location>
+<city>Santa Barbara</city>
+<state>CA</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/en/2/20/Direct_Relief_International_logo.png
+</source>
+<description>Direct Relief International Logo</description>
+</image>
+<image>
+<source>
+http://farm9.staticflickr.com/8331/8077347950_38fc38e5e2_o.jpg
+</source>
+<description>
+A delivery of mostly soap, Pedialyte, and oral rehydration solution arrived in Mirebalais, Haiti in preparation for the rainy season.
+</description>
+</image>
+<image>
+<source>
+http://farm9.staticflickr.com/8299/7986814004_c6b45f1103_o.jpg
+</source>
+<description>Deckers volunteers packing hygiene kits</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Santa+Barbara,+CA&amp;aq=0&amp;oq=Santa+Bar&amp;sll=46.198392,6.142296&amp;sspn=0.096361,0.264187&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Santa+Barbara,+California&amp;z=13&amp;ll=34.42083,-119.69819&amp;output=embed
+</source>
+<description>Location of Direct Relief International</description>
+</map>
+</maps>
+<videos/>
+<social>
+<facebook>directrelief</facebook>
+<twitter>@directreliefpr</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Direct_Relief_International
+</source>
+<description>Direct Relief International Wikipedia Page</description>
+</citation>
+<citation>
+<source>http://www.directrelief.org/</source>
+<description>Direct Relief International Homepage</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.directrelief.org/</source>
+<description>Direct Relief International Homepage</description>
+</external-link>
+</external-links>
+<address>27 S. La Patera Lane Santa Barbara CA 93117 USA</address>
+<phone>27 S. La Patera Lane Santa Barbara CA 93117 USA</phone>
+<crisis-refs>tohoku-earthquake-and-tsunami</crisis-refs>
+</organization>
+<organization id="edhi-foundation">
+<name>Edhi Foundation</name>
+<alternate-names>Texas National Guard</alternate-names>
+<kind>Humanitarian</kind>
+<description>Founded in 1951 by Abdul Sattar Edhi.</description>
+<location>
+<city>Karachi</city>
+<state>NA</state>
+<country>Pakistan</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/en/0/0e/Edhifoundation.png
+</source>
+<description>Edhi Foundation Logo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Karachi,+Pakistan+edhi+foundation&amp;hl=en&amp;sll=30.281602,-97.753601&amp;sspn=0.613113,1.391144&amp;t=h&amp;hq=edhi+foundation&amp;hnear=Karachi,+Karachi+District,+Sindh,+Pakistan&amp;z=12
+</source>
+<description>Edhi Foundation Headquarters Map</description>
+</map>
+</maps>
+<videos>
+<youtube>hcDfP6X11s8</youtube>
+</videos>
+<social>
+<facebook>Edhifoundation</facebook>
+<twitter>@edhifoundation</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Edhi_Foundation</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.edhi.org/</source>
+<description>Edhi Foundation Official Website</description>
+</external-link>
+</external-links>
+<address>
+Edhi Welfare Centre, ST.N.LY-10 Servay.NO.101 OLD.NO.4-4/46, behind Kakri Ground Floor, Picture Road, Karachi, Pakistan
+</address>
+<email>edhikarachi@hotmail.com</email>
+<phone>
+Edhi Welfare Centre, ST.N.LY-10 Servay.NO.101 OLD.NO.4-4/46, behind Kakri Ground Floor, Picture Road, Karachi, Pakistan
+</phone>
+<crisis-refs>kashmir-earthquake</crisis-refs>
+<person-refs>abdul-sattar-edhi</person-refs>
+</organization>
+<organization id="european-central-bank">
+<name>European Central Bank</name>
+<alternate-names>ECB</alternate-names>
+<kind>Financial Organization</kind>
+<description>
+The European Central Bank was established on June 1, 1998 by the Treaty on European Union. It serves as the central bank for the euro and administers monetary policy for the 17 member states of the eurozone.
+</description>
+<location>
+<city>Frankfurt</city>
+<country>Germany</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/d/d0/European_central_bank_euro_frankfurt_germany.jpg
+</source>
+<description>Wikipedia Photo</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/8/89/Zahlungsmittel.JPG
+</source>
+<description>Wikipedia Photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Kaiserstra%C3%9Fe+29,+Frankfurt+am+Main,+Germany&amp;hl=en&amp;ie=UTF8&amp;sll=37.983715,23.72931&amp;sspn=0.149643,0.338173&amp;oq=k&amp;hnear=Kaiserstra%C3%9Fe+29,+60311+Frankfurt+am+Main,+Darmstadt,+Hessen,+Germany&amp;t=m&amp;z=14
+</source>
+<description>Google maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>@ecb</twitter>
+<youtube>RVliijK3Yow</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/European_Central_Bank</source>
+<description>Wikipedia Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.ecb.europa.eu</source>
+<description>ECB Homepage</description>
+</external-link>
+</external-links>
+<address>Kaiserstrasse 29, 60311 Frankfurt am Main, Germany</address>
+<email>info@ecb.europa.eu</email>
+<phone>Kaiserstrasse 29, 60311 Frankfurt am Main, Germany</phone>
+<crisis-refs>eurozone-crisis</crisis-refs>
+<person-refs>george-papandereou</person-refs>
+</organization>
+<organization id="habitat-for-humanity">
+<name>Habitat for Humanity</name>
+<kind>Non-profit Group</kind>
+<description>
+Habitat For Humanity International (HFHI), generally referred to as Habitat for Humanity or simply Habitat, is an international, non-governmental, non-profit organization devoted to building "simple, decent, and affordable" housing, a self-described "Christian housing ministry."
+</description>
+<location>
+<city>Americus</city>
+<state>GA</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/M0iJG.jpg</source>
+<description>Logo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=americus+georgia&amp;hl=en&amp;sll=32.802955,-96.769923&amp;sspn=0.525201,0.903625&amp;hnear=Americus,+Sumter,+Georgia&amp;t=m&amp;ie=UTF8&amp;hq=&amp;z=12&amp;iwloc=A&amp;output=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos>
+<youtube>OE6Rg7xhTrQ</youtube>
+</videos>
+<social>
+<facebook>habitat</facebook>
+<twitter>@Habitat_org</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Habitat_for_Humanity</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.habitat.org</source>
+<description>Official Website</description>
+</external-link>
+</external-links>
+<address>
+Habitat for Humanity International, 121 Habitat Street, Americus, GA 31709-3498, USA
+</address>
+<phone>
+Habitat for Humanity International, 121 Habitat Street, Americus, GA 31709-3498, USA
+</phone>
+<crisis-refs>hurricane-ike</crisis-refs>
+<person-refs>jonas-brothers</person-refs>
+</organization>
+<organization id="happy-hearts-fund">
+<name>Happy Hearts Fund</name>
+<kind>Non-governmental organization</kind>
+<description>
+The Happy Hearts Fund was founded in 2005 by Petra Nemcova. She found the foundation after seeing the aftermath of the 2004 Indian Ocean Earthquake and Tsunami. She was troubled by the lack of help provided to the children 5 months after the event. This lack of help was due to the gap period which occurs after first response and before governments step in after a natural disaster. Due to this, the Happy Hearts Fund focuses upon this gap period. The Happy Hearts Fund provides support through education, technology, and sustainability. They build schools with the appropriate technology to allow for better learning enviroments and future job opportunities while building up a sustainable community around the school. So far, the fund has worked in 14 countries and is currently in Thailand, Indonesia, Chile, Peru, Mexico, and Haiti.
+</description>
+<location>
+<city>New York</city>
+<state>NY</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>
+http://terborg.typepad.com/.a/6a014e5f86c94a970c0147e3bd16b4970b-800wi
+</source>
+<description>Happy Hearts Fund Logo</description>
+</image>
+<image>
+<source>http://happyheartsfund.org/gallery/48_14.jpg</source>
+<description>Thank You</description>
+</image>
+<image>
+<source>http://happyheartsfund.org/gallery/44_new01.jpg</source>
+<description>Group photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=New+York,+NY&amp;aq=0&amp;oq=New+York&amp;sll=30.307761,-97.753401&amp;sspn=0.961509,2.113495&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=New+York&amp;ll=40.714353,-74.005973&amp;spn=0.844178,2.113495&amp;z=10&amp;output=embed
+</source>
+<description>Location of Happy Hearts Fund</description>
+</map>
+</maps>
+<videos/>
+<social>
+<facebook>happyheartsfund</facebook>
+<twitter>@happyheartsfund</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Happy_Hearts_Fund</source>
+<description>Happy Hearts Fund Wikipedia Page</description>
+</citation>
+<citation>
+<source>http://www.happyheartsfund.org/index.php</source>
+<description>Happy Hearts Fund Homepage</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.happyheartsfund.org/index.php</source>
+<description>Happy Hearts Fund Homepage</description>
+</external-link>
+</external-links>
+<address>P.O. Box 725 New York, NY 10014</address>
+<email>info@happyheartsfund.org</email>
+<phone>P.O. Box 725 New York, NY 10014</phone>
+<crisis-refs>indian-ocean-earthquake-and-tsunami</crisis-refs>
+<person-refs>petra-nemcova</person-refs>
+</organization>
+<organization id="international-rescue-committee">
+<name>IRC</name>
+<alternate-names>IRC</alternate-names>
+<kind>Humanitarian</kind>
+<description>
+The IRC is a not-for-profit organization that was founded in 1933 at the request of Albert Einstein. The organization promises to arrive at the location of an emergency within 72 hours and provides support for as long as needed.
+</description>
+<location>
+<city>New York</city>
+<state>NY</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/en/3/33/Irc_logo.png
+</source>
+<description>IRC Logo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=122+East+42nd+Street,+New+York,+New+York+10168-1289&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.61295,1.391144&amp;t=h&amp;hnear=122+E+42nd+St,+New+York,+10017&amp;z=14
+</source>
+<description>IRC NYC Headquarters Map</description>
+</map>
+</maps>
+<videos>
+<youtube>QEpggjxIsFA</youtube>
+</videos>
+<social>
+<facebook>InternationalRescueCommittee</facebook>
+<twitter>@theIRC</twitter>
+</social>
+<citations>
+<citation>
+<source>http://www.rescue.org/</source>
+<description>IRC Official Website</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://en.wikipedia.org/wiki/International_Rescue_Committee
+</source>
+<description>Wikipedia</description>
+</external-link>
+</external-links>
+<address>
+122 East 42nd Street, New York, New York 10168-1289
+</address>
+<email>DonorServices@Rescue.org</email>
+<phone>
+122 East 42nd Street, New York, New York 10168-1289
+</phone>
+<crisis-refs>java-earthquake</crisis-refs>
+<person-refs>susilo-bambang-yudhoyono</person-refs>
+</organization>
+<organization id="invisible-children">
+<name>Invisible Children</name>
+<kind>Non-profit Organization</kind>
+<description>
+Invisible Children, Inc. is an organization founded in 2004 to bring awareness to the activities of the Lord's Resistance Army (LRA) in Central Africa, and its leader, Joseph Kony. Specifically, the group seeks to put an end to the practices of the LRA which include abductions and abuse of children, and forcing them to serve as soldiers. To this end, Invisible Children urges the United States government to take military action in the central region of Africa. Invisible Children also operates as a charitable organization, soliciting donations and selling merchandise to raise money for their cause. The organization promotes its cause by dispensing films on the internet and presenting in high schools and colleges around the United States.
+</description>
+<location>
+<city>San Diego</city>
+<state>CA</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/UOdPV.jpg</source>
+<description>Organization Design</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=INVISIBLE+CHILDREN,+5th+Avenue,+San+Diego,+CA&amp;aq=0&amp;oq=invisible+children&amp;sll=1.373333,32.290275&amp;sspn=5.752766,9.876709&amp;g=uganda&amp;ie=UTF8&amp;hq=INVISIBLE+CHILDREN,&amp;hnear=5th+Ave,+San+Diego,+California&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos>
+<youtube>Z_QsMdSCpNU</youtube>
+<youtube>vrva2aKW1lU</youtube>
+</videos>
+<social>
+<facebook>invisiblechildren</facebook>
+<twitter>@invisible</twitter>
+</social>
+<citations>
+<citation>
+<source>http://invisiblechildren.com/</source>
+<description>Official Website</description>
+</citation>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Invisible_Children,_Inc.
+</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://invisiblechildren.com/</source>
+<description>Official Website</description>
+</external-link>
+<external-link>
+<source>http://movedc.eventbrite.com/#</source>
+<description>Registration for latest chance to get involved</description>
+</external-link>
+</external-links>
+<phone>None</phone>
+<crisis-refs>war-in-uganda</crisis-refs>
+</organization>
+<organization id="islamic-relief-worldwide">
+<name>Islamic Relief Worldwide</name>
+<kind>Relief Organization</kind>
+<description>
+Islamic Relief Worldwide (IRW) is an international relief and development organization consisting of a family of 15 aid agencies that aims to alleviate the suffering of the world’s poorest people. They are inspired by their Islamic values, and envisage a world where communities are empowered, social obligations are fulfilled, and people respond as one to the suffering of others. It is an independent Non-Governmental Organization (NGO) founded in the UK in 1984 by Hany El Banna. Exemplifying its Islamic values, IRW works to mobilize resources, build partnerships, and develop local capacity, as they work to enable communities to mitigate the effect of disasters, prepare for their occurrence and respond by providing relief, protection and recovery. IRW is a member of the UN's Economic and Social Council and it is a signatory to the Code of Conduct for the International Red Cross and Red Crescent Movement and NGOs in Disaster Relief. IRW is also a member of Bond (British Overseas NGOs for Development) and is part of the global Make Poverty History coalition which is campaigning to end extreme poverty. IR is also a member of the Disasters Emergency Committee (DEC) along with 13 other charities.
+</description>
+<location>
+<city>Birmingham</city>
+<country>United Kingdom</country>
+</location>
+<images>
+<image>
+<source>
+http://acoomans-cs373-wc.appspot.com/img/irw-logo.jpg
+</source>
+<description>irw-logo.jpg</description>
+</image>
+<image>
+<source>
+http://www.ldschurchnews.com/media/photos/2009/39823-m.jpg
+</source>
+<description>IRW provides food supplies for tsunami victims</description>
+</image>
+<image>
+<source>
+http://msnbcmedia1.msn.com/j/MSNBC/Components/Photo/_new/100126-haiti-tents-hmed11a.grid-6x2.jpg
+</source>
+<description>IRW provides tents for homeless earthquake victims</description>
+</image>
+<image>
+<source>
+http://www.islamic-relief.com/Uploads/emergency/Borehole%20in%20Mawad%20village%20Kordofan_390x299.jpg
+</source>
+<description>IRW relief efforts in Sudan</description>
+</image>
+<image>
+<source>
+http://farm8.static.flickr.com/7170/6424251179_b06b26d212_m.jpg
+</source>
+<description>IRW's food relief program in Afghanistan</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=52.475063,-1.89026&amp;zoom=13&amp;size=270x270&amp;sensor=false
+</source>
+<description>IRW HQ</description>
+</map>
+</maps>
+<videos>
+<youtube>gaAh0o4aEUk</youtube>
+<youtube>YM4rGXMoQOQ</youtube>
+</videos>
+<social>
+<facebook>islamicreliefworldwide</facebook>
+<twitter>@IR_Worldwide</twitter>
+<youtube>IRWorldwide</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Islamic_Relief</source>
+<description>Islamic Relief Worldwide - Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.islamic-relief.com</source>
+<description>Islamic Relief Worldwide</description>
+</external-link>
+<external-link>
+<source>http://www.irusa.org</source>
+<description>Islamic Relief USA</description>
+</external-link>
+</external-links>
+<address>
+19 Rea St South Digbeth Birmingham B5 6LB United Kingdom
+</address>
+<phone>
+19 Rea St South Digbeth Birmingham B5 6LB United Kingdom
+</phone>
+<crisis-refs>libyan-civil-war</crisis-refs>
+</organization>
+<organization id="lashkar-e-taiba">
+<name>Lashkar-e-Taiba</name>
+<kind>Militant Islamist</kind>
+<description>
+Founded in 1990 by Islamic activists Hafiz Muhammad Saeed, Abdullah Yusuf Azzam, and Zafar Iqbal in Afghanistan. The goal of the organization is primarily the proliferation of Islam, which they attempt to achieve to jihadist attacks. Though the group operates primarily from Pakistan, it is also active in India, Afghanistan, and Bangladesh.
+</description>
+<location>
+<country>Pakistan</country>
+</location>
+<images>
+<image>
+<source>
+http://3.bp.blogspot.com/-P4xD-MwFvr4/TYNUlQx8osI/AAAAAAAABAs/WpYj99dKeeo/s1600/activists_of_merian_local_lashkar.jpg
+</source>
+<description>Blogspot</description>
+</image>
+<image>
+<source>
+http://4.bp.blogspot.com/-y3jrd5tVIdA/TYNUPNi-7oI/AAAAAAAABAk/BDbI18KJe-M/s1600/Pakistan%2BTaliban%2B4.jpg
+</source>
+<description>Blogspot</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=pakistan&amp;hl=en&amp;sll=50.109508,8.673781&amp;sspn=0.003805,0.010568&amp;hnear=Pakistan&amp;t=m&amp;z=5
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>#Iono</twitter>
+<youtube>aBCuoti8428</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Lashkar-e-Taiba</source>
+<description>Wikipedia Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://cautionindia.blogspot.com/2011/03/lashkar-e-toiba-threat-to-india.html
+</source>
+<description>Caution India</description>
+</external-link>
+</external-links>
+<address>Unknown</address>
+<crisis-refs>mumbai-attacks-2008</crisis-refs>
+<person-refs>mohammed-ajmal-amir-kasab</person-refs>
+</organization>
+<organization id="nasa">
+<name>National Aeronautics and Space Administration</name>
+<kind>Government Agency</kind>
+<description>
+Since its inception in 1958, NASA has accomplished many great scientific and technological feats in air and space. NASA technology also has been adapted for many nonaerospace uses by the private sector. NASA remains a leading force in scientific research and in stimulating public interest in aerospace exploration, as well as science and technology in general. Perhaps more importantly, our exploration of space has taught us to view Earth, ourselves, and the universe in a new way. While the tremendous technical and scientific accomplishments of NASA demonstrate vividly that humans can achieve previously inconceivable feats, we also are humbled by the realization that Earth is just a tiny "blue marble" in the cosmos.
+</description>
+<location>
+<city>Washington</city>
+<state>DC</state>
+<country>USA</country>
+<latitude>38.883018</latitude>
+<longitude>-77.016423</longitude>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/300px-NASA_logo.svg.png
+</source>
+<description/>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cheering-full-br2.jpg/800px-Cheering-full-br2.jpg
+</source>
+<description>NASA launch center</description>
+</image>
+<image>
+<source>
+http://www.robotbriefs.com/storage/post-images/NASA_Images_Cas-A.jpg?__SQUARESPACE_CACHEVERSION=1281319537507
+</source>
+<description/>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=38.883018,-77.016423&amp;zoom=12&amp;size=270x270&amp;sensor=false
+</source>
+<description>NASA HQ</description>
+</map>
+</maps>
+<videos>
+<youtube>N3idSmR0ZYk</youtube>
+<youtube>h2I8AoB1xgU</youtube>
+</videos>
+<social>
+<facebook>NASA</facebook>
+<twitter>@NASA</twitter>
+<youtube>NASAtelevision</youtube>
+</social>
+<citations>
+<citation>
+<source>
+http://www.nasa.gov/mission_pages/hurricanes/archives/2011/h2011_Irene.html
+</source>
+<description>NASA and Hurricane Irene</description>
+</citation>
+<citation>
+<source>http://www.nasa.gov/news/chile_assistance.html</source>
+<description>NASA and Chilean Mine Incident</description>
+</citation>
+<citation>
+<source>
+http://abcnews.go.com/Technology/chile-miners-nasa-helps-rescue-future-space-debated/story?id=11871698#.UIXyfXZfSmc
+</source>
+<description>NASA rescue</description>
+</citation>
+<citation>
+<source>http://en.wikipedia.org/wiki/Nasa</source>
+<description>NASA wiki</description>
+</citation>
+</citations>
+<external-links/>
+<address>
+Public Communications Office NASA Headquarters Suite 5K39 Washington, DC 20546-000
+</address>
+<phone>
+Public Communications Office NASA Headquarters Suite 5K39 Washington, DC 20546-000
+</phone>
+<crisis-refs>copiapo-mine-2010 libyan-civil-war</crisis-refs>
+<person-refs>barack-obama</person-refs>
+</organization>
+<organization id="national-rifle-association">
+<name>National Rifle Association</name>
+<alternate-names>NRA</alternate-names>
+<kind>Non-profit organization</kind>
+<description>
+The National Rifle Association was founded by Col. Willam C. Church and Gen. George Wingate. The cause of the organization's creation was the lack of marksmanship displayed by the troops. Currently, the organization is heavily invovled in polictical activity and is the fighter for the Second Amendment. On top of the political involvement, National Rifle Association sponsors a range of safety programs to educate and encourage the safe use of fire arms as well as sporting events.
+</description>
+<location>
+<city>Fairfax</city>
+<state>VA</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://desertsportsmanclub.com/wp-content/uploads/2012/04/NRA.jpg
+</source>
+<description>Logo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=fairfax,+virginia&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.751667,0.770416&amp;hnear=Fairfax,+Virginia&amp;t=m&amp;z=14
+</source>
+<description>Google maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>#NRAiono</twitter>
+<youtube>hJo2xlmT29I</youtube>
+</social>
+<citations>
+<citation>
+<source>http://home.nra.org/#</source>
+<description>National Rifle Association Home Page</description>
+</citation>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/National_Rifle_Association
+</source>
+<description>Wikipedia Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.nraam.org/</source>
+<description>National Rifle Association Website</description>
+</external-link>
+</external-links>
+<address>11250 Waples Mill Road, Fairfax, VA 22030</address>
+<phone>11250 Waples Mill Road, Fairfax, VA 22030</phone>
+<crisis-refs>virginia-tech-massacre</crisis-refs>
+<person-refs>seung-hui-cho</person-refs>
+</organization>
+<organization id="national-wildlife-federation">
+<name>National Wildlife Federation</name>
+<kind>Non-profit Group</kind>
+<description>
+The National Wildlife Federation (NWF) is the United States' largest private, nonprofit conservation education and advocacy organization, with over four million members and supporters, and 48 state and territorial affiliated organizations. The NWF strives to remain "A national network of like-minded state and territorial groups, seeking balanced, common-sense solutions to environmental problems that work for wildlife and people." Its mission statement is "to inspire Americans to protect wildlife for our children's future."
+</description>
+<location>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/J6M5C.jpg</source>
+<description>Logo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=national+wildlife+federation&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.693569,1.234589&amp;hq=national+wildlife+federation&amp;t=m&amp;ie=UTF8&amp;hnear=&amp;cid=9454854022865423015&amp;z=10&amp;iwloc=A&amp;output=embed
+</source>
+<description>Logo</description>
+</map>
+</maps>
+<videos>
+<youtube>7msZ79mw63s</youtube>
+</videos>
+<social>
+<facebook>NationalWildlife</facebook>
+<twitter>@NWF</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/National_Wildlife_Federation
+</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.nwf.org/</source>
+<description>Official Website</description>
+</external-link>
+</external-links>
+<address>11100 Wildlife Center drive, Reston, VA 20190</address>
+<phone>11100 Wildlife Center drive, Reston, VA 20190</phone>
+<crisis-refs>deepwater-horizon-oil-spill</crisis-refs>
+<person-refs>jonas-brothers</person-refs>
+</organization>
+<organization id="nyfd">
+<name>New York City Fire Department</name>
+<alternate-names>NYFD</alternate-names>
+<kind>Emergency service</kind>
+<description>
+The origins of the New York City Fire Department trace back to 1648 when the first fire ordinance was adopted in what then was the Dutch settlement of New Amsterdam. Hooks, ladders and buckets were financed through the collection of fines for dirty chimneys and a fire watch was established consisting of eight wardens which were drawn from the male population. An organization known as the prowlers but given the nickname the rattle watch patrolled the streets with buckets, ladders and hooks from nine in the evening until dawn looking for fires. Leather shoe buckets, 250 in all, were manufactured by local Dutch shoemakers in 1658, and these bucket brigades are regarded as the beginning of the New York Fire Department In 1664 New Amsterdam became a British settlement and was renamed New York.The first New York fire brigade entered service in 1731 equipped with two hand-drawn pumpers which had been transported from London, England. These two pumpers formed Engine Company 1 and Engine Company 2. These were the first fire engines to be used in the American colonies, and all able-bodied citizens were required to respond to a fire alarm and to participate in the extinguishing under the supervision of the Aldermen The city's first firehouse was built in 1736 in front of City Hall on Broad Street. A year later, on December 16, 1737, the colony's General Assembly created the Volunteer Fire Department of the City of New York, appointing 30 men who would remain on call in exchange for exemption from jury and militia duty. The city's first official firemen were required to be "able, discreet, and sober men who shall be known as Firemen of the City of New York, to be ready for service by night and by day and be diligent, industrious and vigilant." Although the 1737 Act created the basis of the fire department, the actual legal entity was incorporated in the State of New York on March 20, 1798 under the name of "Fire Department, City of New York."
+</description>
+<location>
+<city>Staten Island</city>
+<state>NY</state>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/en/thumb/6/65/New_York_City_Fire_Department_Emblem.svg/514px-New_York_City_Fire_Department_Emblem.svg.png
+</source>
+<description>Image 1</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/en/thumb/5/5f/BrooklynFirehouse911Memorial.JPG/800px-BrooklynFirehouse911Memorial.JPG
+</source>
+<description>Image 2</description>
+</image>
+<image>
+<source>
+https://sphotos-b.xx.fbcdn.net/hphotos-ash4/335652_10150521934505729_276128794_o.jpg
+</source>
+<description>Image 3</description>
+</image>
+</images>
+<maps>
+<map>
+<source>http://www.utexas.edu</source>
+<description>http://www.google.com</description>
+</map>
+</maps>
+<videos>
+<youtube>YZ4hK1aGY7Q</youtube>
+<youtube>UINW1Ls64T8</youtube>
+</videos>
+<social>
+<facebook>FDNY</facebook>
+<twitter>@FDNY</twitter>
+</social>
+<citations>
+<citation>
+<source>http://www.utexas.edu</source>
+<description>Citations</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.nyc.gov/fdny</source>
+<description>NYFD website</description>
+</external-link>
+</external-links>
+<address>New York City, NY, Unite d States</address>
+<email>contactus@nycgov.com</email>
+<phone>New York City, NY, Unite d States</phone>
+<crisis-refs>beslan</crisis-refs>
+<person-refs>bush</person-refs>
+</organization>
+<organization id="texas-military-forces">
+<name>Texas Military Forces</name>
+<alternate-names>Texas National Guard</alternate-names>
+<kind>Military</kind>
+<description>
+The Texas National Guard was established on February 18, 1823 by Stephen F. Austin. It has the following three branches: the Texas Army National Guard, the Texas Air National Guard, and the Texas State Guard.
+</description>
+<location>
+<city>Austin</city>
+<state>TX</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://profile.ak.fbcdn.net/hprofile-ak-prn1/71099_10150112846340368_7717381_n.jpg
+</source>
+<description>Texas National Guard Logo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Camp+Mabry+Texas+National+Guard,+Austin,+TX&amp;amp;hl=en&amp;amp;sll=38.89635,-77.045633&amp;amp;sspn=0.017836,0.042572&amp;amp;oq=Camp+Mabry&amp;amp;t=h&amp;amp;hq=Camp+Mabry+Texas+National+Guard,+Austin,+TX&amp;amp;z=15
+</source>
+<description>Texas Military Forces Headquarters Map</description>
+</map>
+</maps>
+<videos>
+<youtube>zG3hwVB3rBQ</youtube>
+</videos>
+<social>
+<facebook>TexasMilitaryForces</facebook>
+<twitter>@TXMilitaryForce</twitter>
+</social>
+<citations>
+<citation>
+<source>http://www.txmf.us/</source>
+<description>Texas Military Forces Official Website</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Texas_Military_Forces</source>
+<description>Wikipedia</description>
+</external-link>
+</external-links>
+<address>
+2200 W 35th St, Camp Mabry, Bldg 8 Austin, TX 787039
+</address>
+<email>PAOTX@tx.ngb.army.mil</email>
+<phone>
+2200 W 35th St, Camp Mabry, Bldg 8 Austin, TX 787039
+</phone>
+<crisis-refs>bastrop-county-wildfire</crisis-refs>
+<person-refs>rick-perry</person-refs>
+</organization>
+<organization id="the-red-cross">
+<name>The Red Cross</name>
+<kind>Humanitarian Aid</kind>
+<description>
+The Red Cross was founded in 1863 by Henry Dunant and Gustave Moynier. The Red Cross was created with the purpose of ensuring the protection and assistance for victims of armed conflict and strife. This is done through direct relief and pushing for changes and creations of international humanitarian law. Their accomplishments include the creation and adoption of the first Geneva Convention. The Red Cross currently has 97 million volunteers worldwide.
+</description>
+<location>
+<city>Geneva</city>
+<country>Switzerland</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Emblem_of_the_ICRC.svg/200px-Emblem_of_the_ICRC.svg.png
+</source>
+<description>Red Cross Logo</description>
+</image>
+<image>
+<source>
+http://www.icrc.org/eng/assets/images/photos/gallery/2012-10-03-senegal-distribution/v-p-sn-e-00224.jpg
+</source>
+<description>Volunteers unloading trucks</description>
+</image>
+<image>
+<source>
+http://www.icrc.org/eng/assets/images/photos/gallery/2012-10-09-colombia-wathab/colombia-photo-gallery-photo-8-2012-10-09.jpg
+</source>
+<description>Youth hostel set up for education</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Geneva,+Switzerland&amp;aq=0&amp;oq=Gene&amp;sll=49.817492,15.472962&amp;sspn=2.874508,8.453979&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Geneva,+Switzerland&amp;z=13&amp;ll=46.198392,6.142296&amp;output=embed
+</source>
+<description>Location of the Red Cross</description>
+</map>
+</maps>
+<videos/>
+<social>
+<facebook>ICRC</facebook>
+<twitter>@Federation</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Red_Cross#The_International_Committee_of_the_Red_Cross
+</source>
+<description>Red Cross Wikipedia Page</description>
+</citation>
+<citation>
+<source>http://www.icrc.org/eng/index.jsp</source>
+<description>Red Cross English Homepage</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.icrc.org/eng/</source>
+<description>International Committee of the Red Cross Homepage</description>
+</external-link>
+</external-links>
+<address>19 Avenue de la paix CH 1202 Geneva, Switzerland</address>
+<email>webmaster@icrc.org</email>
+<phone>19 Avenue de la paix CH 1202 Geneva, Switzerland</phone>
+<crisis-refs>haiti-earthquake</crisis-refs>
+</organization>
+<organization id="uk_dept_of_health">
+<name>UK Department of Health</name>
+<kind>Government</kind>
+<description>
+Developing policies and guidelines to improve the quality of care and to meet patient expectations.
+</description>
+<location>
+<city>London</city>
+<country>England</country>
+</location>
+<images>
+<image>
+<source>
+http://1.bp.blogspot.com/-fxmD_0E0bPo/Td-yalE8BhI/AAAAAAAAD-A/7lu8aykNalE/s1600/UK+Dept+of+Health.jpg
+</source>
+<description>UK Department of Health Logo</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>6PT5iSYWItg</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://www.dh.gov.uk/</source>
+<description>UK Department of Health Website</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://en.wikipedia.org/wiki/Department_of_Health_%28United_Kingdom%29
+</source>
+<description>Wikipedia Article on the UK Department of Health</description>
+</external-link>
+</external-links>
+<crisis-refs>mad_cow</crisis-refs>
+</organization>
+<organization id="un">
+<name>United Nations</name>
+<kind>Internation Body</kind>
+<description>UN building</description>
+<location>
+<city>New York City</city>
+<state>NY</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://www.un.org/Depts/dhl/maplib/images_maplib/unflag.gif
+</source>
+<description>UN Seal</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=United+Nations,+405+E+42nd+St,+New+York,+NY&amp;aq=&amp;sll=30.307761,-97.753401&amp;sspn=0.592798,1.352692&amp;ie=UTF8&amp;split=0&amp;hq=&amp;hnear=United+Nations,+405+E+42nd+St,+New+York,+10017&amp;t=m&amp;z=14&amp;ll=40.750077,-73.967684
+</source>
+<description>Map of UN Building in New York</description>
+</map>
+</maps>
+<videos>
+<youtube>bHmXZXsABm0</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://www.un.org/en/</source>
+<description>United Nations Home Page</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.un.org/en/</source>
+<description>United Nations Home Page</description>
+</external-link>
+<external-link>
+<source>https://twitter.com/UN</source>
+<description>Tweets by @UN</description>
+</external-link>
+</external-links>
+<crisis-refs>israel_iran</crisis-refs>
+<person-refs>banki_moon</person-refs>
+</organization>
+<organization id="united-nations">
+<name>United Nations</name>
+<kind>International organization</kind>
+<description>
+The United Nations was founded in 1945 as a replacement for the League of Nations in the aftermath of World War 2. It was founded upon the idea of preventing another world war. To achieve this, the goal of the United Nations is to maintain international peace and promote cooperation between the countries of the world in dealing with international social, economic, and humanitarian problems. The United Nations is separated into 5 principal bodies. These are the General Assembly, the Security Council, the Economic and Social Council, the Secretariat, and the International Court of Justice. There are currently 193 member states.
+</description>
+<location>
+<city>New York City</city>
+<state>NY</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>http://www.undp.org.ls/UN-LOGO%20copy.jpg</source>
+<description>United Nations Logo</description>
+</image>
+<image>
+<source>http://www.un.org/en/aboutun/images/flags.jpg</source>
+<description>Flags of the Members of the United Nations</description>
+</image>
+<image>
+<source>
+http://www.un.org/en/strengtheningtheun/slideshow_images/1.jpg
+</source>
+<description>
+UN peacekeepers rescue children from a flooded orphanage in Haiti
+</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=New+York,+NY&amp;aq=0&amp;oq=New+York&amp;sll=30.307761,-97.753401&amp;sspn=0.961509,2.113495&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=New+York&amp;ll=40.714353,-74.005973&amp;spn=0.844178,2.113495&amp;z=10&amp;output=embed
+</source>
+<description>Location of the United Nations</description>
+</map>
+</maps>
+<videos/>
+<social>
+<facebook>unitednationsfoundation</facebook>
+<twitter>@UN</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/United_Nations</source>
+<description>United Nations Wikipedia page</description>
+</citation>
+<citation>
+<source>http://www.un.org/</source>
+<description>United Nations Homepage</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.un.org/en/</source>
+<description>United Nations English Homepage</description>
+</external-link>
+</external-links>
+<address>United Nations, New York, NY 10017, USA</address>
+<phone>United Nations, New York, NY 10017, USA</phone>
+<crisis-refs>
+hurricane-katrina haiti-earthquake indian-ocean-earthquake-and-tsunami tohoku-earthquake-and-tsunami
+</crisis-refs>
+<person-refs>barack-obama naoto-kan george-clooney</person-refs>
+</organization>
+<organization id="us_govt">
+<name>United States Government</name>
+<kind>Government</kind>
+<description>The traditional home of the President</description>
+<location>
+<city>Washington, DC</city>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://annoytheleft.files.wordpress.com/2009/12/white-house.jpg
+</source>
+<description>The White House</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=white+house+map&amp;ie=UTF8&amp;hl=en&amp;hq=white+house&amp;t=m&amp;ll=38.897737,-77.03632&amp;spn=0.017368,0.032015
+</source>
+<description>Map of Washington DC</description>
+</map>
+</maps>
+<videos>
+<youtube>ktqgtlFjWRw</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://www.whitehouse.gov/</source>
+<description>White House Homepage</description>
+</citation>
+<citation>
+<source>http://www.usa.gov/</source>
+<description>Government Gateway Page</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.whitehouse.gov/</source>
+<description>White House Homepage</description>
+</external-link>
+<external-link>
+<source>https://twitter.com/whitehouse</source>
+<description>Tweets by @whitehouse</description>
+</external-link>
+</external-links>
+<crisis-refs>isabel</crisis-refs>
+<person-refs>george_w_bush</person-refs>
+</organization>
+<organization id="world-food-programme">
+<name>World Food Programme</name>
+<kind>UN Humanitarian Program</kind>
+<description>
+The World Food Programme is the food aid branch of the United Nations and is the world's largest humanitarian agency fighting hunger worldwide. After a proposal by US President Dwight Eisenhower in 1960, the program was originally founded in 1961 by the Food and Agriculture Organization on a three-year experimental basis, and was later set to be established as long as "multilateral food is found feasible and desirable." In 2003, the WFP received their official mandate of providing transport services for humanitarian operations, UN-wide. They currently provide food to almost 100 million people in 70 countries, supplying 54% of global food aid.
+</description>
+<location>
+<city>Rome</city>
+<country>Italy</country>
+<latitude>41.822194</latitude>
+<longitude>-12.408006</longitude>
+</location>
+<images>
+<image>
+<source>
+http://acoomans-cs373-wc.appspot.com/img/wfp-logo.png
+</source>
+<description>wfp-logo.png</description>
+</image>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/4/4f/Un_c-130_food_delivery_rumbek_sudan.jpg
+</source>
+<description>C-130 Food Delivery in Rumbek, Sudan</description>
+</image>
+<image>
+<source>
+http://farm3.staticflickr.com/2798/4504271242_2b81db786b_m.jpg
+</source>
+<description>
+World Food Program by Keith Bacongco, on Flickr - http://www.flickr.com/photos/kitoy/4504271242/
+</description>
+</image>
+<image>
+<source>
+http://farm6.staticflickr.com/5160/7373015574_fa9aa9a5fd_m.jpg
+</source>
+<description>
+World Food Program Malnutrition Elimination Works - http://www.flickr.com/photos/minustah/7373015574/
+</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=41.822194,12.408006&amp;zoom=15&amp;size=270x270&amp;sensor=false
+</source>
+<description>World Food Program HQ</description>
+</map>
+</maps>
+<videos>
+<youtube>UURrX5Mg2Lo</youtube>
+<youtube>UmGZitfVO-I</youtube>
+</videos>
+<social>
+<facebook>WorldFoodProgramme</facebook>
+<twitter>@WFP</twitter>
+<youtube>WORLDFOODPROGRAM</youtube>
+</social>
+<citations>
+<citation>
+<source>http://www.wfp.org/about</source>
+<description>About the World Food Programme</description>
+</citation>
+<citation>
+<source>
+http://www.wfp.org/about/corporate-information/history
+</source>
+<description>World Food Programme History</description>
+</citation>
+<citation>
+<source>
+https://www.wfp.org/stories/all-about-wfp-infographic
+</source>
+<description>World Food Programme Infographic</description>
+</citation>
+</citations>
+<external-links/>
+<address>
+Via C.G.Viola 68 Parco dei Medici 00148 - Rome - Italy
+</address>
+<phone>
+Via C.G.Viola 68 Parco dei Medici 00148 - Rome - Italy
+</phone>
+</organization>
+<organization id="world-health-organization">
+<name>World Heath Organization</name>
+<kind>Specialized Agency of United Nations</kind>
+<description>
+The World Health Organization (WHO) is a specialized agency of the United Nations (UN) that is concerned with international public health. It was established on 7 April 1948, with headquarters in Geneva, Switzerland, and is a member of the United Nations Development Group.Since its creation, WHO has been responsible for playing a leading role in the eradication of smallpox. Its current priorities include communicable diseases, in particular, HIV/AIDS, malaria and tuberculosis; the mitigation of the effects of non-communicable diseases; sexual and reproductive health, development, and aging; nutrition, food security and healthy eating; substance abuse; and drive the development of reporting, publications, and networking.
+</description>
+<location>
+<country>Global</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/d48hM.png</source>
+<description>Flag of the World Health Organization</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>vBKBsrnBdSI</youtube>
+</videos>
+<social>
+<facebook>WorldHealthOrganization</facebook>
+<twitter>@WHO</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/World_Health_Organization
+</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.who.int/en/</source>
+<description>Official Website</description>
+</external-link>
+</external-links>
+<address>525, 23rd Street, N.W. Washington, DC 20037 USA</address>
+<phone>525, 23rd Street, N.W. Washington, DC 20037 USA</phone>
+<crisis-refs>sars</crisis-refs>
+</organization>
+</organizations>
+<people>
+<person id="abdul-sattar-edhi">
+<name>Abdul Sattar Edhi</name>
+<alternate-names>Abdul Edhi</alternate-names>
+<kind>Humanitarian</kind>
+<description>
+Abdul Sattar Edhi is a Pakistani philanthropist known for international humanitarian work.
+</description>
+<location>
+<city>Karachi</city>
+<state>NA</state>
+<country>Pakistan</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Abdul_Sattar_Edhi.jpg/220px-Abdul_Sattar_Edhi.jpg
+</source>
+<description>Abdul Sattar Edhi's Photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Karachi,+Sindh,+Pakistan&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.633108,1.362305&amp;oq=karachi&amp;hnear=Karachi,+Karachi+District,+Sindh,+Pakistan&amp;t=m&amp;z=9
+</source>
+<description>Abdul Sattar Edhi's city of birth Map</description>
+</map>
+</maps>
+<videos>
+<youtube>hcDfP6X11s8</youtube>
+</videos>
+<social>
+<twitter>#abduledhi</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Abdul_Sattar_Edhi</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://www.telegraph.co.uk/news/worldnews/asia/pakistan/8440920/The-day-I-met-Abdul-Sattar-Edhi-a-living-saint.html
+</source>
+<description>Article on Abdul Sattar Edhi</description>
+</external-link>
+</external-links>
+<crisis-refs>kashmir-earthquake</crisis-refs>
+<organization-refs>edhi-foundation</organization-refs>
+</person>
+<person id="anders-fogh-rasmussen">
+<name>Anders Fogh Rasmussen</name>
+<kind>Politician</kind>
+<description>
+Anders Fogh Rasmussen is a Danish politician and the current Secretary General of the North Atlantic Treaty Organization. Rasmussen started his political career as a member of the Danish Parliment representing the Liberal Party in 1978. He since went on to hold multiple positions in the Danish government, including Minister for Taxation (1987-1992), Minister of Economic Affairs (1990-1992), Spokesman for the Liberal Party (1992-1998), vice-chairman of Economic and Political Affairs Committee in Danish Parliment (1993-1998), chairman of Liberal Party (1998), and vice-chairman of Foreign Policy Board of Danish Parliment (1998). Rasmussen held the position of prime minister of Denmark in 2001 until his appointment as the Secretary General of NATO in 2009. As Secretary General, Rasmussen took command of NATO operations to provide military aid to Libyan rebel forces during the Libyan Civil War in 2011 and is leading NATO's continuing efforts to stabilize the Afghanistan conflict.
+</description>
+<location>
+<city>Brussells</city>
+<country>Belgium</country>
+</location>
+<images>
+<image>
+<source>
+http://acoomans-cs373-wc.appspot.com/img/anders-fogh-rasmussen.jpg
+</source>
+<description>Anders Fogh Rasmussen</description>
+</image>
+<image>
+<source>
+http://missiledefense.files.wordpress.com/2011/06/fogh-rasmussen.jpg
+</source>
+<description>Anders Fogh Rasmussen</description>
+</image>
+<image>
+<source>
+http://previous.presstv.ir/photo/20120125/azarparand20120125105713547.jpg
+</source>
+<description>Anders Fogh Rasmussen</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=50.84908,4.354534&amp;zoom=13&amp;size=270x270&amp;sensor=false
+</source>
+<description>Brussells, Belgium</description>
+</map>
+</maps>
+<videos>
+<youtube>eBTnUR4Bwlw</youtube>
+<youtube>bFod686o_60</youtube>
+<youtube>mLxKqdUQOAw</youtube>
+</videos>
+<social>
+<facebook>andersfoghrasmussen</facebook>
+<twitter>@AndersFoghR</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://www.nato.int/cps/en/natolive/who_is_who_56703.htm
+</source>
+<description>Anders Fogh Rasmussen Biography, NATO website</description>
+</citation>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Anders_Fogh_Rasmussen#NATO_Secretary_General
+</source>
+<description>Anders Fogh Rasmussen Wikipedia</description>
+</citation>
+</citations>
+<external-links/>
+</person>
+<person id="banki_moon">
+<name>Ban-ki Moon</name>
+<kind>Secretary-General</kind>
+<description>Eighth UN Secretary-General. Is in his second term</description>
+<location>
+<country>South Korea</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ban_Ki-moon_1-2.jpg/220px-Ban_Ki-moon_1-2.jpg
+</source>
+<description>Portrait</description>
+</image>
+<image>
+<source>
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ5eqc3rl8mZVqJvTNMDqPhVRxTfEbjmGvHPuqKJZJn_FKFkDOnw
+</source>
+<description>Moon Speaks about the Israel-Iran Crisis</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>tOyeaRPwBr0</youtube>
+</videos>
+<social/>
+<citations/>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Ban_Ki-moon</source>
+<description>Wikipedia Article on Ban-ki Moon</description>
+</external-link>
+<external-link>
+<source>
+http://www.euronews.com/2012/08/29/ban-ki-moon-defies-us-and-israel-by-attending-iran-summit/
+</source>
+<description>Ban-ki Attends Israel Iran Conference</description>
+</external-link>
+</external-links>
+<crisis-refs>israel_iran</crisis-refs>
+<organization-refs>un</organization-refs>
+</person>
+<person id="barack-obama">
+<name>Barack Obama</name>
+<kind>world-leader</kind>
+<description>President of US</description>
+<location>
+<city>Washington D.C.</city>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/e/e9/Official_portrait_of_Barack_Obama.jpg
+</source>
+<description>
+Barack Obama with the American flag in the background
+</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Washington,+DC&amp;aq=0&amp;oq=washing&amp;sll=40.713956,-74.006653&amp;sspn=0.844178,2.113495&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Washington,+District+of+Columbia&amp;z=12&amp;ll=38.895112,-77.036366&amp;output=embed
+</source>
+<description>Location of Barack Obama</description>
+</map>
+</maps>
+<videos/>
+<social/>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Barack_Obama</source>
+<description>Wiki page for Barack Obama</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://www.whitehouse.gov/administration/president-obama
+</source>
+<description>Barack Obama's page on White House page</description>
+</external-link>
+</external-links>
+<crisis-refs>haiti-earthquake</crisis-refs>
+<organization-refs>united-nations the-red-cross</organization-refs>
+</person>
+<person id="benjamin_netanyahu">
+<name>Benjamin Netanyahu</name>
+<kind>Prime Minister</kind>
+<description>Prime Minister of Israel</description>
+<location>
+<country>Israel</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Defense.gov_photo_essay_110325-D-XH843-010.jpg/220px-Defense.gov_photo_essay_110325-D-XH843-010.jpg
+</source>
+<description>Portrait</description>
+</image>
+<image>
+<source>
+http://www.trbimg.com/img-5064f680/turbine/ct-ct-nw-un-iran-trib.jpg-20120927/600
+</source>
+<description>Netanyahu Speaking on the Israel Iran conflict</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>FhaUVmYBXD0</youtube>
+</videos>
+<social/>
+<citations/>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Benjamin_Netanyahu</source>
+<description>Wikipedia Article on Benjamin Netanyahu</description>
+</external-link>
+<external-link>
+<source>
+http://www.bbc.co.uk/news/world-middle-east-19746994
+</source>
+<description>Netanyahu Speaks about Israel Iran</description>
+</external-link>
+</external-links>
+<crisis-refs>israel_iran</crisis-refs>
+<organization-refs>un</organization-refs>
+</person>
+<person id="beyonce-knowles">
+<name>Beyonce Knowles</name>
+<alternate-names>Beyonce</alternate-names>
+<kind>Singer</kind>
+<description>
+Beyonce Knowles is an American singer, songwriter, dancer and actress.
+</description>
+<location>
+<city>Scarsdale</city>
+<state>NY</state>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/xDdCu.jpg</source>
+<description>Beyonce Knowles</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>4m1EFMoRFvY</youtube>
+</videos>
+<social>
+<facebook>beyonce</facebook>
+<twitter>@beyonce</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Beyonce_Knowles</source>
+<description>Wikipedia</description>
+</citation>
+<citation>
+<source>http://www.beyonce.com</source>
+<description>Official Site</description>
+</citation>
+</citations>
+<external-links/>
+<crisis-refs>hurricane-ike</crisis-refs>
+</person>
+<person id="bush">
+<name>George W. Bush</name>
+<alternate-names>GWB</alternate-names>
+<kind>President of The USA</kind>
+<description>
+The airborne terrorist attacks on the World Trade Center, the Pentagon, and the thwarted flight against the White House of Capitol on September 11, 2001, in which nearly 3,000 Americans were killed, transformed George W. Bush into a wartime president. The attacks put on hold many of Bush’s hopes and plans, and Bush’s father, George Bush, the 41st president, declared that his son “faced the greatest challenge of any president since Abraham Lincoln.” In response, Bush formed a new cabinet-level Department of Homeland Security, sent American forces into Afghanistan to break up the Taliban, a movement under Osama bin Laden that trained financed and exported terrorist teams. The Taliban was successfully disrupted but Bin Laden was not captured and was still on the loose as Bush began his second term. Following the attacks, the president also recast the nation’s intelligence gathering and analysis services, and ordered reform of the military forces to meet the new enemy. At the same time he delivered major tax cuts which had been a campaign pledge. His most controversial act was the invasion of Iraq on the belief that Iraqi President Saddam Hussein posed a grave threat to the United States. Saddam was captured, but the disruption of Iraq and the killing of American servicemen and friendly Iraqis by insurgents became the challenge of Bush’s government as he began his second term. President Bush pledged during his 2005 State of the Union Address that the United States would help the Iraqi people establish a fully democratic government because the victory of freedom in Iraq would strengthen a new ally in the war on terror, bring hope to a troubled region, and lift a threat from the lives of future generations. Bush was born in New Haven, Connecticut while his father was attending Yale University after service in World War II. The family moved to Midland, Texas, where the senior Bush entered the oil exploration business. The son spent formative years there, attended Midland public schools, and formed friendships that stayed with him into the White House. Bush graduated from Yale, received a business degree from Harvard, and then returned to Midland where he too got into the oil business. In Midland he met and married Laura Welch, a teacher and librarian. They had twin daughters, Jenna and Barbara, now out of college and pursuing careers. When George W. Bush, at the age of 54, became the 43rd president of the United States, it was only the second time in American history that a president’s son went on to the White House. John Quincy Adams, elected the sixth president in 1824, was the son of John Adams, the second president. While John Adams had groomed his son to be president, George Bush, the 41st president, insisted he was surprised when the eldest of his six children became interested in politics, became governor of Texas, and then went on to the White House. During the early part of the 2000 campaign for the White House, Bush enjoyed a double-digit lead in the polls over his opponent Vice President Al Gore Jr. But the gap closed as the election approached and though Gore finally won the popular vote by 543,895 votes, victory or loss of the presidency hinged on Florida’s electoral votes. That struggle through recounts and lawsuits worked its way to the Supreme Court. In the end Bush won the electoral count 271 to 266. His new administration was focused on “compassionate conservatism,” which embraced excellence in education, tax relief and volunteerism among faith-based and community organizations. Bush was challenged in his re-election bid in 2004 by Massachusetts Democratic Senator John Kerry. The election was a good contest, but Bush’s contention that the invasion of Iraq had made the world more secure against terrorism won the national political debate. Bush was re-elected with 51 percent to 48 percent. On the inaugural stand, George W. Bush set the theme for his second term: “At this second gathering, our duties are defined not by the words I use, but by the history we have seen together. For half a century, America defended our own freedom by standing watch on distant borders. After the shipwreck of communism came years of relative quiet- and then there came a day of fire. There is only one force of history that can break the reign of hatred and resentment, and expose the pretensions of tyrants, and reward the hopes of the decent and tolerant, and that is the force of human freedom – tested but not weary… we are ready for the greatest achievements in the history of freedom.” The Presidential biographies on WhiteHouse.gov are from “The Presidents of the United States of America,” by Michael Beschloss and Hugh Sidey. Copyright 2009 by the White House
+</description>
+<location>
+<city>Washington D.C.</city>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/225px-George-W-Bush.jpeg
+</source>
+<description>Wikimedia picture</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>4RbAZj9RB94</youtube>
+</videos>
+<social>
+<facebook>georgewbush</facebook>
+<twitter>@GeorgeBush</twitter>
+<youtube>TheBushCenter</youtube>
+</social>
+<citations>
+<citation>
+<source>
+http://politicalhumor.about.com/od/bushquotes/a/dumbbushquotes_3.htm
+</source>
+<description>George W. Bush quotes</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.bushcenter.com</source>
+<description>Bush Center Website</description>
+</external-link>
+</external-links>
+<crisis-refs>beslan</crisis-refs>
+<organization-refs>nyfd</organization-refs>
+</person>
+<person id="clinton">
+<name>Bill Clinton</name>
+<alternate-names>Clinton</alternate-names>
+<kind>President of The USA</kind>
+<description>
+William Jefferson "Bill" Clinton (born William Jefferson Blythe III; August 19, 1946) is an American politician who served as the 42nd President of the United States from 1993 to 2001. Inaugurated at age 46, he was the third-youngest president. He took office at the end of the Cold War, and was the first president of the baby boomer generation. On the Izmit Earthquake “We were so impressed that a total of 87 other countries came forward to help the people of Turkey who were hurt in the earthquake. And we were very grateful that one of the countries that came forward to help was your neighbor Greece. And then, when the Greeks had their earthquake, the Turkish people came forward to help them. I hope the ordinary people in Greece and Turkey who have suffered from these terrible natural disasters can send a clear message to the leaders that the people of this region can get along, and they should get along, and when they do get along, our children's lives and futures are better. Now, in the meanwhile, I want you to know that we in the United States will do everything we can to help you until your lives return to normal. And we will help those people in the area hit by the most recent earthquake. We will stay with you and work with you. And I just want to urge you to keep your spirits up, keep the smiles on your children's faces, keep helping the people who lost their loved ones in the earthquake, and know that together we will get through this to better days
+</description>
+<location>
+<city>Washington D.C.</city>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/220px-Bill_Clinton.jpg
+</source>
+<description>Wikimedia picture</description>
+</image>
+<image>
+<source>
+http://photos.state.gov/galleries/ankara/9104/between_friends_photo_exhibit/clinton_and_kids.jpg
+</source>
+<description>Online picture</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?hl=en&q=bill+clinton+map&ie=UTF-8&ei=cD6GUNbOMaGQ2gXk6YC4Bw&ved=0CAgQ_AUoAg
+</source>
+<description>Location</description>
+</map>
+</maps>
+<videos>
+<youtube>khiF5CU3z6M</youtube>
+</videos>
+<social>
+<facebook>billclinton</facebook>
+<twitter>@billclinton</twitter>
+<youtube>HCwPNX4JgRNRE</youtube>
+</social>
+<citations>
+<citation>
+<source>
+http://politicalhumor.about.com/cs/quotethis/a/clintonquotes.htm
+</source>
+<description>Quotes</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Clinton_Foundation</source>
+<description>Clinton Foundation Website</description>
+</external-link>
+</external-links>
+<crisis-refs>beslan</crisis-refs>
+<organization-refs>nyfd</organization-refs>
+</person>
+<person id="craig-fugate">
+<name>Craig Fugate</name>
+<kind>Politician</kind>
+<description>
+W. Craig Fugate was appinted as Administrator of the Federal Emergency Management Agency by the Obama Administration in 2009. Fugate started his career in emergency and disaster response in high school as volunteer firefighter trainee. He then rose in the ranks of leadership until he was appointed Director of the Florida Division of Emergency Management by Governor Jeb Bush in 2001. From 2001 to 2009, he coordinated Florida's emergency operations in response to Hurricanes Charles, Francis, Ivan, Jeanne, Dennis, Katrina, and Wilma. After his appointment as FEMA Director, he has since led the agency's efforts to provide federal emergency aid to states impacted by various disasters, most notably Hurricane Irene, the Joplin tornado, and major flooding in the Midwest.
+</description>
+<location>
+<city>Washington</city>
+<state>DC</state>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://acoomans-cs373-wc.appspot.com/img/craig-fugate.jpg
+</source>
+<description>craig-fugate.jpg</description>
+</image>
+<image>
+<source>
+http://blogs.palmbeachpost.com/eyeonthestorm/files/2009/05/px031_59c8_9.jpg
+</source>
+<description>Craig Fugate giving a briefing</description>
+</image>
+<image>
+<source>
+http://4.bp.blogspot.com/_0VDwuw1RNR0/Sa7SJeE62MI/AAAAAAAADAc/hfegb9yWGww/s400/CraigFugate.jpg
+</source>
+<description>Craig Fugate in the field</description>
+</image>
+<image>
+<source>
+http://media.emergencymgmt.com/images/619119_Craig_Fugate_Image.jpg
+</source>
+<description>Craig Fugate</description>
+</image>
+<image>
+<source>
+http://indiancountrytodaymedianetwork.com/wp-content/uploads/2012/06/LO-RES-FEMA-Administrator-Craig-Fugate-AP110829111043-615x441.jpg
+</source>
+<description>
+Craig Fugate giving White House briefing to reporters
+</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=38.885912,-77.01852&amp;zoom=15&amp;size=270x270&amp;sensor=false
+</source>
+<description>FEMA HQ</description>
+</map>
+</maps>
+<videos>
+<youtube>TtdeOyEco1o</youtube>
+<youtube>Qh1JxyaCzDM</youtube>
+<youtube>3kLqt1i-eNk</youtube>
+</videos>
+<social>
+<facebook>108310572526712</facebook>
+<twitter>@CraigatFEMA</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://politicalticker.blogs.cnn.com/2009/03/04/fugate-nominated-for-fema-director/
+</source>
+<description>
+Press Release on Fugate's Nomination as FEMA Director
+</description>
+</citation>
+<citation>
+<source>
+http://www.wnyc.org/articles/its-free-country/2011/aug/26/fema-chief-craig-fugate-years-experience-low-profile/
+</source>
+<description>News Article on Fugate</description>
+</citation>
+<citation>
+<source>
+http://www.theatlantic.com/magazine/archive/2009/09/in-case-of-emergency/307604/
+</source>
+<description>News Article on Fugate, Will May, Jr. quote</description>
+</citation>
+<citation>
+<source>http://en.wikipedia.org/wiki/Craig_Fugate</source>
+<description>Craig Fugate Wikipedia</description>
+</citation>
+</citations>
+<external-links/>
+</person>
+<person id="ed_stelmach">
+<name>Ed Stelmach</name>
+<kind>Premier</kind>
+<description>13th Premier of Alberta</description>
+<location>
+<country>Canada</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ed_Stelmach2.jpg/220px-Ed_Stelmach2.jpg
+</source>
+<description>Portrait</description>
+</image>
+<image>
+<source>
+http://www.cbc.ca/gfx/images/news/topstories/2011/05/20/si-harper-stelmach-townhall.jpg
+</source>
+<description>Premier Stelmach speaks about the slave lake fire</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>X4yRu_L3AQA</youtube>
+</videos>
+<social/>
+<citations/>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Ed_Stelmach</source>
+<description>Wikipedia Article on Ed Stelmach</description>
+</external-link>
+<external-link>
+<source>
+http://www.cbc.ca/news/canada/edmonton/story/2011/05/20/slave-lake-harper-stelmach.html
+</source>
+<description>Stelmach's Promise of Aid</description>
+</external-link>
+</external-links>
+<crisis-refs>slave_lake_fire</crisis-refs>
+<organization-refs>alberta_govt</organization-refs>
+</person>
+<person id="george-clooney">
+<name>George Clooney</name>
+<kind>actor</kind>
+<description>American actor and humanitarian</description>
+<location>
+<city>Los Angeles</city>
+<state>CA</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://userserve-ak.last.fm/serve/_/14597061/George+Clooney+george_clooney400.jpg
+</source>
+<description>George Clooney</description>
+</image>
+<image>
+<source>
+http://cdn.sheknows.com/articles/george-clooney-hope-for-haiti-now.jpg
+</source>
+<description>Hope for Haiti - George Clooney</description>
+</image>
+<image>
+<source>
+http://www.clevelandleader.com/files/clooney-un.jpg
+</source>
+<description>
+George Clooney: The United Nations Messenger of Peace
+</description>
+</image>
+<image>
+<source>
+http://cdn.sheknows.com/articles/2010/10/clooney-in-sudan.jpg
+</source>
+<description>George Clooney in Sudan</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Los+Angeles,+CA&amp;aq=0&amp;oq=Los&amp;sll=38.895112,-77.036366&amp;sspn=0.216705,0.528374&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Los+Angeles,+California&amp;z=10&amp;ll=34.052234,-118.243685&amp;output=embed
+</source>
+<description>Location of George Clooney</description>
+</map>
+</maps>
+<videos>
+<youtube>DnIIwV0lqqM</youtube>
+<youtube>9pFSe2ALUNU</youtube>
+</videos>
+<social/>
+<citations/>
+<external-links/>
+<crisis-refs>hurricane-katrina haiti-earthquake</crisis-refs>
+<organization-refs>united-nations happy-hearts-fund</organization-refs>
+</person>
+<person id="george-papandereou">
+<name>George Papandreou</name>
+<kind>Politician (Former Prime Minister of Greece)</kind>
+<description>Former Prime Minister of Greece</description>
+<location>
+<country>Greece</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/b/b2/Papandreou_handover_cropped.jpg
+</source>
+<description>Wikipedia Photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Athens,+Greece&amp;aq=&amp;sll=54.572062,15.292969&amp;sspn=57.813166,173.144531&amp;ie=UTF8&amp;hq=&amp;hnear=Athens,+Kentrikos+Tomeas+Athinon,+Greece&amp;t=m&amp;z=12&amp;ll=37.983715,23.72931
+</source>
+<description>Google maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>#george-papandreou</twitter>
+<youtube>SW99H1uYP88</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/George_Papandreou</source>
+<description>Wikipedia Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.bbc.co.uk/news/world-europe-15551196</source>
+<description>BBC News Article</description>
+</external-link>
+</external-links>
+<crisis-refs>eurozone-crisis</crisis-refs>
+<organization-refs>european-central-bank</organization-refs>
+</person>
+<person id="george-w-bush">
+<name>George H. W. Bush</name>
+<kind>Former President</kind>
+<description>
+George Walker Bush (born July 6, 1946) is an American politician and businessman who was the 43rd President of the United States from 2001 to 2009 and the 46th Governor of Texas from 1995 to 2000.
+</description>
+<location>
+<city>Dallas</city>
+<state>TX</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/SEu2a.jpg</source>
+<description>Headshot</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Dallas,+TX&amp;hl=en&amp;sll=29.316339,-94.798279&amp;sspn=0.544818,0.903625&amp;oq=Dallas,+TX&amp;hnear=Dallas,+Texas&amp;t=m&amp;ie=UTF8&amp;hq=&amp;z=10&amp;iwloc=A&amp;output=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos>
+<youtube>YMiqEUBux3o</youtube>
+</videos>
+<social>
+<facebook>georgewbush</facebook>
+<twitter>@GeorgeBush</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/George_W._Bush</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://www.whitehouse.gov/about/presidents/georgewbush
+</source>
+<description>White House Biography</description>
+</external-link>
+</external-links>
+<crisis-refs>hurricane-ike</crisis-refs>
+</person>
+<person id="george_w_bush">
+<name>George W Bush</name>
+<kind>President</kind>
+<description>US President from 2001-2009</description>
+<location>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/220px-George-W-Bush.jpeg
+</source>
+<description>Portrait</description>
+</image>
+<image>
+<source>
+http://georgewbush-whitehouse.archives.gov/news/releases/2003/09/images/20030917_p33594-12a-515h.jpg
+</source>
+<description>Bush is briefed on Hurrican Isabel</description>
+</image>
+</images>
+<maps/>
+<videos/>
+<social/>
+<citations/>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/George_W._Bush</source>
+<description>Wikipedia article on George W Bush</description>
+</external-link>
+<external-link>
+<source>
+http://www.dailykos.com/story/2005/09/06/146155/-Has-Bush-s-FEMA-always-sucked
+</source>
+<description>Bush's FEMA</description>
+</external-link>
+</external-links>
+<crisis-refs>isabel</crisis-refs>
+<organization-refs>us_govt</organization-refs>
+</person>
+<person id="jonas-brothers">
+<name>Jonas Brothers</name>
+<kind>Pop Band</kind>
+<description>
+The Jonas Brothers are an American boy band. Formed in 2005, they have gained popularity from the Disney Channel children's television network and consists of three brothers from the shore region of New Jersey; Paul Kevin Jonas II, Joseph Adam Jonas and Nicholas Jerry Jonas
+</description>
+<location>
+<city>New Jersey</city>
+<state>NJ</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/vfPrl.jpg</source>
+<description>
+From left to right: Nick, Joe, and Kevin Jonas at the Grammy Auction, in February 2009.
+</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>8JUvbJekM88</youtube>
+</videos>
+<social>
+<facebook>JonasBrothers</facebook>
+<twitter>@JonasBrothers</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Jonas_Brothers</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://jonasbrothers2012.com/</source>
+<description>Official Website</description>
+</external-link>
+</external-links>
+<organization-refs>habitat-for-humanity</organization-refs>
+</person>
+<person id="kevin-costner">
+<name>Kevin Costner</name>
+<kind>Actor</kind>
+<description>
+Kevin Michael Costner (born January 18, 1955) is an American actor, singer, musician, producer, director, and businessman. He has won two Academy Awards, two Golden Globe Awards, and one Emmy Award, and has been nominated for three BAFTA (British Academy of Film and Television Arts) Awards.
+</description>
+<location>
+<city>Lynwood</city>
+<state>CA</state>
+<country>United States of America</country>
+</location>
+<images>
+<image>
+<source>http://i.imgur.com/wrSl0.jpg</source>
+<description>Kevin Costner</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>2wjh0N1EzPI</youtube>
+</videos>
+<social>
+<facebook>kevincostnerandmodernwest</facebook>
+<twitter>@modernwest</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Kevin_Costner</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.kevincostner.com/</source>
+<description>Official Website</description>
+</external-link>
+</external-links>
+<crisis-refs>deepwater-horizon-oil-spill</crisis-refs>
+</person>
+<person id="michael-bloomberg">
+<name>Michael Bloomberg</name>
+<kind>Politician</kind>
+<description>
+Bloomberg was born February 14, 1942 in Boston Massachussetts. Bloomberg attended Johns Hopkins University where he majored in Electrical Engineering. He received his MBA in 1966 from Harvard Business School. In 1973, Bloomberg became a general partner at Salomon Brothers, a bulge-bracket Wall Street investment bank, where he headed equity trading, and later, systems development. Bloomberg went on to set up a company named Innovative Market Systems. His business plan was based on the realization that Wall Street was willing to pay for high quality business information delivered as quickly as possible and in as many usable forms as technically possible. In 1982, Merrill Lynch became the new company's first customer, installing 22 of the company's Market Master terminals and investing $30 million in the company. The company was renamed Bloomberg L.P. Bloomberg went to on to be the 108th Mayor of New York City in 2001.
+</description>
+<location>
+<city>New York City</city>
+<state>NY</state>
+<country>USA</country>
+<latitude>40.712729</latitude>
+<longitude>-74.005926</longitude>
+</location>
+<images>
+<image>
+<source>
+http://acoomans-cs373-wc.appspot.com/img/michael-bloomberg.jpg
+</source>
+<description>michael-bloomberg.jpg</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+http://maps.googleapis.com/maps/api/staticmap?center=40.712729,-74.005926&amp;zoom=15&amp;size=270x270&amp;sensor=false
+</source>
+<description>NY City Hall</description>
+</map>
+</maps>
+<videos>
+<youtube>iqsGEJ3Irz4</youtube>
+<youtube>Gq5paYFeD6A</youtube>
+</videos>
+<social>
+<facebook>mikebloomberg</facebook>
+<twitter>@MikeBloomberg</twitter>
+<youtube>mikebloomberg</youtube>
+</social>
+<citations>
+<citation>
+<source>http://www.mikebloomberg.com/</source>
+<description>Michael Bloomberg website</description>
+</citation>
+<citation>
+<source>http://en.wikipedia.org/wiki/Michael_Bloomberg</source>
+<description>Michael Bloomberg - Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://www.mikebloomberg.com/</source>
+<description>Michael Bloomberg website</description>
+</external-link>
+</external-links>
+</person>
+<person id="mohammed-ajmal-amir-kasab">
+<name>Mohammed Ajmal Amir Kasab</name>
+<kind>Terrorist</kind>
+<description>
+A Pakistani terrorist who was involved in the 2008 Mumbai attacks in India. Kasab is the only attacker captured alive by police and is currently in Indian custody. The Government of Pakistan initially denied that Kasab was from Pakistan, but in January 2009, they officially accepted that he is a Pakistani citizen. On 3 May 2010, an Indian court convicted him of murder, waging war on India, possessing explosives, and other charges. On 6 May 2010, the same trial court sentenced him to death on four counts and to a life sentence on five other counts. Kasab has been sentenced to death for attacking Mumbai and killing 166 people on 26 November 2008 along with nine terrorists.
+</description>
+<location>
+<country>Pakistan</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/en/c/ce/Mohammed_Ajmal_Kasab.jpg
+</source>
+<description>Wikimedia</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=204406865220396432103.00045c9d8b16af3ad1008&amp;ll=18.922445,72.832242&amp;spn=0.007054,0.007864&amp;t=m&amp;source=embed
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>#mohammed-ajmal-amir-kasab</twitter>
+<youtube>zi6haDMQGbo</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Ajmal_Kasab</source>
+<description>Wikipedia Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://timesofindia.indiatimes.com/topic/Ajmal-Kasab
+</source>
+<description>The Times of India</description>
+</external-link>
+</external-links>
+<crisis-refs>mumbai-attacks-2008</crisis-refs>
+<organization-refs>lashkar-e-taiba</organization-refs>
+</person>
+<person id="naoto-kan">
+<name>Naoto Kan</name>
+<kind>world-leader</kind>
+<description>Japanese PM</description>
+<location>
+<city>Tokyo</city>
+<country>Japan</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/6/61/Naoto_Kan_cropped_3_Naoto_Kan_2_20110129.jpg
+</source>
+<description>Naoto Kan speaking</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Tokyo,+Japan&amp;aq=2&amp;oq=tokyo&amp;sll=34.052234,-118.243685&amp;sspn=0.922747,2.113495&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Tokyo,+Japan&amp;z=11&amp;ll=35.689488,139.691706&amp;output=embed
+</source>
+<description>Location of Naoto Kan</description>
+</map>
+</maps>
+<videos>
+<youtube>ZEqgFgRFjCQ</youtube>
+</videos>
+<social/>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Naoto_Kan</source>
+<description>Wikipedia page for Naoto Kan</description>
+</citation>
+</citations>
+<external-links/>
+<crisis-refs>tohoku-earthquake-and-tsunami</crisis-refs>
+<organization-refs>united-nations</organization-refs>
+</person>
+<person id="paul-rusesabagina">
+<name>Paul Rusesabagina</name>
+<kind>
+Humanitarian that was helped against the Rwanda Genocide
+</kind>
+<description>
+A Rwandan humanitarian known for hiding and protecting 1,268 refugees during the Rwandan Genocide. None of those refugees were hurt or killed during the attacks. He was the assistant manager of the Sabena Hotel des Mille Collines before he became the manager of the Hotel des Diplomates, both in Kigali, Rwanda. During the genocide he used his influence and connections as temporary manager of the 'Mille Collines' to shelter 1,268 Tutsis and Hutus from being slaughtered by the Interahamwe militia.
+</description>
+<location>
+<city>Murama</city>
+<country>Pakistan</country>
+</location>
+<images>
+<image>
+<source>
+http://georgewbush-whitehouse.archives.gov/news/releases/2005/11/images/20051109-2_p110905pm-0363jpg-515h.jpg
+</source>
+<description>Wikipedia Photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Murama,+Rwanda&amp;aq=&amp;sll=30.307761,-97.753401&amp;sspn=0.751667,0.778656&amp;ie=UTF8&amp;hq=&amp;hnear=Murama,+Nyanza,+Southern+Province,+Rwanda&amp;ll=-2.274245,29.697716&amp;spn=0.869949,0.778656&amp;t=m&amp;z=10
+</source>
+<description>Google maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>#paul-rusesabagina</twitter>
+<youtube>bMJJny1mhqw</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Paul_Rusesabagina</source>
+<description>Wikipedia Article</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Hotel_Rwanda</source>
+<description>Wikipedia Article</description>
+</external-link>
+<external-link>
+<source>http://www.imdb.com/title/tt0395169/</source>
+<description>IMDB Page</description>
+</external-link>
+<external-link>
+<source>http://hrrfoundation.org/</source>
+<description>HRR Foundation Homepage</description>
+</external-link>
+</external-links>
+<crisis-refs>rwanda-genocide</crisis-refs>
+<organization-refs>united-nations</organization-refs>
+</person>
+<person id="petra-nemcova">
+<name>Petra Nemcova</name>
+<kind>model</kind>
+<description>Czech model and humanitarian</description>
+<location>
+<country>Czech Republic</country>
+</location>
+<images>
+<image>
+<source>
+http://www.happyheartsfund.org/images/Petra-Nemcova.jpg
+</source>
+<description>Petra Nemcova: Happy Hearts Fund founder</description>
+</image>
+<image>
+<source>
+http://www.peoplequiz.com/images/bios/petra_nemcova.jpg-11741.jpg
+</source>
+<description>Petra Nemcova</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Czech+Republic&amp;aq=0&amp;oq=Czech&amp;sll=35.689488,139.691706&amp;sspn=0.452281,1.056747&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Czech+Republic&amp;z=8&amp;ll=49.817492,15.472962&amp;output=embed
+</source>
+<description>Location of Petra Nemcova</description>
+</map>
+</maps>
+<videos>
+<youtube>T9FRX5vBnlI</youtube>
+<youtube>RMard-HQjYA</youtube>
+</videos>
+<social/>
+<citations/>
+<external-links/>
+<crisis-refs>indian-ocean-earthquake-and-tsunami</crisis-refs>
+<organization-refs>happy-hearts-fund united-nations</organization-refs>
+</person>
+<person id="putin">
+<name>Vladimir Putin</name>
+<alternate-names>Ostrich Legs</alternate-names>
+<kind>President of the Russian Federation</kind>
+<description>
+Vladimir Putin, in full Vladimir Vladimirovich Putin (born October 7, 1952, Leningrad, Russia, U.S.S.R. [now St. Petersburg, Russia]), Russian intelligence officer and politician who served as president (1999–2008, 2012– ) of Russia and also was the country’s prime minister (1999, 2008–12). Putin studied law at Leningrad State University, where his tutor was Anatoly Sobchak, later one of the leading reform politicians of the perestroika period. Putin served 15 years as a foreign intelligence officer for the KGB (Committee for State Security), including six years in Dresden, East Germany. Putin has been widely credited for overseeing a return of political stability and economic progress to Russia, ending the crisis of the 1990s. During Putin's first premiership and presidency (1999–2008), real incomes increased by a factor of 2.5, real wages more than tripled; unemployment and poverty more than halved and the Russians' self-assessed life satisfaction rose significantly. Putin's first presidency was marked by high economic growth: the Russian economy grew for eight straight years, seeing GDP increase by 72% in PPP (sixfold in nominal). These achievements have been ascribed by analysts to good macroeconomic management, important fiscal reforms, increasing capital inflows, access to low-cost external financing and a five - fold increase in the price of oil and gas which constitute the majority of Russian exports.
+</description>
+<location>
+<city>Moscow</city>
+<country>Russian Federation</country>
+</location>
+<images>
+<image>
+<source>
+http://www.csmonitor.com/var/ezflow_site/storage/images/media/images/1230-russia-putin-400x600/7165437-1-eng-US/1230-Russia-Putin-400x600_full_600.jpg
+</source>
+<description>Vladimir Putin's photo</description>
+</image>
+<image>
+<source>
+http://www.xtimeline.com/__UserPic_Large/4316/ELT200801170729478882525.JPG
+</source>
+<description>Vladimir Putin's photo</description>
+</image>
+<image>
+<source>
+http://media.web.britannica.com/eb-media/83/90083-004-1B3301F0.jpg
+</source>
+<description>Vladimir Putin's photo</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>TNiWnSOsAnE</youtube>
+<youtube>ZR84oXysqoA</youtube>
+<vimeo>38458300</vimeo>
+</videos>
+<social>
+<facebook>vladimirputinandrussia</facebook>
+<twitter>@kremlinrussia_e</twitter>
+<youtube>HCk-Po8D6ZZbo</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikiquote.org/wiki/Vladimir_Putin</source>
+<description>Vladimir Putin's quotes</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://www.britannica.com/EBchecked/topic/484357/Vladimir-Putin
+</source>
+<description>Biography</description>
+</external-link>
+</external-links>
+<crisis-refs>beslan</crisis-refs>
+<organization-refs>nyfd</organization-refs>
+</person>
+<person id="rick-perry">
+<name>Rick Perry</name>
+<alternate-names>James Richard Perry</alternate-names>
+<kind>Political Leader</kind>
+<description>Rick Perry is the current Governor of Texas.</description>
+<location>
+<city>Paint Creek</city>
+<state>TX</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://governor.state.tx.us/multimedia/photos/gov-perry-headshot.jpg
+</source>
+<description>Rick Perry's Photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Paint+Creek,+TX&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.61295,1.391144&amp;oq=paint+creek,+TX&amp;t=h&amp;hnear=Paint+Creek&amp;z=7
+</source>
+<description>Rick Perry's city of birth Map</description>
+</map>
+</maps>
+<videos>
+<youtube>vpH435AJhl4</youtube>
+</videos>
+<social>
+<facebook>GovernorPerry</facebook>
+<twitter>@GovernorPerry</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Rick_Perry</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://governor.state.tx.us/</source>
+<description>Official Website of the Office of the Governor</description>
+</external-link>
+</external-links>
+<crisis-refs>bastrop-county-wildfire</crisis-refs>
+<organization-refs>texas-military-forces</organization-refs>
+</person>
+<person id="seung-hui-cho">
+<name>Seung-Hui Cho</name>
+<kind>Killer Asian-American student</kind>
+<description>
+A spree killer who killed 32 people and wounded 23 others on April 16, 2007, at Virginia Polytechnic Institute and State University in Blacksburg, Virginia. He was a senior-level undergraduate student at the university. The shooting rampage came to be known as the "Virginia Tech massacre."[3][4] Cho later committed suicide after law enforcement officers breached the doors of the building where the majority of the shooting had taken place.
+</description>
+<location>
+<city>Seoul</city>
+<country>South Korea</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/en/5/53/Cho_Seung-hui_3.jpg
+</source>
+<description>Wikipedia Photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=seoul,+south+korea&amp;sll=30.307761,-97.753401&amp;sspn=0.751667,0.770416&amp;ie=UTF8&amp;hq=&amp;hnear=Seoul,+South+Korea&amp;t=m&amp;z=10&amp;ll=37.566535,126.977969
+</source>
+<description>Google Maps</description>
+</map>
+</maps>
+<videos/>
+<social>
+<twitter>#seung-hui-cho</twitter>
+<youtube>KElyLrrTLB0</youtube>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Seung-Hui_Cho</source>
+<description>Wikipedia Article on Seung-Hui Cho</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://thelede.blogs.nytimes.com/2007/08/30/seung-hui-cho-who-is-this-man/
+</source>
+<description>
+New York Times Article. Seung-Hui Cho: Who Is This Man?
+</description>
+</external-link>
+<external-link>
+<source>
+http://www.prisonplanet.com/articles/april2007/190407mindcontrolled.htm
+</source>
+<description>
+Prison Planet Article. Seung-Hui Cho was a Mind Controlled Assassin
+</description>
+</external-link>
+</external-links>
+<crisis-refs>virginia-tech-massacre</crisis-refs>
+<organization-refs>national-rifle-association</organization-refs>
+</person>
+<person id="susilo-bambang-yudhoyono">
+<name>Susilo Yudhoyono</name>
+<alternate-names>Susilo Yudhoyono</alternate-names>
+<kind>Political Leader</kind>
+<description>
+Susilo Bambang Yudhoyono is an Indonesian politician, retired army officer and President of Indonesia since 2004.
+</description>
+<location>
+<city>Tremas</city>
+<state>NA</state>
+<country>Indonesia</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/d/d6/SusiloBambangYudhoyono.jpg
+</source>
+<description>Susilo Bambang Yudhoyono's Photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Tremas,+Arjosari,+Jawa+Timur,+Indonesia&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.61295,1.391144&amp;oq=Tremas+In&amp;t=h&amp;hnear=Tremas,+Arjosari,+Pacitan,+East+Java,+Indonesia&amp;z=12
+</source>
+<description>Susilo Bambang Yudhoyono's city of birth Map</description>
+</map>
+</maps>
+<videos>
+<youtube>SBX4W4iMxxQ</youtube>
+</videos>
+<social>
+<facebook>sbyudhoyono</facebook>
+<twitter>@presidenSBY</twitter>
+</social>
+<citations>
+<citation>
+<source>
+http://en.wikipedia.org/wiki/Susilo_Bambang_Yudhoyono
+</source>
+<description>Wikipedia</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>
+http://www.britannica.com/EBchecked/topic/1004908/Susilo-Bambang-Yudhoyono
+</source>
+<description>Britannica</description>
+</external-link>
+</external-links>
+<crisis-refs>java-earthquake</crisis-refs>
+<organization-refs>international-rescue-committee</organization-refs>
+</person>
+<person id="taylor-swift">
+<name>Taylor Swift</name>
+<alternate-names>Taylor Alison Swift</alternate-names>
+<kind>Singer</kind>
+<description>
+Taylor Swift moved to Nashville, TN when she was fourteen years old to pursue a career in country music. She became a country star in 2006 with her album entitled "Taylor Swift."
+</description>
+<location>
+<city>Wyomissing</city>
+<state>PA</state>
+<country>United States</country>
+</location>
+<images>
+<image>
+<source>
+http://www.955fmwsm.com/Portals/6/taylor%20swift%20blonde%20hair.jpg
+</source>
+<description>Taylor Swift's Photo</description>
+</image>
+</images>
+<maps>
+<map>
+<source>
+https://maps.google.com/maps?q=Wyomissing,+Pennsylvania&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.61295,1.391144&amp;t=h&amp;hnear=Wyomissing,+Berks,+Pennsylvania&amp;z=13
+</source>
+<description>Taylor Swift's city of birth Map</description>
+</map>
+</maps>
+<videos>
+<youtube>WA4iX5D9Z64</youtube>
+</videos>
+<social>
+<facebook>TaylorSwift</facebook>
+<twitter>@taylorswift13</twitter>
+</social>
+<citations>
+<citation>
+<source>http://en.wikipedia.org/wiki/Taylor_Swift</source>
+<description>Wikipedia</description>
+</citation>
+<citation>
+<source>
+http://www.huffingtonpost.com/2011/05/25/taylor-swift-tornado-victims_n_866867.html
+</source>
+<description>Taylor Swift helps Joplin</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://taylorswift.com/</source>
+<description>Taylor Swift's Official Website</description>
+</external-link>
+</external-links>
+<crisis-refs>joplin-tornado</crisis-refs>
+<organization-refs>american-red-cross</organization-refs>
+</person>
+<person id="yaoming">
+<name>Yao Ming</name>
+<alternate-names>Shaquie Chan</alternate-names>
+<kind>NBA Player</kind>
+<description>
+The 7-foot 6-inch Yao Ming was drafted by the Houston Rockets as the first pick in the 2002 NBA draft. That season he was an All-Star and was on the league's All-Rookie team. Yao earned all-star honors in each of the following six seasons and helped the Rockets to playoff appearances in five of those years. Yao soon became the focus of the NBA's efforts to popularize the league around the globe. In June of 2008, he started the Yao Ming Foundation in response to the earthquake in the Sichuan Province of China.
+</description>
+<location>
+<city>Houston</city>
+<state>TX</state>
+<country>USA</country>
+</location>
+<images>
+<image>
+<source>
+http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/YaoMingonoffense2.jpg/399px-YaoMingonoffense2.jpg
+</source>
+<description>Wikimedia picture</description>
+</image>
+<image>
+<source>
+http://saceweb.com/yahoo_site_admin/assets/images/Yaoming_Earthquate_Donation_resize.13594706.JPG
+</source>
+<description>Yao Ming picture</description>
+</image>
+</images>
+<maps/>
+<videos>
+<youtube>NJtmLcwNcZg</youtube>
+<youtube>T8RvV1m19BI</youtube>
+<youtube>r8STO24L_NY</youtube>
+</videos>
+<social>
+<facebook>Yao</facebook>
+<twitter>@YaoMing</twitter>
+<youtube>HCjcRbqn3UGxE</youtube>
+</social>
+<citations>
+<citation>
+<source>
+http://www.brainyquote.com/quotes/authors/y/yao_ming.html
+</source>
+<description>Yao Ming Quotes</description>
+</citation>
+</citations>
+<external-links>
+<external-link>
+<source>http://en.wikipedia.org/wiki/Yao_Ming</source>
+<description>Wikipedia</description>
+</external-link>
+</external-links>
+<crisis-refs>beslan</crisis-refs>
+<organization-refs>nyfd</organization-refs>
+</person>
+</people>
+</world-crises>
