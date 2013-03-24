@@ -1,13 +1,13 @@
-cs373-wc1
+GAE World Crisis Website
 =========
 
 Team: Portal
 Members: 
+     Brett Canino
      Ulan Murzatayev
      Duy Tran
      Azamat Kalmurzayev
      Hsiao Chung
-     Brett Canino
      Anirudh Sridhar
 
 app engine link: http://ulan90-cs373-wc.appspot.com
